@@ -75,11 +75,50 @@ const buildDateLabels = (data: any[]) => {
   return data.map((row) => new Date(row.attributes.date).toLocaleDateString());
 };
 
-const filterCategoricalData = (data: {attributes: {
-  [key: string]: string,
-}}[],key: string,value: string) => {
-  return data.filter(entry => entry.attributes[key] === value )
-}
+const filterCategoricalData = (
+  data: {
+    attributes: {
+      [key: string]: string;
+    };
+  }[],
+  key: string,
+  value: string
+) => {
+  return data.filter((entry) => entry.attributes[key] === value);
+};
+
+const ageKeys = [
+  "0-4 yrs",
+  "5-11 yrs",
+  "12-17 yrs",
+  "18-24 yrs",
+  "25-34 yrs",
+  "35-44 yrs",
+  "45-54 yrs",
+  "55-64 yrs",
+  "65-74 yrs",
+  "75-84 yrs",
+  "85+ yrs",
+];
+
+const raceKeys = [
+  "Asian/PI",
+  "Black",
+  "Hispanic",
+  "White",
+  "Other Race",
+]
+
+const sexKeys = [
+  "Male", "Female", "Unknown Sex"
+]
 
 export type { ChartDataStructure };
-export { SingleSeriesChart, MultiSeriesChart, sortDataByDate, buildDateLabels, filterCategoricalData };
+export {
+  SingleSeriesChart,
+  MultiSeriesChart,
+  sortDataByDate,
+  buildDateLabels,
+  filterCategoricalData,
+  ageKeys,raceKeys, sexKeys
+};

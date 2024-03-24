@@ -1,219 +1,108 @@
 "use client";
 const data: any[] = require("../source/static_counts/vaccinations/doses.json");
-import { MultiSeriesChart, filterCategoricalData } from "./utils/helpers";
+import {
+  MultiSeriesChart,
+  filterCategoricalData,
+  ageKeys,
+  raceKeys,
+  sexKeys,
+} from "./utils/helpers";
+import {
+  ageMapping,
+  raceMapping,
+  sexMapping,
+} from "@/components/colors/colors";
 
 const raceLabels = ["Races/Ethnicities"];
 
-const vaxByRace = new MultiSeriesChart("Vaccinations by Race", raceLabels, [
-  {
-    label: "Asian/PI",
-    data: filterCategoricalData(data, "category", "Asian/PI"),
-    key: "num_totalvalid",
-    backgroundColor: "purple",
-  },
-  {
-    label: "Hispanic",
-    data: filterCategoricalData(data, "category", "Hispanic"),
-    key: "num_totalvalid",
-    backgroundColor: "orange",
-  },
-  {
-    label: "Black",
-    data: filterCategoricalData(data, "category", "Black"),
-    key: "num_totalvalid",
-    backgroundColor: "green",
-  },
-  {
-    label: "White",
-    data: filterCategoricalData(data, "category", "White"),
-    key: "num_totalvalid",
-    backgroundColor: "blue",
-  },
-  {
-    label: "Other",
-    data: filterCategoricalData(data, "category", "Other Race"),
-    key: "num_totalvalid",
-    backgroundColor: "grey",
-  },
-  {
-    label: "Unknown",
-    data: filterCategoricalData(data, "category", "Unknown Race"),
-    key: "num_totalvalid",
-    backgroundColor: "black",
-  },
-]);
+//Race
+const vaxByRace = new MultiSeriesChart(
+  "Vaccinations by Race",
+  raceLabels,
+  raceKeys.map((race) => {
+    return {
+      label: race,
+      data: filterCategoricalData(data, "category", race),
+      key: "num_totalvalid",
+      backgroundColor: raceMapping[race],
+    };
+  })
+);
 
 const vaxByRacePercent = new MultiSeriesChart(
   "Vaccinations by Race by %",
   raceLabels,
-  [
-    {
-      label: "Asian/PI",
-      data: filterCategoricalData(data, "category", "Asian/PI"),
+  raceKeys.map((race, i) => {
+    return {
+      label: race,
+      data: filterCategoricalData(data, "category", race),
       key: "perc_pop_fully_vaxed",
-      backgroundColor: "purple",
-    },
-    {
-      label: "Hispanic",
-      data: filterCategoricalData(data, "category", "Hispanic"),
-      key: "perc_pop_fully_vaxed",
-      backgroundColor: "orange",
-    },
-    {
-      label: "Black",
-      data: filterCategoricalData(data, "category", "Black"),
-      key: "perc_pop_fully_vaxed",
-      backgroundColor: "green",
-    },
-    {
-      label: "White",
-      data: filterCategoricalData(data, "category", "White"),
-      key: "perc_pop_fully_vaxed",
-      backgroundColor: "blue",
-    },
-  ]
+      backgroundColor: raceMapping[race],
+    };
+  })
 );
+
+//Age
 
 const vaxByAge = new MultiSeriesChart(
   "Vaccinations by Age",
   ["Age Groups"],
-  [
-    {
-      label: "0-4 yrs",
-      data: filterCategoricalData(data, "category", "0-4 yrs"),
+  ageKeys.map((age) => {
+    return {
+      label: age,
+      data: filterCategoricalData(data, "category", age),
       key: "num_totalvalid",
-      backgroundColor: "purple",
-    },
-    {
-      label: "5-11 yrs",
-      data: filterCategoricalData(data, "category", "5-11 yrs"),
-      key: "num_totalvalid",
-      backgroundColor: "orange",
-    },
-    {
-      label: "12-17 yrs",
-      data: filterCategoricalData(data, "category", "12-17 yrs"),
-      key: "num_totalvalid",
-      backgroundColor: "green",
-    },
-    {
-      label: "18-24 yrs",
-      data: filterCategoricalData(data, "category", "18-24 yrs"),
-      key: "num_totalvalid",
-      backgroundColor: "blue",
-    },
-    {
-      label: "25-34 yrs",
-      data: filterCategoricalData(data, "category", "25-34 yrs"),
-      key: "num_totalvalid",
-      backgroundColor: "blue",
-    },
-    {
-      label: "35-44 yrs",
-      data: filterCategoricalData(data, "category", "35-44 yrs"),
-      key: "num_totalvalid",
-      backgroundColor: "blue",
-    },
-    {
-      label: "45-54 yrs",
-      data: filterCategoricalData(data, "category", "45-54 yrs"),
-      key: "num_totalvalid",
-      backgroundColor: "blue",
-    },
-    {
-      label: "55-64 yrs",
-      data: filterCategoricalData(data, "category", "55-64 yrs"),
-      key: "num_totalvalid",
-      backgroundColor: "blue",
-    },
-    {
-      label: "65-74 yrs",
-      data: filterCategoricalData(data, "category", "65-74 yrs"),
-      key: "num_totalvalid",
-      backgroundColor: "blue",
-    },
-    {
-      label: "75-84 yrs",
-      data: filterCategoricalData(data, "category", "75-84 yrs"),
-      key: "num_totalvalid",
-      backgroundColor: "blue",
-    },
-    {
-      label: "85+ yrs",
-      data: filterCategoricalData(data, "category", "85+ yrs"),
-      key: "num_totalvalid",
-      backgroundColor: "blue",
-    },
-  ]
+      backgroundColor: ageMapping[age],
+    };
+  })
 );
 
-const vaxByAgePercent = new MultiSeriesChart("Vaccinations by Age by %", ["Age Groups"], [
-    {
-      label: "0-4 yrs",
-      data: filterCategoricalData(data, "category", "0-4 yrs"),
+const vaxByAgePercent = new MultiSeriesChart(
+  "Vaccinations by Age by %",
+  ["Age Groups"],
+  ageKeys.map((age) => {
+    return {
+      label: age,
+      data: filterCategoricalData(data, "category", age),
       key: "perc_pop_fully_vaxed",
-      backgroundColor: "purple",
-    },
-    {
-      label: "5-11 yrs",
-      data: filterCategoricalData(data, "category", "5-11 yrs"),
-      key: "perc_pop_fully_vaxed",
-      backgroundColor: "orange",
-    },
-    {
-      label: "12-17 yrs",
-      data: filterCategoricalData(data, "category", "12-17 yrs"),
-      key: "perc_pop_fully_vaxed",
-      backgroundColor: "green",
-    },
-    {
-      label: "18-24 yrs",
-      data: filterCategoricalData(data, "category", "18-24 yrs"),
-      key: "perc_pop_fully_vaxed",
-      backgroundColor: "blue",
-    },
-    {
-      label: "25-34 yrs",
-      data: filterCategoricalData(data, "category", "25-34 yrs"),
-      key: "perc_pop_fully_vaxed",
-      backgroundColor: "blue",
-    },
-    {
-      label: "35-44 yrs",
-      data: filterCategoricalData(data, "category", "35-44 yrs"),
-      key: "perc_pop_fully_vaxed",
-      backgroundColor: "blue",
-    },
-    {
-      label: "45-54 yrs",
-      data: filterCategoricalData(data, "category", "45-54 yrs"),
-      key: "perc_pop_fully_vaxed",
-      backgroundColor: "blue",
-    },
-    {
-      label: "55-64 yrs",
-      data: filterCategoricalData(data, "category", "55-64 yrs"),
-      key: "perc_pop_fully_vaxed",
-      backgroundColor: "blue",
-    },
-    {
-      label: "65-74 yrs",
-      data: filterCategoricalData(data, "category", "65-74 yrs"),
-      key: "perc_pop_fully_vaxed",
-      backgroundColor: "blue",
-    },
-    {
-      label: "75-84 yrs",
-      data: filterCategoricalData(data, "category", "75-84 yrs"),
-      key: "perc_pop_fully_vaxed",
-      backgroundColor: "blue",
-    },
-    {
-      label: "85+ yrs",
-      data: filterCategoricalData(data, "category", "85+ yrs"),
-      key: "perc_pop_fully_vaxed",
-      backgroundColor: "blue",
-    },
-  ]);
+      backgroundColor: ageMapping[age],
+    };
+  })
+);
 
-export { vaxByRace, vaxByRacePercent, vaxByAge, vaxByAgePercent };
+//Sex
+
+const vaxBySex = new MultiSeriesChart(
+  "Vaccinations by Sex",
+  ["Sex"],
+  sexKeys.map((sex) => {
+    return {
+      label: sex,
+      data: filterCategoricalData(data, "category", sex),
+      key: "num_totalvalid",
+      backgroundColor: sexMapping[sex],
+    };
+  })
+);
+
+const vaxBySexPercent = new MultiSeriesChart(
+  "Vaccinations by Sex",
+  ["Sex"],
+  sexKeys.map((sex) => {
+    return {
+      label: sex,
+      data: filterCategoricalData(data, "category", sex),
+      key: "perc_pop_fully_vaxed",
+      backgroundColor: sexMapping[sex],
+    };
+  })
+);
+
+export {
+  vaxByRace,
+  vaxByRacePercent,
+  vaxByAge,
+  vaxByAgePercent,
+  vaxBySex,
+  vaxBySexPercent,
+};

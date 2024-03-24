@@ -3,7 +3,12 @@ import StatCard from "@/components/ui/StatCard";
 import type { Metadata } from "next";
 import summarizedToDates from "@/data/source/static_counts/summarized";
 import { BarChart } from "@/components/charts/BarChart";
-import { vaxByRace, vaxByRacePercent, vaxByAge, vaxByAgePercent } from "@/data/transformed/vax_breakdown";
+import {
+  vaxByRace,
+  vaxByRacePercent,
+  vaxByAge,
+  vaxByAgePercent, vaxBySex, vaxBySexPercent
+} from "@/data/transformed/vax_breakdown";
 
 export const metadata: Metadata = {
   title: "OCCOVID | Vaccinations",
@@ -14,7 +19,6 @@ export default function Vaccinations() {
   return (
     <main className="">
       <Shell pageURL="/vaccinations">
-        {/* Cases */}
         <div className="pageTitle">Vaccinations</div>
         <div className="subTitle">as of December 11, 2023</div>
         <div className="mt-4 grid gap-4 md:grid-cols-2 lg:grid-cols-5">
@@ -41,12 +45,13 @@ export default function Vaccinations() {
             value={summarizedToDates.totalDoses.num_boosters}
           />
         </div>
+        {/* Race */}
         <br />
         <hr />
         <br />
         <div className="sectionTitle">By Race/Ethnicity</div>
         <br />
-        <div className="grid gap-4 grid-cols-2">
+        <div className="grid gap-4 md:grid-cols-2">
           <BarChart data={vaxByRace} />
           <BarChart
             data={vaxByRacePercent}
@@ -58,13 +63,30 @@ export default function Vaccinations() {
             }}
           />
         </div>
+        {/* Age */}
         <br />
         <div className="sectionTitle">By Age</div>
         <br />
-        <div className="grid gap-4 grid-cols-2">
+        <div className="grid gap-4 md:grid-cols-2">
           <BarChart data={vaxByAge} />
           <BarChart
             data={vaxByAgePercent}
+            scaleOptions={{
+              y: {
+                min: 0,
+                max: 100,
+              },
+            }}
+          />
+        </div>
+        <br />
+        {/*  Sex*/}
+        <div className="sectionTitle">By Sex</div>
+        <br />
+        <div className="grid gap-4 md:grid-cols-2">
+          <BarChart data={vaxBySex} />
+          <BarChart
+            data={vaxBySexPercent}
             scaleOptions={{
               y: {
                 min: 0,

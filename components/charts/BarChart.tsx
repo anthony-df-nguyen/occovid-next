@@ -1,4 +1,4 @@
-"use client";
+"use client"
 import React from "react";
 import Card from "../ui/Card";
 import {
@@ -34,6 +34,7 @@ type Props = {
 export function BarChart({ data, scaleOptions }: Props) {
   const options = {
     responsive: true,
+    maintainAspectRatio: false,
     scales: scaleOptions,
     plugins: {
       legend: {
@@ -49,7 +50,9 @@ export function BarChart({ data, scaleOptions }: Props) {
   };
   return (
     <Card>
-      <Bar options={options} data={data} />
+      <div className="min-h-[300px]">
+        <Bar options={options} data={data} />
+      </div>
     </Card>
   );
 }
