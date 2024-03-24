@@ -1,11 +1,17 @@
 "use client";
 const data: any[] = require("../source/static_counts/vaccinations/doses.json");
+const timeData: any[] = require("../source/timeseries_data/doses.json");
+import { colors } from "@/components/colors/colors";
+import { time } from "console";
 import {
   MultiSeriesChart,
   filterCategoricalData,
   ageKeys,
   raceKeys,
   sexKeys,
+  sortDataByDate,
+  buildDateLabels,
+  SingleSeriesChart,
 } from "./utils/helpers";
 import {
   ageMapping,
@@ -14,6 +20,17 @@ import {
 } from "@/components/colors/colors";
 
 const raceLabels = ["Races/Ethnicities"];
+sortDataByDate(timeData, "vac_date");
+
+const dosesLabels = buildDateLabels(timeData, "vac_date");
+
+const doseHistory = new SingleSeriesChart(
+  "Daily Doses Administered",
+  dosesLabels,
+  timeData,
+  "valid_admin",
+  colors.Blue
+);
 
 //Race
 const vaxByRace = new MultiSeriesChart(
@@ -99,6 +116,7 @@ const vaxBySexPercent = new MultiSeriesChart(
 );
 
 export {
+  doseHistory,
   vaxByRace,
   vaxByRacePercent,
   vaxByAge,

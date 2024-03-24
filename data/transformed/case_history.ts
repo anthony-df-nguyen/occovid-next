@@ -5,9 +5,10 @@ import {
   sortDataByDate,
   buildDateLabels,
 } from "./utils/helpers";
+import { colors } from "@/components/colors/colors";
 
-sortDataByDate(data);
-const labels = buildDateLabels(data);
+sortDataByDate(data,"date");
+const labels = buildDateLabels(data, "date");
 
 // Case Data
 const total_cases_spec = new SingleSeriesChart(
@@ -15,28 +16,28 @@ const total_cases_spec = new SingleSeriesChart(
   labels,
   data,
   "total_cases_spec",
-  "red"
+  colors.Red
 );
 const daily_cases_spec = new SingleSeriesChart(
   "Daily Cases by Specimen Collection Date",
   labels,
   data,
   "daily_cases_spec",
-  "red"
+  colors.HotPink
 );
 const snf_cases = new SingleSeriesChart(
   "SNF Cases",
   labels,
   data,
   "snf_cases",
-  "orange"
+  colors.Orange
 );
 const homeless_cases = new SingleSeriesChart(
   "Homeless Cases",
   labels,
   data,
   "homeless_cases",
-  "purple"
+  colors.Purple
 );
 
 const jail_cases = new SingleSeriesChart(
@@ -44,7 +45,7 @@ const jail_cases = new SingleSeriesChart(
   labels,
   data,
   "jail_cases",
-  "yellow"
+  colors.Yellow
 );
 
 const recovered = new SingleSeriesChart(
@@ -52,7 +53,7 @@ const recovered = new SingleSeriesChart(
   labels,
   data,
   "recovered",
-  "blue"
+  colors.Cyan,
 );
 
 export {

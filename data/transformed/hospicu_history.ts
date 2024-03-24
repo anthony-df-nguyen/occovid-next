@@ -7,8 +7,8 @@ import {
   buildDateLabels,
 } from "./utils/helpers";
 
-sortDataByDate(data);
-const labels = buildDateLabels(data);
+sortDataByDate(data, "date");
+const labels = buildDateLabels(data, "date");
 
 const hospital = new SingleSeriesChart(
   "Daily Hospitalized",

@@ -16286,5 +16286,5461 @@
       "homeless_dth" : 23, 
       "ObjectId" : 1001
     }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1672560000000, 
+      "total_dth" : 7674, 
+      "daily_dth" : 0, 
+      "dth_date" : 8, 
+      "dth_date_yesterday" : 8, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7844, 
+      "snf_dth" : 1461, 
+      "alf_dth" : 746, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 23, 
+      "ObjectId" : 1007
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1672646400000, 
+      "total_dth" : 7674, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7845, 
+      "snf_dth" : 1461, 
+      "alf_dth" : 746, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 23, 
+      "ObjectId" : 1013
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1672732800000, 
+      "total_dth" : 7674, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7846, 
+      "snf_dth" : 1461, 
+      "alf_dth" : 746, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 23, 
+      "ObjectId" : 1019
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1672819200000, 
+      "total_dth" : 7674, 
+      "daily_dth" : 0, 
+      "dth_date" : 8, 
+      "dth_date_yesterday" : 8, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7854, 
+      "snf_dth" : 1461, 
+      "alf_dth" : 746, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 23, 
+      "ObjectId" : 1025
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1672905600000, 
+      "total_dth" : 7706, 
+      "daily_dth" : 32, 
+      "dth_date" : 8, 
+      "dth_date_yesterday" : 8, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7862, 
+      "snf_dth" : 1466, 
+      "alf_dth" : 751, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 23, 
+      "ObjectId" : 1031
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1672992000000, 
+      "total_dth" : 7706, 
+      "daily_dth" : 0, 
+      "dth_date" : 7, 
+      "dth_date_yesterday" : 7, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7869, 
+      "snf_dth" : 1466, 
+      "alf_dth" : 751, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 23, 
+      "ObjectId" : 1037
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1673078400000, 
+      "total_dth" : 7706, 
+      "daily_dth" : 0, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7872, 
+      "snf_dth" : 1466, 
+      "alf_dth" : 751, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 23, 
+      "ObjectId" : 1043
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1673164800000, 
+      "total_dth" : 7706, 
+      "daily_dth" : 0, 
+      "dth_date" : 4, 
+      "dth_date_yesterday" : 4, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7876, 
+      "snf_dth" : 1466, 
+      "alf_dth" : 751, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 23, 
+      "ObjectId" : 1049
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1673251200000, 
+      "total_dth" : 7706, 
+      "daily_dth" : 0, 
+      "dth_date" : 9, 
+      "dth_date_yesterday" : 9, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7885, 
+      "snf_dth" : 1466, 
+      "alf_dth" : 751, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 23, 
+      "ObjectId" : 1055
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1673337600000, 
+      "total_dth" : 7706, 
+      "daily_dth" : 0, 
+      "dth_date" : 5, 
+      "dth_date_yesterday" : 5, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7890, 
+      "snf_dth" : 1466, 
+      "alf_dth" : 751, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 23, 
+      "ObjectId" : 1061
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1673424000000, 
+      "total_dth" : 7706, 
+      "daily_dth" : 0, 
+      "dth_date" : 6, 
+      "dth_date_yesterday" : 6, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7896, 
+      "snf_dth" : 1466, 
+      "alf_dth" : 751, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 23, 
+      "ObjectId" : 1067
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1673510400000, 
+      "total_dth" : 7742, 
+      "daily_dth" : 36, 
+      "dth_date" : 10, 
+      "dth_date_yesterday" : 10, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7906, 
+      "snf_dth" : 1472, 
+      "alf_dth" : 751, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 23, 
+      "ObjectId" : 1093
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1673596800000, 
+      "total_dth" : 7742, 
+      "daily_dth" : 0, 
+      "dth_date" : 6, 
+      "dth_date_yesterday" : 6, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7912, 
+      "snf_dth" : 1472, 
+      "alf_dth" : 751, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 23, 
+      "ObjectId" : 1097
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1673683200000, 
+      "total_dth" : 7742, 
+      "daily_dth" : 0, 
+      "dth_date" : 5, 
+      "dth_date_yesterday" : 5, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7917, 
+      "snf_dth" : 1472, 
+      "alf_dth" : 751, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 23, 
+      "ObjectId" : 1102
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1673769600000, 
+      "total_dth" : 7742, 
+      "daily_dth" : 0, 
+      "dth_date" : 6, 
+      "dth_date_yesterday" : 6, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7923, 
+      "snf_dth" : 1472, 
+      "alf_dth" : 751, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 23, 
+      "ObjectId" : 1107
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1673856000000, 
+      "total_dth" : 7742, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7924, 
+      "snf_dth" : 1472, 
+      "alf_dth" : 751, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 23, 
+      "ObjectId" : 1112
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1673942400000, 
+      "total_dth" : 7742, 
+      "daily_dth" : 0, 
+      "dth_date" : 4, 
+      "dth_date_yesterday" : 4, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7928, 
+      "snf_dth" : 1472, 
+      "alf_dth" : 751, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 23, 
+      "ObjectId" : 1117
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1674028800000, 
+      "total_dth" : 7742, 
+      "daily_dth" : 0, 
+      "dth_date" : 6, 
+      "dth_date_yesterday" : 6, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7934, 
+      "snf_dth" : 1472, 
+      "alf_dth" : 751, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 23, 
+      "ObjectId" : 1122
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1674115200000, 
+      "total_dth" : 7765, 
+      "daily_dth" : 23, 
+      "dth_date" : 4, 
+      "dth_date_yesterday" : 4, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7938, 
+      "snf_dth" : 1472, 
+      "alf_dth" : 751, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1127
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1674201600000, 
+      "total_dth" : 7765, 
+      "daily_dth" : 0, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7941, 
+      "snf_dth" : 1472, 
+      "alf_dth" : 751, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1132
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1674288000000, 
+      "total_dth" : 7765, 
+      "daily_dth" : 0, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7944, 
+      "snf_dth" : 1472, 
+      "alf_dth" : 751, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1137
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1674374400000, 
+      "total_dth" : 7765, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7946, 
+      "snf_dth" : 1472, 
+      "alf_dth" : 751, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1142
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1674460800000, 
+      "total_dth" : 7765, 
+      "daily_dth" : 0, 
+      "dth_date" : 5, 
+      "dth_date_yesterday" : 5, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7951, 
+      "snf_dth" : 1472, 
+      "alf_dth" : 751, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1147
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1674547200000, 
+      "total_dth" : 7765, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7953, 
+      "snf_dth" : 1472, 
+      "alf_dth" : 751, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1152
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1674633600000, 
+      "total_dth" : 7765, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7954, 
+      "snf_dth" : 1472, 
+      "alf_dth" : 751, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1157
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1674720000000, 
+      "total_dth" : 7791, 
+      "daily_dth" : 26, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7957, 
+      "snf_dth" : 1474, 
+      "alf_dth" : 752, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1162
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1674806400000, 
+      "total_dth" : 7791, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7957, 
+      "snf_dth" : 1474, 
+      "alf_dth" : 752, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1167
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1674892800000, 
+      "total_dth" : 7791, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7959, 
+      "snf_dth" : 1474, 
+      "alf_dth" : 752, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1172
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1674979200000, 
+      "total_dth" : 7791, 
+      "daily_dth" : 0, 
+      "dth_date" : 5, 
+      "dth_date_yesterday" : 5, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7964, 
+      "snf_dth" : 1474, 
+      "alf_dth" : 752, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1181
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1675065600000, 
+      "total_dth" : 7791, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7966, 
+      "snf_dth" : 1474, 
+      "alf_dth" : 752, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1185
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1675152000000, 
+      "total_dth" : 7791, 
+      "daily_dth" : 0, 
+      "dth_date" : 4, 
+      "dth_date_yesterday" : 4, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7970, 
+      "snf_dth" : 1474, 
+      "alf_dth" : 752, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1189
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1675238400000, 
+      "total_dth" : 7791, 
+      "daily_dth" : 0, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7973, 
+      "snf_dth" : 1474, 
+      "alf_dth" : 752, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1193
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1675324800000, 
+      "total_dth" : 7848, 
+      "daily_dth" : 57, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7974, 
+      "snf_dth" : 1485, 
+      "alf_dth" : 757, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 857
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1675411200000, 
+      "total_dth" : 7848, 
+      "daily_dth" : 0, 
+      "dth_date" : 5, 
+      "dth_date_yesterday" : 5, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7979, 
+      "snf_dth" : 1485, 
+      "alf_dth" : 757, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 861
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1675497600000, 
+      "total_dth" : 7848, 
+      "daily_dth" : 0, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7982, 
+      "snf_dth" : 1485, 
+      "alf_dth" : 757, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 868
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1675584000000, 
+      "total_dth" : 7848, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7984, 
+      "snf_dth" : 1485, 
+      "alf_dth" : 757, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 875
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1675670400000, 
+      "total_dth" : 7848, 
+      "daily_dth" : 0, 
+      "dth_date" : 6, 
+      "dth_date_yesterday" : 6, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7990, 
+      "snf_dth" : 1485, 
+      "alf_dth" : 757, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 882
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1675756800000, 
+      "total_dth" : 7848, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7991, 
+      "snf_dth" : 1485, 
+      "alf_dth" : 757, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 889
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1675843200000, 
+      "total_dth" : 7848, 
+      "daily_dth" : 0, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7994, 
+      "snf_dth" : 1485, 
+      "alf_dth" : 757, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 896
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1675929600000, 
+      "total_dth" : 7893, 
+      "daily_dth" : 45, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7996, 
+      "snf_dth" : 1487, 
+      "alf_dth" : 760, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 903
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1676016000000, 
+      "total_dth" : 7893, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 7998, 
+      "snf_dth" : 1487, 
+      "alf_dth" : 760, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 910
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1676102400000, 
+      "total_dth" : 7893, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8000, 
+      "snf_dth" : 1487, 
+      "alf_dth" : 760, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 917
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1676188800000, 
+      "total_dth" : 7893, 
+      "daily_dth" : 0, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8003, 
+      "snf_dth" : 1487, 
+      "alf_dth" : 760, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 924
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1676275200000, 
+      "total_dth" : 7893, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8004, 
+      "snf_dth" : 1487, 
+      "alf_dth" : 760, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 931
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1676361600000, 
+      "total_dth" : 7893, 
+      "daily_dth" : 0, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8007, 
+      "snf_dth" : 1487, 
+      "alf_dth" : 760, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 938
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1676448000000, 
+      "total_dth" : 7893, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8009, 
+      "snf_dth" : 1487, 
+      "alf_dth" : 760, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 945
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1676534400000, 
+      "total_dth" : 7908, 
+      "daily_dth" : 15, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8012, 
+      "snf_dth" : 1490, 
+      "alf_dth" : 760, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 952
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1676620800000, 
+      "total_dth" : 7908, 
+      "daily_dth" : 0, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8015, 
+      "snf_dth" : 1490, 
+      "alf_dth" : 760, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 959
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1676707200000, 
+      "total_dth" : 7908, 
+      "daily_dth" : 0, 
+      "dth_date" : 5, 
+      "dth_date_yesterday" : 5, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8020, 
+      "snf_dth" : 1490, 
+      "alf_dth" : 760, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1003
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1676793600000, 
+      "total_dth" : 7908, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8022, 
+      "snf_dth" : 1490, 
+      "alf_dth" : 760, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1009
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1676880000000, 
+      "total_dth" : 7908, 
+      "daily_dth" : 0, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8025, 
+      "snf_dth" : 1490, 
+      "alf_dth" : 760, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1015
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1676966400000, 
+      "total_dth" : 7908, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8026, 
+      "snf_dth" : 1490, 
+      "alf_dth" : 760, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1021
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1677052800000, 
+      "total_dth" : 7908, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8027, 
+      "snf_dth" : 1490, 
+      "alf_dth" : 760, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1027
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1677139200000, 
+      "total_dth" : 7936, 
+      "daily_dth" : 28, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8030, 
+      "snf_dth" : 1496, 
+      "alf_dth" : 764, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1033
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1677225600000, 
+      "total_dth" : 7936, 
+      "daily_dth" : 0, 
+      "dth_date" : 5, 
+      "dth_date_yesterday" : 5, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8035, 
+      "snf_dth" : 1496, 
+      "alf_dth" : 764, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1039
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1677312000000, 
+      "total_dth" : 7936, 
+      "daily_dth" : 0, 
+      "dth_date" : 5, 
+      "dth_date_yesterday" : 5, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8040, 
+      "snf_dth" : 1496, 
+      "alf_dth" : 764, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1045
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1677398400000, 
+      "total_dth" : 7936, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8040, 
+      "snf_dth" : 1496, 
+      "alf_dth" : 764, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1051
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1677484800000, 
+      "total_dth" : 7936, 
+      "daily_dth" : 0, 
+      "dth_date" : 6, 
+      "dth_date_yesterday" : 6, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8046, 
+      "snf_dth" : 1496, 
+      "alf_dth" : 764, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1057
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1677571200000, 
+      "total_dth" : 7936, 
+      "daily_dth" : 0, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8049, 
+      "snf_dth" : 1496, 
+      "alf_dth" : 764, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1063
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1677657600000, 
+      "total_dth" : 7936, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8051, 
+      "snf_dth" : 1496, 
+      "alf_dth" : 764, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1101
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1677744000000, 
+      "total_dth" : 7957, 
+      "daily_dth" : 21, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8054, 
+      "snf_dth" : 1499, 
+      "alf_dth" : 764, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1106
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1677830400000, 
+      "total_dth" : 7957, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8055, 
+      "snf_dth" : 1499, 
+      "alf_dth" : 764, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1111
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1677916800000, 
+      "total_dth" : 7957, 
+      "daily_dth" : 0, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8058, 
+      "snf_dth" : 1499, 
+      "alf_dth" : 764, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1116
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1678003200000, 
+      "total_dth" : 7957, 
+      "daily_dth" : 0, 
+      "dth_date" : 6, 
+      "dth_date_yesterday" : 6, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8064, 
+      "snf_dth" : 1499, 
+      "alf_dth" : 764, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1121
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1678089600000, 
+      "total_dth" : 7957, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8064, 
+      "snf_dth" : 1499, 
+      "alf_dth" : 764, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1126
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1678176000000, 
+      "total_dth" : 7957, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8066, 
+      "snf_dth" : 1499, 
+      "alf_dth" : 764, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1131
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1678262400000, 
+      "total_dth" : 7957, 
+      "daily_dth" : 0, 
+      "dth_date" : 6, 
+      "dth_date_yesterday" : 6, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8072, 
+      "snf_dth" : 1499, 
+      "alf_dth" : 764, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1136
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1678348800000, 
+      "total_dth" : 7971, 
+      "daily_dth" : 14, 
+      "dth_date" : 5, 
+      "dth_date_yesterday" : 5, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8077, 
+      "snf_dth" : 1499, 
+      "alf_dth" : 764, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1141
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1678435200000, 
+      "total_dth" : 7971, 
+      "daily_dth" : 0, 
+      "dth_date" : 5, 
+      "dth_date_yesterday" : 5, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8082, 
+      "snf_dth" : 1499, 
+      "alf_dth" : 764, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1146
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1678521600000, 
+      "total_dth" : 7971, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8082, 
+      "snf_dth" : 1499, 
+      "alf_dth" : 764, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1151
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1678608000000, 
+      "total_dth" : 7971, 
+      "daily_dth" : 0, 
+      "dth_date" : 5, 
+      "dth_date_yesterday" : 5, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8087, 
+      "snf_dth" : 1499, 
+      "alf_dth" : 764, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1156
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1678690800000, 
+      "total_dth" : 7971, 
+      "daily_dth" : 0, 
+      "dth_date" : 6, 
+      "dth_date_yesterday" : 6, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8093, 
+      "snf_dth" : 1499, 
+      "alf_dth" : 764, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1161
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1678777200000, 
+      "total_dth" : 7971, 
+      "daily_dth" : 0, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8096, 
+      "snf_dth" : 1499, 
+      "alf_dth" : 764, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1166
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1678863600000, 
+      "total_dth" : 7971, 
+      "daily_dth" : 0, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8099, 
+      "snf_dth" : 1499, 
+      "alf_dth" : 764, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1171
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1678950000000, 
+      "total_dth" : 7988, 
+      "daily_dth" : 17, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8100, 
+      "snf_dth" : 1501, 
+      "alf_dth" : 765, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1180
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1679036400000, 
+      "total_dth" : 7988, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8101, 
+      "snf_dth" : 1501, 
+      "alf_dth" : 765, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1184
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1679122800000, 
+      "total_dth" : 7988, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8102, 
+      "snf_dth" : 1501, 
+      "alf_dth" : 765, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1188
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1679209200000, 
+      "total_dth" : 7988, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8103, 
+      "snf_dth" : 1501, 
+      "alf_dth" : 765, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1192
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1679295600000, 
+      "total_dth" : 7988, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8104, 
+      "snf_dth" : 1501, 
+      "alf_dth" : 765, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1196
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1679382000000, 
+      "total_dth" : 7988, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8105, 
+      "snf_dth" : 1501, 
+      "alf_dth" : 765, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1198
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1679468400000, 
+      "total_dth" : 7988, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8106, 
+      "snf_dth" : 1501, 
+      "alf_dth" : 765, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1199
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1679554800000, 
+      "total_dth" : 8009, 
+      "daily_dth" : 21, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8109, 
+      "snf_dth" : 1503, 
+      "alf_dth" : 765, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1200
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1679641200000, 
+      "total_dth" : 8009, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8110, 
+      "snf_dth" : 1503, 
+      "alf_dth" : 765, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 856
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1679727600000, 
+      "total_dth" : 8009, 
+      "daily_dth" : 0, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8113, 
+      "snf_dth" : 1503, 
+      "alf_dth" : 765, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 863
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1679814000000, 
+      "total_dth" : 8009, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8115, 
+      "snf_dth" : 1503, 
+      "alf_dth" : 765, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 870
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1679900400000, 
+      "total_dth" : 8009, 
+      "daily_dth" : 0, 
+      "dth_date" : 5, 
+      "dth_date_yesterday" : 5, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8120, 
+      "snf_dth" : 1503, 
+      "alf_dth" : 765, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 877
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1679986800000, 
+      "total_dth" : 8009, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8121, 
+      "snf_dth" : 1503, 
+      "alf_dth" : 765, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 884
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1680073200000, 
+      "total_dth" : 8009, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8121, 
+      "snf_dth" : 1503, 
+      "alf_dth" : 765, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 891
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1680159600000, 
+      "total_dth" : 8058, 
+      "daily_dth" : 49, 
+      "dth_date" : 5, 
+      "dth_date_yesterday" : 5, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8126, 
+      "snf_dth" : 1510, 
+      "alf_dth" : 767, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 898
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1680246000000, 
+      "total_dth" : 8058, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8128, 
+      "snf_dth" : 1510, 
+      "alf_dth" : 767, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 905
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1680332400000, 
+      "total_dth" : 8058, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8130, 
+      "snf_dth" : 1510, 
+      "alf_dth" : 767, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 912
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1680418800000, 
+      "total_dth" : 8058, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8131, 
+      "snf_dth" : 1510, 
+      "alf_dth" : 767, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 919
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1680505200000, 
+      "total_dth" : 8058, 
+      "daily_dth" : 0, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8134, 
+      "snf_dth" : 1510, 
+      "alf_dth" : 767, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 926
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1680591600000, 
+      "total_dth" : 8058, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8134, 
+      "snf_dth" : 1510, 
+      "alf_dth" : 767, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 933
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1680678000000, 
+      "total_dth" : 8058, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8135, 
+      "snf_dth" : 1510, 
+      "alf_dth" : 767, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 940
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1680764400000, 
+      "total_dth" : 8064, 
+      "daily_dth" : 6, 
+      "dth_date" : 4, 
+      "dth_date_yesterday" : 4, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8139, 
+      "snf_dth" : 1511, 
+      "alf_dth" : 767, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 947
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1680850800000, 
+      "total_dth" : 8064, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8139, 
+      "snf_dth" : 1511, 
+      "alf_dth" : 767, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 954
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1680937200000, 
+      "total_dth" : 8064, 
+      "daily_dth" : 0, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8142, 
+      "snf_dth" : 1511, 
+      "alf_dth" : 767, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 961
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1681023600000, 
+      "total_dth" : 8064, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8144, 
+      "snf_dth" : 1511, 
+      "alf_dth" : 767, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1002
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1681110000000, 
+      "total_dth" : 8064, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8145, 
+      "snf_dth" : 1511, 
+      "alf_dth" : 767, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1008
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1681196400000, 
+      "total_dth" : 8064, 
+      "daily_dth" : 0, 
+      "dth_date" : 4, 
+      "dth_date_yesterday" : 4, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8149, 
+      "snf_dth" : 1511, 
+      "alf_dth" : 767, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1014
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1681282800000, 
+      "total_dth" : 8064, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8150, 
+      "snf_dth" : 1511, 
+      "alf_dth" : 767, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1020
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1681369200000, 
+      "total_dth" : 8090, 
+      "daily_dth" : 26, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8152, 
+      "snf_dth" : 1514, 
+      "alf_dth" : 768, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1026
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1681455600000, 
+      "total_dth" : 8090, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8153, 
+      "snf_dth" : 1514, 
+      "alf_dth" : 768, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1032
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1681542000000, 
+      "total_dth" : 8090, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8154, 
+      "snf_dth" : 1514, 
+      "alf_dth" : 768, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1038
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1681628400000, 
+      "total_dth" : 8090, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8154, 
+      "snf_dth" : 1514, 
+      "alf_dth" : 768, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1044
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1681714800000, 
+      "total_dth" : 8090, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8155, 
+      "snf_dth" : 1514, 
+      "alf_dth" : 768, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1050
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1681801200000, 
+      "total_dth" : 8090, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8157, 
+      "snf_dth" : 1514, 
+      "alf_dth" : 768, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1056
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1681887600000, 
+      "total_dth" : 8090, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8158, 
+      "snf_dth" : 1514, 
+      "alf_dth" : 768, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1062
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1681974000000, 
+      "total_dth" : 8100, 
+      "daily_dth" : 10, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8159, 
+      "snf_dth" : 1514, 
+      "alf_dth" : 769, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1068
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1682060400000, 
+      "total_dth" : 8100, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8160, 
+      "snf_dth" : 1514, 
+      "alf_dth" : 769, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1069
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1682146800000, 
+      "total_dth" : 8100, 
+      "daily_dth" : 0, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8163, 
+      "snf_dth" : 1514, 
+      "alf_dth" : 769, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1070
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1682233200000, 
+      "total_dth" : 8100, 
+      "daily_dth" : 0, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8166, 
+      "snf_dth" : 1514, 
+      "alf_dth" : 769, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1071
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1682319600000, 
+      "total_dth" : 8100, 
+      "daily_dth" : 0, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8169, 
+      "snf_dth" : 1514, 
+      "alf_dth" : 769, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1072
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1682406000000, 
+      "total_dth" : 8100, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8170, 
+      "snf_dth" : 1514, 
+      "alf_dth" : 769, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1073
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1682492400000, 
+      "total_dth" : 8100, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8170, 
+      "snf_dth" : 1514, 
+      "alf_dth" : 769, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1074
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1682578800000, 
+      "total_dth" : 8109, 
+      "daily_dth" : 9, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8171, 
+      "snf_dth" : 1515, 
+      "alf_dth" : 770, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1075
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1682665200000, 
+      "total_dth" : 8109, 
+      "daily_dth" : 0, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8174, 
+      "snf_dth" : 1515, 
+      "alf_dth" : 770, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1076
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1682751600000, 
+      "total_dth" : 8109, 
+      "daily_dth" : 0, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8177, 
+      "snf_dth" : 1515, 
+      "alf_dth" : 770, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1077
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1682838000000, 
+      "total_dth" : 8109, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8177, 
+      "snf_dth" : 1515, 
+      "alf_dth" : 770, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1078
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1682924400000, 
+      "total_dth" : 8109, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8178, 
+      "snf_dth" : 1515, 
+      "alf_dth" : 770, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1079
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1683010800000, 
+      "total_dth" : 8109, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8179, 
+      "snf_dth" : 1515, 
+      "alf_dth" : 770, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1080
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1683097200000, 
+      "total_dth" : 8109, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8180, 
+      "snf_dth" : 1515, 
+      "alf_dth" : 770, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1081
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1683183600000, 
+      "total_dth" : 8127, 
+      "daily_dth" : 18, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8182, 
+      "snf_dth" : 1517, 
+      "alf_dth" : 770, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1082
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1683270000000, 
+      "total_dth" : 8127, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8183, 
+      "snf_dth" : 1517, 
+      "alf_dth" : 770, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1083
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1683356400000, 
+      "total_dth" : 8127, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8185, 
+      "snf_dth" : 1517, 
+      "alf_dth" : 770, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1084
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1683442800000, 
+      "total_dth" : 8127, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8185, 
+      "snf_dth" : 1517, 
+      "alf_dth" : 770, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1085
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1683529200000, 
+      "total_dth" : 8127, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8187, 
+      "snf_dth" : 1517, 
+      "alf_dth" : 770, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1086
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1683615600000, 
+      "total_dth" : 8127, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8189, 
+      "snf_dth" : 1517, 
+      "alf_dth" : 770, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1087
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1683702000000, 
+      "total_dth" : 8127, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8190, 
+      "snf_dth" : 1517, 
+      "alf_dth" : 770, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1088
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1683788400000, 
+      "total_dth" : 8152, 
+      "daily_dth" : 25, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8190, 
+      "snf_dth" : 1525, 
+      "alf_dth" : 771, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1089
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1683874800000, 
+      "total_dth" : 8152, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8190, 
+      "snf_dth" : 1525, 
+      "alf_dth" : 771, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1090
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1683961200000, 
+      "total_dth" : 8152, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8192, 
+      "snf_dth" : 1525, 
+      "alf_dth" : 771, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 852
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1684047600000, 
+      "total_dth" : 8152, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8192, 
+      "snf_dth" : 1525, 
+      "alf_dth" : 771, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 859
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1684134000000, 
+      "total_dth" : 8152, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8193, 
+      "snf_dth" : 1525, 
+      "alf_dth" : 771, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 866
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1684220400000, 
+      "total_dth" : 8152, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8193, 
+      "snf_dth" : 1525, 
+      "alf_dth" : 771, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 873
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1684306800000, 
+      "total_dth" : 8152, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8193, 
+      "snf_dth" : 1525, 
+      "alf_dth" : 771, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 880
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1684393200000, 
+      "total_dth" : 8163, 
+      "daily_dth" : 11, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8194, 
+      "snf_dth" : 1526, 
+      "alf_dth" : 772, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 887
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1684479600000, 
+      "total_dth" : 8163, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8196, 
+      "snf_dth" : 1526, 
+      "alf_dth" : 772, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 894
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1684566000000, 
+      "total_dth" : 8163, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8198, 
+      "snf_dth" : 1526, 
+      "alf_dth" : 772, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 901
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1684652400000, 
+      "total_dth" : 8163, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8199, 
+      "snf_dth" : 1526, 
+      "alf_dth" : 772, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 908
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1684738800000, 
+      "total_dth" : 8163, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8199, 
+      "snf_dth" : 1526, 
+      "alf_dth" : 772, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 915
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1684825200000, 
+      "total_dth" : 8163, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8200, 
+      "snf_dth" : 1526, 
+      "alf_dth" : 772, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 922
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1684911600000, 
+      "total_dth" : 8163, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8201, 
+      "snf_dth" : 1526, 
+      "alf_dth" : 772, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 929
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1684998000000, 
+      "total_dth" : 8175, 
+      "daily_dth" : 12, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8203, 
+      "snf_dth" : 1530, 
+      "alf_dth" : 772, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 936
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1685084400000, 
+      "total_dth" : 8175, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8205, 
+      "snf_dth" : 1530, 
+      "alf_dth" : 772, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 943
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1685170800000, 
+      "total_dth" : 8175, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8207, 
+      "snf_dth" : 1530, 
+      "alf_dth" : 772, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 950
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1685257200000, 
+      "total_dth" : 8175, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8208, 
+      "snf_dth" : 1530, 
+      "alf_dth" : 772, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 957
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1685343600000, 
+      "total_dth" : 8175, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8210, 
+      "snf_dth" : 1530, 
+      "alf_dth" : 772, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1000
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1685430000000, 
+      "total_dth" : 8175, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8211, 
+      "snf_dth" : 1530, 
+      "alf_dth" : 772, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1006
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1685516400000, 
+      "total_dth" : 8175, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8211, 
+      "snf_dth" : 1530, 
+      "alf_dth" : 772, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1012
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1685602800000, 
+      "total_dth" : 8186, 
+      "daily_dth" : 11, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8212, 
+      "snf_dth" : 1536, 
+      "alf_dth" : 772, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1018
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1685689200000, 
+      "total_dth" : 8186, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8212, 
+      "snf_dth" : 1536, 
+      "alf_dth" : 772, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1024
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1685775600000, 
+      "total_dth" : 8186, 
+      "daily_dth" : 0, 
+      "dth_date" : 4, 
+      "dth_date_yesterday" : 4, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8216, 
+      "snf_dth" : 1536, 
+      "alf_dth" : 772, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1030
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1685862000000, 
+      "total_dth" : 8186, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8218, 
+      "snf_dth" : 1536, 
+      "alf_dth" : 772, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1036
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1685948400000, 
+      "total_dth" : 8186, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8219, 
+      "snf_dth" : 1536, 
+      "alf_dth" : 772, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1042
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1686034800000, 
+      "total_dth" : 8186, 
+      "daily_dth" : 0, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8222, 
+      "snf_dth" : 1536, 
+      "alf_dth" : 772, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1048
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1686121200000, 
+      "total_dth" : 8186, 
+      "daily_dth" : 0, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8225, 
+      "snf_dth" : 1536, 
+      "alf_dth" : 772, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1054
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1686207600000, 
+      "total_dth" : 8194, 
+      "daily_dth" : 8, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8226, 
+      "snf_dth" : 1537, 
+      "alf_dth" : 774, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1060
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1686294000000, 
+      "total_dth" : 8194, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8226, 
+      "snf_dth" : 1537, 
+      "alf_dth" : 774, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1066
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1686380400000, 
+      "total_dth" : 8194, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8227, 
+      "snf_dth" : 1537, 
+      "alf_dth" : 774, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1092
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1686466800000, 
+      "total_dth" : 8194, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8227, 
+      "snf_dth" : 1537, 
+      "alf_dth" : 774, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1096
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1686553200000, 
+      "total_dth" : 8194, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8229, 
+      "snf_dth" : 1537, 
+      "alf_dth" : 774, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1100
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1686639600000, 
+      "total_dth" : 8194, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8229, 
+      "snf_dth" : 1537, 
+      "alf_dth" : 774, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1105
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1686726000000, 
+      "total_dth" : 8194, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8229, 
+      "snf_dth" : 1537, 
+      "alf_dth" : 774, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1110
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1686812400000, 
+      "total_dth" : 8206, 
+      "daily_dth" : 12, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8230, 
+      "snf_dth" : 1539, 
+      "alf_dth" : 775, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1115
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1686898800000, 
+      "total_dth" : 8206, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8231, 
+      "snf_dth" : 1539, 
+      "alf_dth" : 775, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1120
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1686985200000, 
+      "total_dth" : 8206, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8233, 
+      "snf_dth" : 1539, 
+      "alf_dth" : 775, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1125
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1687071600000, 
+      "total_dth" : 8206, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8234, 
+      "snf_dth" : 1539, 
+      "alf_dth" : 775, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1130
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1687158000000, 
+      "total_dth" : 8206, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8234, 
+      "snf_dth" : 1539, 
+      "alf_dth" : 775, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1135
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1687244400000, 
+      "total_dth" : 8206, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8234, 
+      "snf_dth" : 1539, 
+      "alf_dth" : 775, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1140
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1687330800000, 
+      "total_dth" : 8206, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8235, 
+      "snf_dth" : 1539, 
+      "alf_dth" : 775, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1145
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1687417200000, 
+      "total_dth" : 8215, 
+      "daily_dth" : 9, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8235, 
+      "snf_dth" : 1543, 
+      "alf_dth" : 776, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1150
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1687503600000, 
+      "total_dth" : 8215, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8235, 
+      "snf_dth" : 1543, 
+      "alf_dth" : 776, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1155
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1687590000000, 
+      "total_dth" : 8215, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8236, 
+      "snf_dth" : 1543, 
+      "alf_dth" : 776, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1160
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1687676400000, 
+      "total_dth" : 8215, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8236, 
+      "snf_dth" : 1543, 
+      "alf_dth" : 776, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1165
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1687762800000, 
+      "total_dth" : 8215, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8237, 
+      "snf_dth" : 1543, 
+      "alf_dth" : 776, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1170
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1687849200000, 
+      "total_dth" : 8215, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8238, 
+      "snf_dth" : 1543, 
+      "alf_dth" : 776, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1179
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1687935600000, 
+      "total_dth" : 8215, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8238, 
+      "snf_dth" : 1543, 
+      "alf_dth" : 776, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1183
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1688022000000, 
+      "total_dth" : 8225, 
+      "daily_dth" : 10, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8240, 
+      "snf_dth" : 1544, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1187
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1688108400000, 
+      "total_dth" : 8225, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8241, 
+      "snf_dth" : 1544, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1191
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1688194800000, 
+      "total_dth" : 8225, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8241, 
+      "snf_dth" : 1544, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1195
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1688281200000, 
+      "total_dth" : 8225, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8242, 
+      "snf_dth" : 1544, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1261
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1688367600000, 
+      "total_dth" : 8225, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8243, 
+      "snf_dth" : 1544, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1262
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1688454000000, 
+      "total_dth" : 8225, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8245, 
+      "snf_dth" : 1544, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1263
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1688540400000, 
+      "total_dth" : 8225, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8245, 
+      "snf_dth" : 1544, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1264
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1688626800000, 
+      "total_dth" : 8232, 
+      "daily_dth" : 7, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8247, 
+      "snf_dth" : 1546, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1265
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1688713200000, 
+      "total_dth" : 8232, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8247, 
+      "snf_dth" : 1546, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1266
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1688799600000, 
+      "total_dth" : 8232, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8248, 
+      "snf_dth" : 1546, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1267
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1688886000000, 
+      "total_dth" : 8232, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8248, 
+      "snf_dth" : 1546, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1268
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1688972400000, 
+      "total_dth" : 8232, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8249, 
+      "snf_dth" : 1546, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1269
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1689058800000, 
+      "total_dth" : 8232, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8251, 
+      "snf_dth" : 1546, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1270
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1689145200000, 
+      "total_dth" : 8232, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8252, 
+      "snf_dth" : 1546, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1271
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1689231600000, 
+      "total_dth" : 8233, 
+      "daily_dth" : 1, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8254, 
+      "snf_dth" : 1546, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1272
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1689318000000, 
+      "total_dth" : 8233, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8254, 
+      "snf_dth" : 1546, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1273
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1689404400000, 
+      "total_dth" : 8233, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8255, 
+      "snf_dth" : 1546, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1274
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1689490800000, 
+      "total_dth" : 8233, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8255, 
+      "snf_dth" : 1546, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1275
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1689577200000, 
+      "total_dth" : 8233, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8255, 
+      "snf_dth" : 1546, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1276
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1689663600000, 
+      "total_dth" : 8233, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8256, 
+      "snf_dth" : 1546, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1277
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1689750000000, 
+      "total_dth" : 8233, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8258, 
+      "snf_dth" : 1546, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1278
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1689836400000, 
+      "total_dth" : 8243, 
+      "daily_dth" : 10, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8259, 
+      "snf_dth" : 1548, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1279
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1689922800000, 
+      "total_dth" : 8243, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8260, 
+      "snf_dth" : 1548, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1280
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1690009200000, 
+      "total_dth" : 8243, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8261, 
+      "snf_dth" : 1548, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1281
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1690095600000, 
+      "total_dth" : 8243, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8261, 
+      "snf_dth" : 1548, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1282
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1690182000000, 
+      "total_dth" : 8243, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8261, 
+      "snf_dth" : 1548, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1283
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1690268400000, 
+      "total_dth" : 8243, 
+      "daily_dth" : 0, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8264, 
+      "snf_dth" : 1548, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1284
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1690354800000, 
+      "total_dth" : 8243, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8264, 
+      "snf_dth" : 1548, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1285
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1690441200000, 
+      "total_dth" : 8248, 
+      "daily_dth" : 5, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8265, 
+      "snf_dth" : 1550, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1286
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1690527600000, 
+      "total_dth" : 8248, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8266, 
+      "snf_dth" : 1550, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1287
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1690614000000, 
+      "total_dth" : 8248, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8267, 
+      "snf_dth" : 1550, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1288
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1690700400000, 
+      "total_dth" : 8248, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8269, 
+      "snf_dth" : 1550, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1289
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1690786800000, 
+      "total_dth" : 8248, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8269, 
+      "snf_dth" : 1550, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1290
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1690873200000, 
+      "total_dth" : 8248, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8269, 
+      "snf_dth" : 1550, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1291
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1690959600000, 
+      "total_dth" : 8248, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8269, 
+      "snf_dth" : 1550, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1292
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1691046000000, 
+      "total_dth" : 8251, 
+      "daily_dth" : 3, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8271, 
+      "snf_dth" : 1550, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1293
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1691132400000, 
+      "total_dth" : 8251, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8271, 
+      "snf_dth" : 1550, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1294
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1691218800000, 
+      "total_dth" : 8251, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8271, 
+      "snf_dth" : 1550, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1295
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1691305200000, 
+      "total_dth" : 8251, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8272, 
+      "snf_dth" : 1550, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1296
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1691391600000, 
+      "total_dth" : 8251, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8273, 
+      "snf_dth" : 1550, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1297
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1691478000000, 
+      "total_dth" : 8251, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8274, 
+      "snf_dth" : 1550, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1298
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1691564400000, 
+      "total_dth" : 8251, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8275, 
+      "snf_dth" : 1550, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1299
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1691650800000, 
+      "total_dth" : 8261, 
+      "daily_dth" : 10, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8278, 
+      "snf_dth" : 1550, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1300
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1691737200000, 
+      "total_dth" : 8261, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8280, 
+      "snf_dth" : 1550, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1301
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1691823600000, 
+      "total_dth" : 8261, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8281, 
+      "snf_dth" : 1550, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1302
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1691910000000, 
+      "total_dth" : 8261, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8283, 
+      "snf_dth" : 1550, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1303
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1691996400000, 
+      "total_dth" : 8261, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8283, 
+      "snf_dth" : 1550, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1304
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1692082800000, 
+      "total_dth" : 8261, 
+      "daily_dth" : 0, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8286, 
+      "snf_dth" : 1550, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1305
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1692169200000, 
+      "total_dth" : 8261, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8286, 
+      "snf_dth" : 1550, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1306
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1692255600000, 
+      "total_dth" : 8265, 
+      "daily_dth" : 4, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8287, 
+      "snf_dth" : 1552, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1307
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1692342000000, 
+      "total_dth" : 8265, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8288, 
+      "snf_dth" : 1552, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1308
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1692428400000, 
+      "total_dth" : 8265, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8289, 
+      "snf_dth" : 1552, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1309
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1692514800000, 
+      "total_dth" : 8265, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8290, 
+      "snf_dth" : 1552, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1310
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1692601200000, 
+      "total_dth" : 8265, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8290, 
+      "snf_dth" : 1552, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1311
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1692687600000, 
+      "total_dth" : 8265, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8292, 
+      "snf_dth" : 1552, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1312
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1692774000000, 
+      "total_dth" : 8265, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8293, 
+      "snf_dth" : 1552, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1313
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1692860400000, 
+      "total_dth" : 8274, 
+      "daily_dth" : 9, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8296, 
+      "snf_dth" : 1555, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1314
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1692946800000, 
+      "total_dth" : 8274, 
+      "daily_dth" : 0, 
+      "dth_date" : 4, 
+      "dth_date_yesterday" : 4, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8300, 
+      "snf_dth" : 1555, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1315
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1693033200000, 
+      "total_dth" : 8274, 
+      "daily_dth" : 0, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8303, 
+      "snf_dth" : 1555, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1316
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1693119600000, 
+      "total_dth" : 8274, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8305, 
+      "snf_dth" : 1555, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1317
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1693206000000, 
+      "total_dth" : 8274, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8307, 
+      "snf_dth" : 1555, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1318
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1693292400000, 
+      "total_dth" : 8274, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8307, 
+      "snf_dth" : 1555, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1319
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1693378800000, 
+      "total_dth" : 8274, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8307, 
+      "snf_dth" : 1555, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1320
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1693465200000, 
+      "total_dth" : 8277, 
+      "daily_dth" : 3, 
+      "dth_date" : 4, 
+      "dth_date_yesterday" : 4, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8311, 
+      "snf_dth" : 1555, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1321
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1693551600000, 
+      "total_dth" : 8277, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8312, 
+      "snf_dth" : 1555, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1322
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1693638000000, 
+      "total_dth" : 8277, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8314, 
+      "snf_dth" : 1555, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1323
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1693724400000, 
+      "total_dth" : 8277, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8316, 
+      "snf_dth" : 1555, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1324
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1693810800000, 
+      "total_dth" : 8277, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8317, 
+      "snf_dth" : 1555, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1325
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1693897200000, 
+      "total_dth" : 8277, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8318, 
+      "snf_dth" : 1555, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1326
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1693983600000, 
+      "total_dth" : 8277, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8320, 
+      "snf_dth" : 1555, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1327
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1694070000000, 
+      "total_dth" : 8293, 
+      "daily_dth" : 16, 
+      "dth_date" : 7, 
+      "dth_date_yesterday" : 7, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8327, 
+      "snf_dth" : 1556, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1328
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1694156400000, 
+      "total_dth" : 8293, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8328, 
+      "snf_dth" : 1556, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1329
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1694242800000, 
+      "total_dth" : 8293, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8328, 
+      "snf_dth" : 1556, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1330
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1694329200000, 
+      "total_dth" : 8293, 
+      "daily_dth" : 0, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8331, 
+      "snf_dth" : 1556, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1331
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1694415600000, 
+      "total_dth" : 8293, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8333, 
+      "snf_dth" : 1556, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1332
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1694502000000, 
+      "total_dth" : 8293, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8334, 
+      "snf_dth" : 1556, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1333
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1694588400000, 
+      "total_dth" : 8293, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8334, 
+      "snf_dth" : 1556, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1334
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1694674800000, 
+      "total_dth" : 8305, 
+      "daily_dth" : 12, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8336, 
+      "snf_dth" : 1557, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1335
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1694761200000, 
+      "total_dth" : 8305, 
+      "daily_dth" : 0, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8339, 
+      "snf_dth" : 1557, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1336
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1694847600000, 
+      "total_dth" : 8305, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8340, 
+      "snf_dth" : 1557, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1337
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1694934000000, 
+      "total_dth" : 8305, 
+      "daily_dth" : 0, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8343, 
+      "snf_dth" : 1557, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1338
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1695020400000, 
+      "total_dth" : 8305, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8345, 
+      "snf_dth" : 1557, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1339
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1695106800000, 
+      "total_dth" : 8305, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8346, 
+      "snf_dth" : 1557, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1340
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1695193200000, 
+      "total_dth" : 8305, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8348, 
+      "snf_dth" : 1557, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1341
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1695279600000, 
+      "total_dth" : 8320, 
+      "daily_dth" : 15, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8349, 
+      "snf_dth" : 1557, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1342
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1695366000000, 
+      "total_dth" : 8320, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8349, 
+      "snf_dth" : 1557, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1343
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1695452400000, 
+      "total_dth" : 8320, 
+      "daily_dth" : 0, 
+      "dth_date" : 4, 
+      "dth_date_yesterday" : 4, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8353, 
+      "snf_dth" : 1557, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1344
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1695538800000, 
+      "total_dth" : 8320, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8355, 
+      "snf_dth" : 1557, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1345
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1695625200000, 
+      "total_dth" : 8320, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8356, 
+      "snf_dth" : 1557, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1346
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1695711600000, 
+      "total_dth" : 8320, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8358, 
+      "snf_dth" : 1557, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1347
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1695798000000, 
+      "total_dth" : 8320, 
+      "daily_dth" : 0, 
+      "dth_date" : 4, 
+      "dth_date_yesterday" : 4, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8362, 
+      "snf_dth" : 1557, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1348
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1695884400000, 
+      "total_dth" : 8332, 
+      "daily_dth" : 12, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8363, 
+      "snf_dth" : 1557, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1349
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1695970800000, 
+      "total_dth" : 8332, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8365, 
+      "snf_dth" : 1557, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1350
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1696057200000, 
+      "total_dth" : 8332, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8367, 
+      "snf_dth" : 1557, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1351
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1696143600000, 
+      "total_dth" : 8332, 
+      "daily_dth" : 0, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8370, 
+      "snf_dth" : 1557, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1352
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1696230000000, 
+      "total_dth" : 8332, 
+      "daily_dth" : 0, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8373, 
+      "snf_dth" : 1557, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1353
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1696316400000, 
+      "total_dth" : 8332, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8374, 
+      "snf_dth" : 1557, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1354
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1696402800000, 
+      "total_dth" : 8332, 
+      "daily_dth" : 0, 
+      "dth_date" : 4, 
+      "dth_date_yesterday" : 4, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8378, 
+      "snf_dth" : 1557, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1355
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1696489200000, 
+      "total_dth" : 8347, 
+      "daily_dth" : 15, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8380, 
+      "snf_dth" : 1558, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1356
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1696575600000, 
+      "total_dth" : 8347, 
+      "daily_dth" : 0, 
+      "dth_date" : 5, 
+      "dth_date_yesterday" : 5, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8385, 
+      "snf_dth" : 1558, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1357
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1696662000000, 
+      "total_dth" : 8347, 
+      "daily_dth" : 0, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8388, 
+      "snf_dth" : 1558, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1358
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1696748400000, 
+      "total_dth" : 8347, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8390, 
+      "snf_dth" : 1558, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1359
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1696834800000, 
+      "total_dth" : 8347, 
+      "daily_dth" : 0, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8393, 
+      "snf_dth" : 1558, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1360
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1696921200000, 
+      "total_dth" : 8347, 
+      "daily_dth" : 0, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8396, 
+      "snf_dth" : 1558, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1361
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1697007600000, 
+      "total_dth" : 8347, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8397, 
+      "snf_dth" : 1558, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1362
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1697094000000, 
+      "total_dth" : 8361, 
+      "daily_dth" : 14, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8399, 
+      "snf_dth" : 1563, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1363
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1697180400000, 
+      "total_dth" : 8361, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8401, 
+      "snf_dth" : 1563, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1364
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1697266800000, 
+      "total_dth" : 8361, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8402, 
+      "snf_dth" : 1563, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1365
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1697353200000, 
+      "total_dth" : 8361, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8404, 
+      "snf_dth" : 1563, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1366
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1697439600000, 
+      "total_dth" : 8361, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8406, 
+      "snf_dth" : 1563, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1367
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1697526000000, 
+      "total_dth" : 8361, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8407, 
+      "snf_dth" : 1563, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1368
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1697612400000, 
+      "total_dth" : 8361, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8408, 
+      "snf_dth" : 1563, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1369
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1697698800000, 
+      "total_dth" : 8380, 
+      "daily_dth" : 19, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8409, 
+      "snf_dth" : 1564, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1370
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1697785200000, 
+      "total_dth" : 8380, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8410, 
+      "snf_dth" : 1564, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1371
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1697871600000, 
+      "total_dth" : 8380, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8412, 
+      "snf_dth" : 1564, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1372
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1697958000000, 
+      "total_dth" : 8380, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8413, 
+      "snf_dth" : 1564, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1373
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1698044400000, 
+      "total_dth" : 8380, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8414, 
+      "snf_dth" : 1564, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1374
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1698130800000, 
+      "total_dth" : 8380, 
+      "daily_dth" : 0, 
+      "dth_date" : 4, 
+      "dth_date_yesterday" : 4, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8418, 
+      "snf_dth" : 1564, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1375
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1698217200000, 
+      "total_dth" : 8380, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8420, 
+      "snf_dth" : 1564, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1376
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1698303600000, 
+      "total_dth" : 8396, 
+      "daily_dth" : 16, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8420, 
+      "snf_dth" : 1568, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1377
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1698390000000, 
+      "total_dth" : 8396, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8421, 
+      "snf_dth" : 1568, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1378
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1698476400000, 
+      "total_dth" : 8396, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8423, 
+      "snf_dth" : 1568, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1379
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1698562800000, 
+      "total_dth" : 8396, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8425, 
+      "snf_dth" : 1568, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1380
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1698649200000, 
+      "total_dth" : 8396, 
+      "daily_dth" : 0, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8428, 
+      "snf_dth" : 1568, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1381
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1698735600000, 
+      "total_dth" : 8396, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8428, 
+      "snf_dth" : 1568, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1382
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1698822000000, 
+      "total_dth" : 8396, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8429, 
+      "snf_dth" : 1568, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1383
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1698908400000, 
+      "total_dth" : 8411, 
+      "daily_dth" : 15, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 1, 
+      "total_dth_date" : 8431, 
+      "snf_dth" : 1572, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1384
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1698994800000, 
+      "total_dth" : 8411, 
+      "daily_dth" : 0, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8434, 
+      "snf_dth" : 1572, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1201
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1699081200000, 
+      "total_dth" : 8411, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8434, 
+      "snf_dth" : 1572, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1202
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1699167600000, 
+      "total_dth" : 8411, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8436, 
+      "snf_dth" : 1572, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1203
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1699257600000, 
+      "total_dth" : 8411, 
+      "daily_dth" : 0, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8439, 
+      "snf_dth" : 1572, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1204
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1699344000000, 
+      "total_dth" : 8411, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8439, 
+      "snf_dth" : 1572, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1205
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1699430400000, 
+      "total_dth" : 8411, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 1, 
+      "total_dth_date" : 8440, 
+      "snf_dth" : 1572, 
+      "alf_dth" : 777, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1206
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1699516800000, 
+      "total_dth" : 8424, 
+      "daily_dth" : 13, 
+      "dth_date" : 3, 
+      "dth_date_yesterday" : 3, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8443, 
+      "snf_dth" : 1573, 
+      "alf_dth" : 778, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1207
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1699603200000, 
+      "total_dth" : 8424, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8443, 
+      "snf_dth" : 1573, 
+      "alf_dth" : 778, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1208
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1699689600000, 
+      "total_dth" : 8424, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8444, 
+      "snf_dth" : 1573, 
+      "alf_dth" : 778, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1209
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1699776000000, 
+      "total_dth" : 8424, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 1, 
+      "total_dth_date" : 8446, 
+      "snf_dth" : 1573, 
+      "alf_dth" : 778, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1210
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1699862400000, 
+      "total_dth" : 8424, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8446, 
+      "snf_dth" : 1573, 
+      "alf_dth" : 778, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1211
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1699948800000, 
+      "total_dth" : 8424, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8447, 
+      "snf_dth" : 1573, 
+      "alf_dth" : 778, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1212
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1700035200000, 
+      "total_dth" : 8424, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8448, 
+      "snf_dth" : 1573, 
+      "alf_dth" : 778, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1213
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1700121600000, 
+      "total_dth" : 8432, 
+      "daily_dth" : 8, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8450, 
+      "snf_dth" : 1576, 
+      "alf_dth" : 778, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1214
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1700208000000, 
+      "total_dth" : 8432, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : 0, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8450, 
+      "snf_dth" : 1576, 
+      "alf_dth" : 778, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1215
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1700294400000, 
+      "total_dth" : 8432, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : 2, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8452, 
+      "snf_dth" : 1576, 
+      "alf_dth" : 778, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1216
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1700380800000, 
+      "total_dth" : 8432, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : 1, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8453, 
+      "snf_dth" : 1576, 
+      "alf_dth" : 778, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1217
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1700467200000, 
+      "total_dth" : 8432, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : null, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8453, 
+      "snf_dth" : 1576, 
+      "alf_dth" : 778, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1218
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1700553600000, 
+      "total_dth" : 8432, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : null, 
+      "new_daily_dth_date" : 1, 
+      "total_dth_date" : 8454, 
+      "snf_dth" : 1576, 
+      "alf_dth" : 778, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1219
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1700640000000, 
+      "total_dth" : 8439, 
+      "daily_dth" : 7, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : null, 
+      "new_daily_dth_date" : 2, 
+      "total_dth_date" : 8456, 
+      "snf_dth" : 1578, 
+      "alf_dth" : 778, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1220
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1700726400000, 
+      "total_dth" : 8439, 
+      "daily_dth" : 0, 
+      "dth_date" : 2, 
+      "dth_date_yesterday" : null, 
+      "new_daily_dth_date" : 2, 
+      "total_dth_date" : 8458, 
+      "snf_dth" : 1578, 
+      "alf_dth" : 778, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1221
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1700812800000, 
+      "total_dth" : 8439, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : null, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8458, 
+      "snf_dth" : 1578, 
+      "alf_dth" : 778, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1222
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1700899200000, 
+      "total_dth" : 8439, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : null, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8458, 
+      "snf_dth" : 1578, 
+      "alf_dth" : 778, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1223
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1700985600000, 
+      "total_dth" : 8439, 
+      "daily_dth" : 0, 
+      "dth_date" : 0, 
+      "dth_date_yesterday" : null, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8458, 
+      "snf_dth" : 1578, 
+      "alf_dth" : 778, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1224
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1701072000000, 
+      "total_dth" : 8439, 
+      "daily_dth" : 0, 
+      "dth_date" : 1, 
+      "dth_date_yesterday" : null, 
+      "new_daily_dth_date" : 1, 
+      "total_dth_date" : 8459, 
+      "snf_dth" : 1578, 
+      "alf_dth" : 778, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1225
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1701158400000, 
+      "total_dth" : 8439, 
+      "daily_dth" : 0, 
+      "dth_date" : null, 
+      "dth_date_yesterday" : null, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8459, 
+      "snf_dth" : 1578, 
+      "alf_dth" : 778, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1226
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1701244800000, 
+      "total_dth" : 8439, 
+      "daily_dth" : 0, 
+      "dth_date" : null, 
+      "dth_date_yesterday" : null, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8459, 
+      "snf_dth" : 1578, 
+      "alf_dth" : 778, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1227
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1701331200000, 
+      "total_dth" : 8450, 
+      "daily_dth" : 11, 
+      "dth_date" : null, 
+      "dth_date_yesterday" : null, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8459, 
+      "snf_dth" : 1580, 
+      "alf_dth" : 778, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1228
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1701417600000, 
+      "total_dth" : 8450, 
+      "daily_dth" : 0, 
+      "dth_date" : null, 
+      "dth_date_yesterday" : null, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8459, 
+      "snf_dth" : 1580, 
+      "alf_dth" : 778, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1229
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1701504000000, 
+      "total_dth" : 8450, 
+      "daily_dth" : 0, 
+      "dth_date" : null, 
+      "dth_date_yesterday" : null, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8459, 
+      "snf_dth" : 1580, 
+      "alf_dth" : 778, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1230
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1701590400000, 
+      "total_dth" : 8450, 
+      "daily_dth" : 0, 
+      "dth_date" : null, 
+      "dth_date_yesterday" : null, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8459, 
+      "snf_dth" : 1580, 
+      "alf_dth" : 778, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1231
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1701676800000, 
+      "total_dth" : 8450, 
+      "daily_dth" : 0, 
+      "dth_date" : null, 
+      "dth_date_yesterday" : null, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8459, 
+      "snf_dth" : 1580, 
+      "alf_dth" : 778, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1232
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1701763200000, 
+      "total_dth" : 8450, 
+      "daily_dth" : 0, 
+      "dth_date" : null, 
+      "dth_date_yesterday" : null, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8459, 
+      "snf_dth" : 1580, 
+      "alf_dth" : 778, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1233
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1701849600000, 
+      "total_dth" : 8450, 
+      "daily_dth" : 0, 
+      "dth_date" : null, 
+      "dth_date_yesterday" : null, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8459, 
+      "snf_dth" : 1580, 
+      "alf_dth" : 778, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1234
+    }
+  }, 
+  {
+    "attributes" : {
+      "date" : 1701936000000, 
+      "total_dth" : 8459, 
+      "daily_dth" : 9, 
+      "dth_date" : null, 
+      "dth_date_yesterday" : null, 
+      "new_daily_dth_date" : 0, 
+      "total_dth_date" : 8459, 
+      "snf_dth" : 1580, 
+      "alf_dth" : 778, 
+      "jail_dth" : 3, 
+      "homeless_dth" : 24, 
+      "ObjectId" : 1235
+    }
   }
 ]

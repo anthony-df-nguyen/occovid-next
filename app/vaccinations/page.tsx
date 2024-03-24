@@ -7,9 +7,12 @@ import {
   vaxByRace,
   vaxByRacePercent,
   vaxByAge,
-  vaxByAgePercent, vaxBySex, vaxBySexPercent
+  vaxByAgePercent,
+  vaxBySex,
+  vaxBySexPercent,
+  doseHistory,
 } from "@/data/transformed/vax_breakdown";
-
+import Break from "@/components/layout/Break";
 export const metadata: Metadata = {
   title: "OCCOVID | Vaccinations",
   description: "OCCOVID Vaccinations",
@@ -46,9 +49,11 @@ export default function Vaccinations() {
           />
         </div>
         {/* Race */}
-        <br />
-        <hr />
-        <br />
+        <Break />
+        <div className="grid gap-42">
+          <BarChart data={doseHistory} />
+        </div>
+        <Break />
         <div className="sectionTitle">By Race/Ethnicity</div>
         <br />
         <div className="grid gap-4 md:grid-cols-2">
@@ -64,7 +69,7 @@ export default function Vaccinations() {
           />
         </div>
         {/* Age */}
-        <br />
+        <Break />
         <div className="sectionTitle">By Age</div>
         <br />
         <div className="grid gap-4 md:grid-cols-2">
@@ -79,7 +84,7 @@ export default function Vaccinations() {
             }}
           />
         </div>
-        <br />
+        <Break />
         {/*  Sex*/}
         <div className="sectionTitle">By Sex</div>
         <br />

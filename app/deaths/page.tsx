@@ -3,8 +3,15 @@ import StatCard from "@/components/ui/StatCard";
 import type { Metadata } from "next";
 import summarizedToDates from "@/data/source/static_counts/summarized";
 import { BarChart } from "@/components/charts/BarChart";
-import { total_dth,dth_date, snf_dth, alf_dth, jail_dth,homeless_dth  } from "@/data/transformed/death_history";
-
+import {
+  total_dth,
+  dth_date,
+  snf_dth,
+  alf_dth,
+  jail_dth,
+  homeless_dth,
+} from "@/data/transformed/death_history";
+import Break from "@/components/layout/Break";
 
 export const metadata: Metadata = {
   title: "OCCOVID | Deaths",
@@ -17,7 +24,7 @@ export default function Deaths() {
       <Shell pageURL="/deaths">
         {/* Cases */}
         <div className="pageTitle">Deaths</div>
-        <div className="subTitle">as of December 31, 2022</div>
+        <div className="subTitle">as of {new Date(summarizedToDates.deaths.date).toLocaleDateString()}</div>
         <div className="mt-4 grid gap-4 md:grid-cols-2 lg:grid-cols-4">
           <StatCard
             name="Total Deaths"
@@ -37,9 +44,7 @@ export default function Deaths() {
             value={summarizedToDates.deaths.homeless_dth}
           />
         </div>
-        <br />
-        <hr />
-        <br />
+        <Break />
         <div className="grid gap-4 grid-cols-1 xl:grid-cols-2">
           <BarChart data={total_dth} />
           <BarChart data={dth_date} />

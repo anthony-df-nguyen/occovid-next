@@ -1,13 +1,9 @@
 import Shell from "@/components/layout/Shell";
-import StatCard from "@/components/ui/StatCard";
 import type { Metadata } from "next";
-import summarizedToDates from "@/data/source/static_counts/summarized";
+import Break from "@/components/layout/Break";
 import { BarChart } from "@/components/charts/BarChart";
-import {
-  hospital,
-  icu,
-  hospital_and_icu,
-} from "@/data/transformed/hospicu_history";
+import { hospital_and_icu } from "@/data/transformed/hospicu_history";
+import summarizedToDates from "@/data/source/static_counts/summarized";
 
 export const metadata: Metadata = {
   title: "OCCOVID | Hospitalizations",
@@ -17,13 +13,14 @@ export const metadata: Metadata = {
 export default function Hospitalizations() {
   return (
     <main className="">
-      <Shell pageURL="/Hospitalizations">
+      <Shell pageURL="/hospitalizations">
         {/* Cases */}
         <div className="pageTitle">Hospitalizations</div>
-        <div className="subTitle">as of December 31, 2022</div>
-        <br />
-        <hr />
-        <br />
+        <div className="subTitle">
+          as of{" "}
+          {new Date(summarizedToDates.hospitalized.date).toLocaleDateString()}
+        </div>
+        <Break />
         <div className="grid gap-4 grid-cols-1">
           <BarChart data={hospital_and_icu} />
         </div>

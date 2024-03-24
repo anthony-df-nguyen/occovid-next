@@ -67,12 +67,13 @@ class MultiSeriesChart implements ChartDataStructure {
   }
 }
 
-const sortDataByDate = (data: any[]) => {
-  return data.sort((a, b) => (a.attributes.date > b.attributes.date ? 1 : -1));
+const sortDataByDate = (data: any[], dateKey:string) => {
+
+  return data.sort((a, b) => (a.attributes[dateKey] > b.attributes[dateKey] ? 1 : -1));
 };
 
-const buildDateLabels = (data: any[]) => {
-  return data.map((row) => new Date(row.attributes.date).toLocaleDateString());
+const buildDateLabels = (data: any[],dateKey: string) => {
+  return data.map((row) => new Date(row.attributes[dateKey]).toLocaleDateString());
 };
 
 const filterCategoricalData = (

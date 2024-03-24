@@ -2,6 +2,7 @@ import Shell from "@/components/layout/Shell";
 import StatCard from "@/components/ui/StatCard";
 import type { Metadata } from "next";
 import summarizedToDates from "@/data/source/static_counts/summarized";
+import Break from "@/components/layout/Break";
 import { BarChart } from "@/components/charts/BarChart";
 import {
   total_cases_spec,
@@ -23,7 +24,9 @@ export default function Home() {
       <Shell pageURL="/cases">
         {/* Cases */}
         <div className="pageTitle">Cases</div>
-        <div className="subTitle">as of December 31, 2022</div>
+        <div className="subTitle">
+          as of {new Date(summarizedToDates.cases.date).toLocaleDateString()}
+        </div>
         <div className="mt-4 grid gap-4 md:grid-cols-2 lg:grid-cols-4">
           <StatCard
             name="Total Cases"
@@ -43,9 +46,7 @@ export default function Home() {
             value={summarizedToDates.cases.homeless_cases}
           />
         </div>
-        <br />
-        <hr />
-        <br />
+        <Break />
         <div className="grid gap-4 grid-cols-1 xl:grid-cols-2">
           <BarChart data={total_cases_spec} />
           <BarChart data={daily_cases_spec} />
