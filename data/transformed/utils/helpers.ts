@@ -75,5 +75,11 @@ const buildDateLabels = (data: any[]) => {
   return data.map((row) => new Date(row.attributes.date).toLocaleDateString());
 };
 
+const filterCategoricalData = (data: {attributes: {
+  [key: string]: string,
+}}[],key: string,value: string) => {
+  return data.filter(entry => entry.attributes[key] === value )
+}
+
 export type { ChartDataStructure };
-export { SingleSeriesChart, MultiSeriesChart, sortDataByDate, buildDateLabels };
+export { SingleSeriesChart, MultiSeriesChart, sortDataByDate, buildDateLabels, filterCategoricalData };

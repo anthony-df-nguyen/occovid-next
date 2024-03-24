@@ -20,10 +20,19 @@ const summarizedToDates = {
     jail_dth: 3,
     homeless_dth: 23,
   },
-  hospitalized:  {
-    "hospital" : 315, 
-    "icu" : 30, 
-  }
+  hospitalized: {
+    hospital: 315,
+    icu: 30,
+  },
+  totalDoses: {
+    num_1st: 242298,
+    num_1st2nd: 2377455,
+    num_atleast1: 2619753,
+    num_totalvalid: 7552581,
+    num_boosters: 1470389,
+    oc_pop_fully_vaxed: 73.7,
+    person_with_bivalent_booster: "594367",
+  },
 };
 
 export default summarizedToDates;

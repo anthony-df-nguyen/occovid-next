@@ -28,15 +28,18 @@ ChartJS.register(
 
 type Props = {
   data: ChartDataStructure;
+  scaleOptions?: {};
 };
 
-export function BarChart({ data }: Props) {
+export function BarChart({ data, scaleOptions }: Props) {
   const options = {
     responsive: true,
+    scales: scaleOptions,
     plugins: {
       legend: {
-        display: false,
-        //position: "top" as const,
+        // Display a legend if there are more than 1 series being passed in
+        display: data.datasets.length > 1 ? true : false,
+        position: "top" as const,
       },
       title: {
         display: true,
