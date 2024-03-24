@@ -1,0 +1,1322 @@
+[
+    {
+      "attributes" : {
+        "ZIP" : "92708", 
+        "pop" : 57354, 
+        "tot_cas" : 12545, 
+        "tot_dth" : 172, 
+        "tot_casrate" : 21872.9, 
+        "tot_dthrate" : 160.407295, 
+        "Cases_0_3" : 29, 
+        "Cases_4_9" : 111, 
+        "Cases_10_12" : 76, 
+        "Cases_13_14" : 49, 
+        "Cases_15_18" : 194
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92646", 
+        "pop" : 56496, 
+        "tot_cas" : 9416, 
+        "tot_dth" : 93, 
+        "tot_casrate" : 16666.7, 
+        "tot_dthrate" : 60.18125177, 
+        "Cases_0_3" : 29, 
+        "Cases_4_9" : 74, 
+        "Cases_10_12" : 70, 
+        "Cases_13_14" : 35, 
+        "Cases_15_18" : 204
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92648", 
+        "pop" : 47906, 
+        "tot_cas" : 8221, 
+        "tot_dth" : 140, 
+        "tot_casrate" : 17160.7, 
+        "tot_dthrate" : 189.9553292, 
+        "Cases_0_3" : 22, 
+        "Cases_4_9" : 48, 
+        "Cases_10_12" : 33, 
+        "Cases_13_14" : 42, 
+        "Cases_15_18" : 143
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92647", 
+        "pop" : 60269, 
+        "tot_cas" : 12111, 
+        "tot_dth" : 139, 
+        "tot_casrate" : 20094.9, 
+        "tot_dthrate" : 126.1013124, 
+        "Cases_0_3" : 63, 
+        "Cases_4_9" : 114, 
+        "Cases_10_12" : 95, 
+        "Cases_13_14" : 67, 
+        "Cases_15_18" : 231
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92655", 
+        "pop" : 8618, 
+        "tot_cas" : 1963, 
+        "tot_dth" : 36, 
+        "tot_casrate" : 22777.9, 
+        "tot_dthrate" : 324.9013692, 
+        "Cases_0_3" : 11, 
+        "Cases_4_9" : 21, 
+        "Cases_10_12" : 18, 
+        "Cases_13_14" : 21, 
+        "Cases_15_18" : 42
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "90720", 
+        "pop" : 22367, 
+        "tot_cas" : 4891, 
+        "tot_dth" : 88, 
+        "tot_casrate" : 21867, 
+        "tot_dthrate" : 268.252336, 
+        "Cases_0_3" : 11, 
+        "Cases_4_9" : 48, 
+        "Cases_10_12" : 29, 
+        "Cases_13_14" : 30, 
+        "Cases_15_18" : 108
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "90623", 
+        "pop" : 16309, 
+        "tot_cas" : 3615, 
+        "tot_dth" : 29, 
+        "tot_casrate" : 22165.7, 
+        "tot_dthrate" : 85.84217303, 
+        "Cases_0_3" : 16, 
+        "Cases_4_9" : 19, 
+        "Cases_10_12" : 12, 
+        "Cases_13_14" : 19, 
+        "Cases_15_18" : 44
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "90630", 
+        "pop" : 49551, 
+        "tot_cas" : 11171, 
+        "tot_dth" : 99, 
+        "tot_casrate" : 22544.4, 
+        "tot_dthrate" : 98.88801437, 
+        "Cases_0_3" : 53, 
+        "Cases_4_9" : 118, 
+        "Cases_10_12" : 62, 
+        "Cases_13_14" : 53, 
+        "Cases_15_18" : 182
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92833", 
+        "pop" : 55716, 
+        "tot_cas" : 12991, 
+        "tot_dth" : 155, 
+        "tot_casrate" : 23316.5, 
+        "tot_dthrate" : 163.3283078, 
+        "Cases_0_3" : 75, 
+        "Cases_4_9" : 149, 
+        "Cases_10_12" : 115, 
+        "Cases_13_14" : 95, 
+        "Cases_15_18" : 214
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "90621", 
+        "pop" : 36961, 
+        "tot_cas" : 9550, 
+        "tot_dth" : 84, 
+        "tot_casrate" : 25838, 
+        "tot_dthrate" : 154.2166067, 
+        "Cases_0_3" : 63, 
+        "Cases_4_9" : 125, 
+        "Cases_10_12" : 108, 
+        "Cases_13_14" : 87, 
+        "Cases_15_18" : 218
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "90620", 
+        "pop" : 45709, 
+        "tot_cas" : 12757, 
+        "tot_dth" : 142, 
+        "tot_casrate" : 27909.2, 
+        "tot_dthrate" : 207.8365311, 
+        "Cases_0_3" : 63, 
+        "Cases_4_9" : 141, 
+        "Cases_10_12" : 94, 
+        "Cases_13_14" : 74, 
+        "Cases_15_18" : 199
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92832", 
+        "pop" : 26225, 
+        "tot_cas" : 7686, 
+        "tot_dth" : 95, 
+        "tot_casrate" : 29307.9, 
+        "tot_dthrate" : 228.7893232, 
+        "Cases_0_3" : 53, 
+        "Cases_4_9" : 75, 
+        "Cases_10_12" : 69, 
+        "Cases_13_14" : 63, 
+        "Cases_15_18" : 195
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "90638", 
+        "pop" : 49383, 
+        "tot_cas" : 0, 
+        "tot_dth" : 0, 
+        "tot_casrate" : 0, 
+        "tot_dthrate" : 0, 
+        "Cases_0_3" : 0, 
+        "Cases_4_9" : 0, 
+        "Cases_10_12" : 0, 
+        "Cases_13_14" : 0, 
+        "Cases_15_18" : 0
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "90631", 
+        "pop" : 70485, 
+        "tot_cas" : 18483, 
+        "tot_dth" : 274, 
+        "tot_casrate" : 26222.6, 
+        "tot_dthrate" : 259.6297084, 
+        "Cases_0_3" : 87, 
+        "Cases_4_9" : 189, 
+        "Cases_10_12" : 164, 
+        "Cases_13_14" : 136, 
+        "Cases_15_18" : 380
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92703", 
+        "pop" : 68242, 
+        "tot_cas" : 17909, 
+        "tot_dth" : 203, 
+        "tot_casrate" : 26243.4, 
+        "tot_dthrate" : 222.736731, 
+        "Cases_0_3" : 160, 
+        "Cases_4_9" : 324, 
+        "Cases_10_12" : 240, 
+        "Cases_13_14" : 204, 
+        "Cases_15_18" : 478
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92704", 
+        "pop" : 89021, 
+        "tot_cas" : 24580, 
+        "tot_dth" : 273, 
+        "tot_casrate" : 27611.5, 
+        "tot_dthrate" : 224.66609, 
+        "Cases_0_3" : 199, 
+        "Cases_4_9" : 386, 
+        "Cases_10_12" : 307, 
+        "Cases_13_14" : 228, 
+        "Cases_15_18" : 609
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92835", 
+        "pop" : 26247, 
+        "tot_cas" : 6242, 
+        "tot_dth" : 181, 
+        "tot_casrate" : 23781.8, 
+        "tot_dthrate" : 472.4349449, 
+        "Cases_0_3" : 20, 
+        "Cases_4_9" : 54, 
+        "Cases_10_12" : 38, 
+        "Cases_13_14" : 30, 
+        "Cases_15_18" : 61
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92831", 
+        "pop" : 35725, 
+        "tot_cas" : 9265, 
+        "tot_dth" : 105, 
+        "tot_casrate" : 25934.2, 
+        "tot_dthrate" : 167.9496151, 
+        "Cases_0_3" : 54, 
+        "Cases_4_9" : 87, 
+        "Cases_10_12" : 52, 
+        "Cases_13_14" : 55, 
+        "Cases_15_18" : 164
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92662", 
+        "pop" : 2848, 
+        "tot_cas" : 272, 
+        "tot_dth" : null, 
+        "tot_casrate" : 9550.6, 
+        "tot_dthrate" : 70.2247191, 
+        "Cases_0_3" : null, 
+        "Cases_4_9" : null, 
+        "Cases_10_12" : null, 
+        "Cases_13_14" : null, 
+        "Cases_15_18" : 10
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92866", 
+        "pop" : 15345, 
+        "tot_cas" : 3359, 
+        "tot_dth" : 35, 
+        "tot_casrate" : 21889.9, 
+        "tot_dthrate" : 130.3356142, 
+        "Cases_0_3" : 27, 
+        "Cases_4_9" : 30, 
+        "Cases_10_12" : 30, 
+        "Cases_13_14" : 22, 
+        "Cases_15_18" : 71
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92861", 
+        "pop" : 5864, 
+        "tot_cas" : 948, 
+        "tot_dth" : 11, 
+        "tot_casrate" : 16166.4, 
+        "tot_dthrate" : 102.319236, 
+        "Cases_0_3" : null, 
+        "Cases_4_9" : 5, 
+        "Cases_10_12" : 10, 
+        "Cases_13_14" : 9, 
+        "Cases_15_18" : 29
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92865", 
+        "pop" : 21028, 
+        "tot_cas" : 5207, 
+        "tot_dth" : 60, 
+        "tot_casrate" : 24762.2, 
+        "tot_dthrate" : 190.2225604, 
+        "Cases_0_3" : 38, 
+        "Cases_4_9" : 73, 
+        "Cases_10_12" : 48, 
+        "Cases_13_14" : 40, 
+        "Cases_15_18" : 78
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92870", 
+        "pop" : 54323, 
+        "tot_cas" : 13545, 
+        "tot_dth" : 142, 
+        "tot_casrate" : 24934.2, 
+        "tot_dthrate" : 134.3813854, 
+        "Cases_0_3" : 79, 
+        "Cases_4_9" : 157, 
+        "Cases_10_12" : 121, 
+        "Cases_13_14" : 96, 
+        "Cases_15_18" : 244
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92821", 
+        "pop" : 39917, 
+        "tot_cas" : 9872, 
+        "tot_dth" : 112, 
+        "tot_casrate" : 24731.3, 
+        "tot_dthrate" : 175.3638801, 
+        "Cases_0_3" : 36, 
+        "Cases_4_9" : 84, 
+        "Cases_10_12" : 62, 
+        "Cases_13_14" : 61, 
+        "Cases_15_18" : 126
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92801", 
+        "pop" : 63542, 
+        "tot_cas" : 18406, 
+        "tot_dth" : 216, 
+        "tot_casrate" : 28966.7, 
+        "tot_dthrate" : 251.8019578, 
+        "Cases_0_3" : 129, 
+        "Cases_4_9" : 267, 
+        "Cases_10_12" : 187, 
+        "Cases_13_14" : 149, 
+        "Cases_15_18" : 417
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92845", 
+        "pop" : 16541, 
+        "tot_cas" : 3498, 
+        "tot_dth" : 46, 
+        "tot_casrate" : 21147.5, 
+        "tot_dthrate" : 120.911674, 
+        "Cases_0_3" : 8, 
+        "Cases_4_9" : 29, 
+        "Cases_10_12" : 23, 
+        "Cases_13_14" : 26, 
+        "Cases_15_18" : 73
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92802", 
+        "pop" : 44506, 
+        "tot_cas" : 12322, 
+        "tot_dth" : 175, 
+        "tot_casrate" : 27686.2, 
+        "tot_dthrate" : 301.083, 
+        "Cases_0_3" : 92, 
+        "Cases_4_9" : 182, 
+        "Cases_10_12" : 139, 
+        "Cases_13_14" : 109, 
+        "Cases_15_18" : 299
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92805", 
+        "pop" : 76299, 
+        "tot_cas" : 22339, 
+        "tot_dth" : 220, 
+        "tot_casrate" : 29278.2, 
+        "tot_dthrate" : 218.8757389, 
+        "Cases_0_3" : 163, 
+        "Cases_4_9" : 359, 
+        "Cases_10_12" : 263, 
+        "Cases_13_14" : 208, 
+        "Cases_15_18" : 564
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92806", 
+        "pop" : 41759, 
+        "tot_cas" : 11689, 
+        "tot_dth" : 96, 
+        "tot_casrate" : 27991.6, 
+        "tot_dthrate" : 146.0762949, 
+        "Cases_0_3" : 75, 
+        "Cases_4_9" : 149, 
+        "Cases_10_12" : 96, 
+        "Cases_13_14" : 86, 
+        "Cases_15_18" : 220
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92807", 
+        "pop" : 37263, 
+        "tot_cas" : 9344, 
+        "tot_dth" : 97, 
+        "tot_casrate" : 25075.8, 
+        "tot_dthrate" : 155.650377, 
+        "Cases_0_3" : 38, 
+        "Cases_4_9" : 99, 
+        "Cases_10_12" : 75, 
+        "Cases_13_14" : 55, 
+        "Cases_15_18" : 185
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92886", 
+        "pop" : 49595, 
+        "tot_cas" : 11556, 
+        "tot_dth" : 113, 
+        "tot_casrate" : 23300.7, 
+        "tot_dthrate" : 108.8819437, 
+        "Cases_0_3" : 36, 
+        "Cases_4_9" : 123, 
+        "Cases_10_12" : 98, 
+        "Cases_13_14" : 72, 
+        "Cases_15_18" : 242
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92823", 
+        "pop" : 5076, 
+        "tot_cas" : 1333, 
+        "tot_dth" : 10, 
+        "tot_casrate" : 26260.8, 
+        "tot_dthrate" : 137.9038613, 
+        "Cases_0_3" : 6, 
+        "Cases_4_9" : 13, 
+        "Cases_10_12" : null, 
+        "Cases_13_14" : 8, 
+        "Cases_15_18" : 24
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92887", 
+        "pop" : 21185, 
+        "tot_cas" : 4398, 
+        "tot_dth" : 31, 
+        "tot_casrate" : 20760, 
+        "tot_dthrate" : 61.36417276, 
+        "Cases_0_3" : 12, 
+        "Cases_4_9" : 40, 
+        "Cases_10_12" : 31, 
+        "Cases_13_14" : 27, 
+        "Cases_15_18" : 75
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92867", 
+        "pop" : 46436, 
+        "tot_cas" : 9113, 
+        "tot_dth" : 97, 
+        "tot_casrate" : 19624.9, 
+        "tot_dthrate" : 111.9820829, 
+        "Cases_0_3" : 59, 
+        "Cases_4_9" : 115, 
+        "Cases_10_12" : 84, 
+        "Cases_13_14" : 76, 
+        "Cases_15_18" : 221
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92868", 
+        "pop" : 26803, 
+        "tot_cas" : 7964, 
+        "tot_dth" : 141, 
+        "tot_casrate" : 29713.1, 
+        "tot_dthrate" : 369.3616386, 
+        "Cases_0_3" : 52, 
+        "Cases_4_9" : 85, 
+        "Cases_10_12" : 48, 
+        "Cases_13_14" : 53, 
+        "Cases_15_18" : 149
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92683", 
+        "pop" : 92938, 
+        "tot_cas" : 21013, 
+        "tot_dth" : 344, 
+        "tot_casrate" : 22609.7, 
+        "tot_dthrate" : 233.4889927, 
+        "Cases_0_3" : 99, 
+        "Cases_4_9" : 199, 
+        "Cases_10_12" : 143, 
+        "Cases_13_14" : 122, 
+        "Cases_15_18" : 350
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "90680", 
+        "pop" : 31557, 
+        "tot_cas" : 7814, 
+        "tot_dth" : 103, 
+        "tot_casrate" : 24761.5, 
+        "tot_dthrate" : 228.1585702, 
+        "Cases_0_3" : 68, 
+        "Cases_4_9" : 110, 
+        "Cases_10_12" : 80, 
+        "Cases_13_14" : 57, 
+        "Cases_15_18" : 185
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92804", 
+        "pop" : 92468, 
+        "tot_cas" : 24534, 
+        "tot_dth" : 461, 
+        "tot_casrate" : 26532.4, 
+        "tot_dthrate" : 361.2060388, 
+        "Cases_0_3" : 182, 
+        "Cases_4_9" : 321, 
+        "Cases_10_12" : 238, 
+        "Cases_13_14" : 189, 
+        "Cases_15_18" : 499
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92841", 
+        "pop" : 33921, 
+        "tot_cas" : 8401, 
+        "tot_dth" : 120, 
+        "tot_casrate" : 24766.4, 
+        "tot_dthrate" : 238.79013, 
+        "Cases_0_3" : 49, 
+        "Cases_4_9" : 91, 
+        "Cases_10_12" : 62, 
+        "Cases_13_14" : 56, 
+        "Cases_15_18" : 127
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92840", 
+        "pop" : 55661, 
+        "tot_cas" : 14332, 
+        "tot_dth" : 196, 
+        "tot_casrate" : 25748.7, 
+        "tot_dthrate" : 233.5567094, 
+        "Cases_0_3" : 81, 
+        "Cases_4_9" : 163, 
+        "Cases_10_12" : 127, 
+        "Cases_13_14" : 109, 
+        "Cases_15_18" : 284
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92844", 
+        "pop" : 26068, 
+        "tot_cas" : 5450, 
+        "tot_dth" : 56, 
+        "tot_casrate" : 20906.9, 
+        "tot_dthrate" : 118.9197484, 
+        "Cases_0_3" : 31, 
+        "Cases_4_9" : 53, 
+        "Cases_10_12" : 31, 
+        "Cases_13_14" : 29, 
+        "Cases_15_18" : 115
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92843", 
+        "pop" : 48185, 
+        "tot_cas" : 11671, 
+        "tot_dth" : 202, 
+        "tot_casrate" : 24221.2, 
+        "tot_dthrate" : 302.9988586, 
+        "Cases_0_3" : 75, 
+        "Cases_4_9" : 140, 
+        "Cases_10_12" : 111, 
+        "Cases_13_14" : 89, 
+        "Cases_15_18" : 251
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92649", 
+        "pop" : 33800, 
+        "tot_cas" : 5725, 
+        "tot_dth" : 56, 
+        "tot_casrate" : 16937.9, 
+        "tot_dthrate" : 79.8816568, 
+        "Cases_0_3" : 11, 
+        "Cases_4_9" : 43, 
+        "Cases_10_12" : 30, 
+        "Cases_13_14" : 27, 
+        "Cases_15_18" : 97
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "90742", 
+        "pop" : 1116, 
+        "tot_cas" : 152, 
+        "tot_dth" : null, 
+        "tot_casrate" : 13620.1, 
+        "tot_dthrate" : null, 
+        "Cases_0_3" : null, 
+        "Cases_4_9" : null, 
+        "Cases_10_12" : null, 
+        "Cases_13_14" : null, 
+        "Cases_15_18" : null
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "90743", 
+        "pop" : 429, 
+        "tot_cas" : 50, 
+        "tot_dth" : null, 
+        "tot_casrate" : 11655, 
+        "tot_dthrate" : null, 
+        "Cases_0_3" : null, 
+        "Cases_4_9" : null, 
+        "Cases_10_12" : null, 
+        "Cases_13_14" : null, 
+        "Cases_15_18" : null
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "90740", 
+        "pop" : 25125, 
+        "tot_cas" : 4319, 
+        "tot_dth" : 162, 
+        "tot_casrate" : 17190, 
+        "tot_dthrate" : 366.1691542, 
+        "Cases_0_3" : 12, 
+        "Cases_4_9" : 33, 
+        "Cases_10_12" : 19, 
+        "Cases_13_14" : 10, 
+        "Cases_15_18" : 54
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92706", 
+        "pop" : 37260, 
+        "tot_cas" : 10428, 
+        "tot_dth" : 167, 
+        "tot_casrate" : 27987.1, 
+        "tot_dthrate" : 303.2742888, 
+        "Cases_0_3" : 67, 
+        "Cases_4_9" : 160, 
+        "Cases_10_12" : 113, 
+        "Cases_13_14" : 77, 
+        "Cases_15_18" : 260
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92701", 
+        "pop" : 55137, 
+        "tot_cas" : 13831, 
+        "tot_dth" : 207, 
+        "tot_casrate" : 25084.8, 
+        "tot_dthrate" : 288.3725992, 
+        "Cases_0_3" : 145, 
+        "Cases_4_9" : 264, 
+        "Cases_10_12" : 197, 
+        "Cases_13_14" : 167, 
+        "Cases_15_18" : 435
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92780", 
+        "pop" : 57006, 
+        "tot_cas" : 13007, 
+        "tot_dth" : 97, 
+        "tot_casrate" : 22816.9, 
+        "tot_dthrate" : 131.5650984, 
+        "Cases_0_3" : 91, 
+        "Cases_4_9" : 155, 
+        "Cases_10_12" : 103, 
+        "Cases_13_14" : 103, 
+        "Cases_15_18" : 283
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92808", 
+        "pop" : 21301, 
+        "tot_cas" : 4421, 
+        "tot_dth" : 29, 
+        "tot_casrate" : 20754.9, 
+        "tot_dthrate" : 98.5869208, 
+        "Cases_0_3" : 13, 
+        "Cases_4_9" : 50, 
+        "Cases_10_12" : 35, 
+        "Cases_13_14" : 38, 
+        "Cases_15_18" : 89
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92705", 
+        "pop" : 47039, 
+        "tot_cas" : 10936, 
+        "tot_dth" : 143, 
+        "tot_casrate" : 23248.8, 
+        "tot_dthrate" : 212.5895533, 
+        "Cases_0_3" : 69, 
+        "Cases_4_9" : 157, 
+        "Cases_10_12" : 106, 
+        "Cases_13_14" : 80, 
+        "Cases_15_18" : 260
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92673", 
+        "pop" : 33456, 
+        "tot_cas" : 4603, 
+        "tot_dth" : 42, 
+        "tot_casrate" : 13758.4, 
+        "tot_dthrate" : 83.69201339, 
+        "Cases_0_3" : 20, 
+        "Cases_4_9" : 51, 
+        "Cases_10_12" : 49, 
+        "Cases_13_14" : 46, 
+        "Cases_15_18" : 155
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92672", 
+        "pop" : 41674, 
+        "tot_cas" : 5337, 
+        "tot_dth" : 47, 
+        "tot_casrate" : 12806.5, 
+        "tot_dthrate" : 38.39324279, 
+        "Cases_0_3" : 16, 
+        "Cases_4_9" : 45, 
+        "Cases_10_12" : 32, 
+        "Cases_13_14" : 44, 
+        "Cases_15_18" : 112
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92624", 
+        "pop" : 7215, 
+        "tot_cas" : 1328, 
+        "tot_dth" : 39, 
+        "tot_casrate" : 18406.1, 
+        "tot_dthrate" : 332.6403326, 
+        "Cases_0_3" : 5, 
+        "Cases_4_9" : 8, 
+        "Cases_10_12" : 11, 
+        "Cases_13_14" : 8, 
+        "Cases_15_18" : 17
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92629", 
+        "pop" : 26930, 
+        "tot_cas" : 4029, 
+        "tot_dth" : 29, 
+        "tot_casrate" : 14961, 
+        "tot_dthrate" : 40.84663944, 
+        "Cases_0_3" : 16, 
+        "Cases_4_9" : 34, 
+        "Cases_10_12" : 17, 
+        "Cases_13_14" : 22, 
+        "Cases_15_18" : 88
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92651", 
+        "pop" : 25316, 
+        "tot_cas" : 3127, 
+        "tot_dth" : 16, 
+        "tot_casrate" : 12351.9, 
+        "tot_dthrate" : 19.75035551, 
+        "Cases_0_3" : 7, 
+        "Cases_4_9" : 20, 
+        "Cases_10_12" : 17, 
+        "Cases_13_14" : 10, 
+        "Cases_15_18" : 75
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92694", 
+        "pop" : 32279, 
+        "tot_cas" : 5361, 
+        "tot_dth" : 21, 
+        "tot_casrate" : 16608.3, 
+        "tot_dthrate" : 27.88190464, 
+        "Cases_0_3" : 32, 
+        "Cases_4_9" : 64, 
+        "Cases_10_12" : 64, 
+        "Cases_13_14" : 56, 
+        "Cases_15_18" : 131
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92675", 
+        "pop" : 37978, 
+        "tot_cas" : 7029, 
+        "tot_dth" : 127, 
+        "tot_casrate" : 18508.1, 
+        "tot_dthrate" : 239.6124072, 
+        "Cases_0_3" : 43, 
+        "Cases_4_9" : 99, 
+        "Cases_10_12" : 70, 
+        "Cases_13_14" : 68, 
+        "Cases_15_18" : 184
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92688", 
+        "pop" : 45484, 
+        "tot_cas" : 8340, 
+        "tot_dth" : 47, 
+        "tot_casrate" : 18336.1, 
+        "tot_dthrate" : 24.18432856, 
+        "Cases_0_3" : 28, 
+        "Cases_4_9" : 62, 
+        "Cases_10_12" : 42, 
+        "Cases_13_14" : 57, 
+        "Cases_15_18" : 165
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92677", 
+        "pop" : 67124, 
+        "tot_cas" : 10084, 
+        "tot_dth" : 80, 
+        "tot_casrate" : 15022.9, 
+        "tot_dthrate" : 55.12186401, 
+        "Cases_0_3" : 30, 
+        "Cases_4_9" : 94, 
+        "Cases_10_12" : 74, 
+        "Cases_13_14" : 66, 
+        "Cases_15_18" : 167
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92656", 
+        "pop" : 52966, 
+        "tot_cas" : 8674, 
+        "tot_dth" : 48, 
+        "tot_casrate" : 16376.5, 
+        "tot_dthrate" : 52.8641015, 
+        "Cases_0_3" : 40, 
+        "Cases_4_9" : 107, 
+        "Cases_10_12" : 48, 
+        "Cases_13_14" : 61, 
+        "Cases_15_18" : 195
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92637", 
+        "pop" : 16999, 
+        "tot_cas" : 2293, 
+        "tot_dth" : 105, 
+        "tot_casrate" : 13489, 
+        "tot_dthrate" : 323.548444, 
+        "Cases_0_3" : null, 
+        "Cases_4_9" : null, 
+        "Cases_10_12" : null, 
+        "Cases_13_14" : null, 
+        "Cases_15_18" : null
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92653", 
+        "pop" : 29183, 
+        "tot_cas" : 5575, 
+        "tot_dth" : 140, 
+        "tot_casrate" : 19103.6, 
+        "tot_dthrate" : 239.8656752, 
+        "Cases_0_3" : 31, 
+        "Cases_4_9" : 50, 
+        "Cases_10_12" : 33, 
+        "Cases_13_14" : 35, 
+        "Cases_15_18" : 85
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92692", 
+        "pop" : 48026, 
+        "tot_cas" : 7811, 
+        "tot_dth" : 73, 
+        "tot_casrate" : 16264.1, 
+        "tot_dthrate" : 72.87719152, 
+        "Cases_0_3" : 28, 
+        "Cases_4_9" : 61, 
+        "Cases_10_12" : 48, 
+        "Cases_13_14" : 39, 
+        "Cases_15_18" : 125
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92691", 
+        "pop" : 48837, 
+        "tot_cas" : 8869, 
+        "tot_dth" : 134, 
+        "tot_casrate" : 18160.4, 
+        "tot_dthrate" : 155.6197146, 
+        "Cases_0_3" : 25, 
+        "Cases_4_9" : 90, 
+        "Cases_10_12" : 59, 
+        "Cases_13_14" : 59, 
+        "Cases_15_18" : 173
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92630", 
+        "pop" : 65142, 
+        "tot_cas" : 12389, 
+        "tot_dth" : 106, 
+        "tot_casrate" : 19018.5, 
+        "tot_dthrate" : 72.15007215, 
+        "Cases_0_3" : 57, 
+        "Cases_4_9" : 116, 
+        "Cases_10_12" : 94, 
+        "Cases_13_14" : 73, 
+        "Cases_15_18" : 204
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92610", 
+        "pop" : 10793, 
+        "tot_cas" : 1940, 
+        "tot_dth" : 12, 
+        "tot_casrate" : 17974.6, 
+        "tot_dthrate" : 27.79579357, 
+        "Cases_0_3" : null, 
+        "Cases_4_9" : 16, 
+        "Cases_10_12" : 16, 
+        "Cases_13_14" : 12, 
+        "Cases_15_18" : 33
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92679", 
+        "pop" : 33336, 
+        "tot_cas" : 4782, 
+        "tot_dth" : 20, 
+        "tot_casrate" : 14344.9, 
+        "tot_dthrate" : 23.99808015, 
+        "Cases_0_3" : 10, 
+        "Cases_4_9" : 32, 
+        "Cases_10_12" : 39, 
+        "Cases_13_14" : 23, 
+        "Cases_15_18" : 112
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92604", 
+        "pop" : 27649, 
+        "tot_cas" : 5478, 
+        "tot_dth" : 50, 
+        "tot_casrate" : 19812.7, 
+        "tot_dthrate" : 86.802416, 
+        "Cases_0_3" : 10, 
+        "Cases_4_9" : 34, 
+        "Cases_10_12" : 41, 
+        "Cases_13_14" : 21, 
+        "Cases_15_18" : 84
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92620", 
+        "pop" : 49298, 
+        "tot_cas" : 10987, 
+        "tot_dth" : 52, 
+        "tot_casrate" : 22286.9, 
+        "tot_dthrate" : 42.598077, 
+        "Cases_0_3" : 31, 
+        "Cases_4_9" : 105, 
+        "Cases_10_12" : 81, 
+        "Cases_13_14" : 42, 
+        "Cases_15_18" : 107
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92618", 
+        "pop" : 34878, 
+        "tot_cas" : 11345, 
+        "tot_dth" : 21, 
+        "tot_casrate" : 32527.7, 
+        "tot_dthrate" : 20.06995814, 
+        "Cases_0_3" : 57, 
+        "Cases_4_9" : 98, 
+        "Cases_10_12" : 63, 
+        "Cases_13_14" : 39, 
+        "Cases_15_18" : 94
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92676", 
+        "pop" : 2009, 
+        "tot_cas" : 313, 
+        "tot_dth" : null, 
+        "tot_casrate" : 15579.9, 
+        "tot_dthrate" : 49.77600796, 
+        "Cases_0_3" : null, 
+        "Cases_4_9" : null, 
+        "Cases_10_12" : null, 
+        "Cases_13_14" : null, 
+        "Cases_15_18" : null
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92617", 
+        "pop" : 16531, 
+        "tot_cas" : 3004, 
+        "tot_dth" : null, 
+        "tot_casrate" : 18171.9, 
+        "tot_dthrate" : 12.09848164, 
+        "Cases_0_3" : null, 
+        "Cases_4_9" : 5, 
+        "Cases_10_12" : null, 
+        "Cases_13_14" : null, 
+        "Cases_15_18" : 35
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92657", 
+        "pop" : 12157, 
+        "tot_cas" : 1208, 
+        "tot_dth" : 11, 
+        "tot_casrate" : 9936.7, 
+        "tot_dthrate" : 49.35428148, 
+        "Cases_0_3" : 6, 
+        "Cases_4_9" : 14, 
+        "Cases_10_12" : 9, 
+        "Cases_13_14" : null, 
+        "Cases_15_18" : 26
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92612", 
+        "pop" : 32969, 
+        "tot_cas" : 6393, 
+        "tot_dth" : 44, 
+        "tot_casrate" : 19390.9, 
+        "tot_dthrate" : 81.89511359, 
+        "Cases_0_3" : 14, 
+        "Cases_4_9" : 28, 
+        "Cases_10_12" : 21, 
+        "Cases_13_14" : 12, 
+        "Cases_15_18" : 45
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92603", 
+        "pop" : 22719, 
+        "tot_cas" : 2927, 
+        "tot_dth" : 10, 
+        "tot_casrate" : 12883.5, 
+        "tot_dthrate" : 17.60640873, 
+        "Cases_0_3" : 10, 
+        "Cases_4_9" : 34, 
+        "Cases_10_12" : 19, 
+        "Cases_13_14" : 11, 
+        "Cases_15_18" : 38
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92625", 
+        "pop" : 12540, 
+        "tot_cas" : 1281, 
+        "tot_dth" : 12, 
+        "tot_casrate" : 10215.3, 
+        "tot_dthrate" : 23.92344498, 
+        "Cases_0_3" : null, 
+        "Cases_4_9" : 13, 
+        "Cases_10_12" : null, 
+        "Cases_13_14" : null, 
+        "Cases_15_18" : 33
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92661", 
+        "pop" : 3938, 
+        "tot_cas" : 426, 
+        "tot_dth" : null, 
+        "tot_casrate" : 10817.7, 
+        "tot_dthrate" : null, 
+        "Cases_0_3" : null, 
+        "Cases_4_9" : null, 
+        "Cases_10_12" : null, 
+        "Cases_13_14" : null, 
+        "Cases_15_18" : 9
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92663", 
+        "pop" : 22489, 
+        "tot_cas" : 3946, 
+        "tot_dth" : 117, 
+        "tot_casrate" : 17546.4, 
+        "tot_dthrate" : 333.496376, 
+        "Cases_0_3" : 12, 
+        "Cases_4_9" : 20, 
+        "Cases_10_12" : 16, 
+        "Cases_13_14" : 6, 
+        "Cases_15_18" : 52
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92660", 
+        "pop" : 36123, 
+        "tot_cas" : 4810, 
+        "tot_dth" : 34, 
+        "tot_casrate" : 13315.6, 
+        "tot_dthrate" : 19.37823547, 
+        "Cases_0_3" : 13, 
+        "Cases_4_9" : 32, 
+        "Cases_10_12" : 34, 
+        "Cases_13_14" : 36, 
+        "Cases_15_18" : 128
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92626", 
+        "pop" : 52228, 
+        "tot_cas" : 11458, 
+        "tot_dth" : 82, 
+        "tot_casrate" : 21938.4, 
+        "tot_dthrate" : 80.41663476, 
+        "Cases_0_3" : 52, 
+        "Cases_4_9" : 117, 
+        "Cases_10_12" : 88, 
+        "Cases_13_14" : 80, 
+        "Cases_15_18" : 221
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92627", 
+        "pop" : 64900, 
+        "tot_cas" : 13193, 
+        "tot_dth" : 157, 
+        "tot_casrate" : 20328.2, 
+        "tot_dthrate" : 167.9506934, 
+        "Cases_0_3" : 74, 
+        "Cases_4_9" : 147, 
+        "Cases_10_12" : 123, 
+        "Cases_13_14" : 101, 
+        "Cases_15_18" : 309
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92614", 
+        "pop" : 26675, 
+        "tot_cas" : 6135, 
+        "tot_dth" : 10, 
+        "tot_casrate" : 22999.1, 
+        "tot_dthrate" : 14.99531396, 
+        "Cases_0_3" : 15, 
+        "Cases_4_9" : 44, 
+        "Cases_10_12" : 26, 
+        "Cases_13_14" : 18, 
+        "Cases_15_18" : 74
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92606", 
+        "pop" : 23857, 
+        "tot_cas" : 4908, 
+        "tot_dth" : 14, 
+        "tot_casrate" : 20572.6, 
+        "tot_dthrate" : 25.1498512, 
+        "Cases_0_3" : 26, 
+        "Cases_4_9" : 41, 
+        "Cases_10_12" : 28, 
+        "Cases_13_14" : 23, 
+        "Cases_15_18" : 43
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92782", 
+        "pop" : 28855, 
+        "tot_cas" : 5523, 
+        "tot_dth" : 14, 
+        "tot_casrate" : 19140.5, 
+        "tot_dthrate" : 31.19043493, 
+        "Cases_0_3" : 23, 
+        "Cases_4_9" : 61, 
+        "Cases_10_12" : 42, 
+        "Cases_13_14" : 24, 
+        "Cases_15_18" : 67
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92602", 
+        "pop" : 30363, 
+        "tot_cas" : 5123, 
+        "tot_dth" : 9, 
+        "tot_casrate" : 16872.5, 
+        "tot_dthrate" : 9.880446596, 
+        "Cases_0_3" : 24, 
+        "Cases_4_9" : 49, 
+        "Cases_10_12" : 30, 
+        "Cases_13_14" : 26, 
+        "Cases_15_18" : 79
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92869", 
+        "pop" : 38271, 
+        "tot_cas" : 7989, 
+        "tot_dth" : 113, 
+        "tot_casrate" : 20874.8, 
+        "tot_dthrate" : 180.2931724, 
+        "Cases_0_3" : 55, 
+        "Cases_4_9" : 83, 
+        "Cases_10_12" : 58, 
+        "Cases_13_14" : 49, 
+        "Cases_15_18" : 137
+      }
+    }, 
+    {
+      "attributes" : {
+        "ZIP" : "92707", 
+        "pop" : 62175, 
+        "tot_cas" : 18088, 
+        "tot_dth" : 207, 
+        "tot_casrate" : 29092.1, 
+        "tot_dthrate" : 260.5548854, 
+        "Cases_0_3" : 146, 
+        "Cases_4_9" : 244, 
+        "Cases_10_12" : 208, 
+        "Cases_13_14" : 167, 
+        "Cases_15_18" : 439
+      }
+    }
+  ]

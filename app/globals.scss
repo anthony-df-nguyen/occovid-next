@@ -17,13 +17,21 @@
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
+  @apply bg-gray-100
+  /* color: rgb(var(--foreground-rgb)); */
+  /* background: linear-gradient(
       to bottom,
       transparent,
       rgb(var(--background-end-rgb))
     )
-    rgb(var(--background-start-rgb));
+    rgb(var(--background-start-rgb)); */
+}
+
+.pageTitle {
+  @apply text-2xl font-bold text-blue-500;
+}
+.subTitle {
+  @apply text-lg;
 }
 
 @layer utilities {
