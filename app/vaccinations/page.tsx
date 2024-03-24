@@ -2,7 +2,8 @@ import Shell from "@/components/layout/Shell";
 import StatCard from "@/components/ui/StatCard";
 import type { Metadata } from "next";
 import summarizedToDates from "@/data/source/static_counts/summarized";
-import { BarChart } from "@/components/charts/BarChart";
+// import { BarChart } from "@/components/charts/BarChart";
+import dynamic from "next/dynamic";
 import {
   vaxByRace,
   vaxByRacePercent,
@@ -17,6 +18,10 @@ export const metadata: Metadata = {
   title: "OCCOVID | Vaccinations",
   description: "OCCOVID Vaccinations",
 };
+
+const BarChart = dynamic(() => import("../../components/charts/BarChart"), {
+  ssr: false,
+});
 
 export default function Vaccinations() {
   return (

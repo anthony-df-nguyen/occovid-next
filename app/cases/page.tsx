@@ -3,7 +3,8 @@ import StatCard from "@/components/ui/StatCard";
 import type { Metadata } from "next";
 import summarizedToDates from "@/data/source/static_counts/summarized";
 import Break from "@/components/layout/Break";
-import { BarChart } from "@/components/charts/BarChart";
+// import { BarChart } from "@/components/charts/BarChart";
+import dynamic from "next/dynamic";
 import {
   total_cases_spec,
   daily_cases_spec,
@@ -17,6 +18,10 @@ export const metadata: Metadata = {
   title: "OCCOVID | Cases",
   description: "OCCOVID Cases",
 };
+
+const BarChart = dynamic(() => import("../../components/charts/BarChart"), {
+  ssr: false,
+});
 
 export default function Home() {
   return (

@@ -1,4 +1,4 @@
-"use client"
+"use client";
 import React from "react";
 import Card from "../ui/Card";
 import {
@@ -13,25 +13,27 @@ import {
   PointElement,
 } from "chart.js";
 import { Bar } from "react-chartjs-2";
+import ZoomPlugin from "chartjs-plugin-zoom";
 import { ChartDataStructure } from "@/data/transformed/utils/helpers";
-
-ChartJS.register(
-  CategoryScale,
-  LinearScale,
-  LineElement,
-  BarElement,
-  Title,
-  Tooltip,
-  Legend,
-  PointElement
-);
 
 type Props = {
   data: ChartDataStructure;
   scaleOptions?: {};
 };
 
-export function BarChart({ data, scaleOptions }: Props) {
+const BarChart = ({ data, scaleOptions }: Props) => {
+  ChartJS.register(
+    CategoryScale,
+    LinearScale,
+    LineElement,
+    BarElement,
+    Title,
+    Tooltip,
+    Legend,
+    PointElement,
+    ZoomPlugin
+  );
+
   const options = {
     responsive: true,
     maintainAspectRatio: false,
@@ -46,6 +48,22 @@ export function BarChart({ data, scaleOptions }: Props) {
         display: true,
         text: data.title,
       },
+      zoom: {
+        zoom: {
+          wheel: {
+            enabled: true,
+            mode: 'x',
+          },
+          pinch: {
+            enabled: true,
+            mode: 'x'
+          },
+          drag: {
+            enabled: true,
+            mode: 'x'
+          },
+        },
+      }
     },
   };
   return (
@@ -55,4 +73,6 @@ export function BarChart({ data, scaleOptions }: Props) {
       </div>
     </Card>
   );
-}
+};
+
+export default BarChart;

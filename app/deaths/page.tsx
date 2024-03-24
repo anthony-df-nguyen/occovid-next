@@ -2,7 +2,8 @@ import Shell from "@/components/layout/Shell";
 import StatCard from "@/components/ui/StatCard";
 import type { Metadata } from "next";
 import summarizedToDates from "@/data/source/static_counts/summarized";
-import { BarChart } from "@/components/charts/BarChart";
+// import { BarChart } from "@/components/charts/BarChart";
+import dynamic from "next/dynamic";
 import {
   total_dth,
   dth_date,
@@ -17,6 +18,9 @@ export const metadata: Metadata = {
   title: "OCCOVID | Deaths",
   description: "OCCOVID Deaths",
 };
+const BarChart = dynamic(() => import("../../components/charts/BarChart"), {
+  ssr: false,
+});
 
 export default function Deaths() {
   return (
@@ -24,7 +28,9 @@ export default function Deaths() {
       <Shell pageURL="/deaths">
         {/* Cases */}
         <div className="pageTitle">Deaths</div>
-        <div className="subTitle">as of {new Date(summarizedToDates.deaths.date).toLocaleDateString()}</div>
+        <div className="subTitle">
+          as of {new Date(summarizedToDates.deaths.date).toLocaleDateString()}
+        </div>
         <div className="mt-4 grid gap-4 md:grid-cols-2 lg:grid-cols-4">
           <StatCard
             name="Total Deaths"
