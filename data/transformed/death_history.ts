@@ -15,7 +15,7 @@ const total_dth = new SingleSeriesChart(
   labels,
   data,
   "total_dth_date",
-  colors.Red
+  colors.red
 );
 
 const dth_date = new SingleSeriesChart(
@@ -23,7 +23,7 @@ const dth_date = new SingleSeriesChart(
   labels,
   data,
   "dth_date",
-  colors.Red
+  colors.red
 );
 
 const snf_dth = new SingleSeriesChart(
@@ -31,28 +31,28 @@ const snf_dth = new SingleSeriesChart(
   labels,
   data,
   "snf_dth",
-  colors.Yellow
+  colors.yellow
 );
 const alf_dth = new SingleSeriesChart(
   "Alternative Living Facilities",
   labels,
   data,
   "alf_dth",
-  colors.Orange
+  colors.orange
 );
 const jail_dth = new SingleSeriesChart(
   "Jails",
   labels,
   data,
   "jail_dth",
-  colors.HotPink
+  colors.gold
 );
 const homeless_dth = new SingleSeriesChart(
   "Homeless",
   labels,
   data,
   "homeless_dth",
-  colors.Purple
+  colors.purple
 );
 
 export { total_dth, dth_date, snf_dth, alf_dth, jail_dth, homeless_dth };

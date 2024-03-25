@@ -111,7 +111,7 @@ const raceKeys = [
 ]
 
 const sexKeys = [
-  "Male", "Female", "Unknown Sex"
+  "Male", "Female"
 ]
 
 export type { ChartDataStructure };

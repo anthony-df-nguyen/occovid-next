@@ -29,7 +29,7 @@ const doseHistory = new SingleSeriesChart(
   dosesLabels,
   timeData,
   "valid_admin",
-  colors.Blue
+  colors.blue
 );
 
 //Race

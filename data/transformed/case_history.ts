@@ -16,28 +16,28 @@ const total_cases_spec = new SingleSeriesChart(
   labels,
   data,
   "total_cases_spec",
-  colors.Red
+  colors.red
 );
 const daily_cases_spec = new SingleSeriesChart(
   "Daily Cases by Specimen Collection Date",
   labels,
   data,
   "daily_cases_spec",
-  colors.HotPink
+  colors.orange
 );
 const snf_cases = new SingleSeriesChart(
   "SNF Cases",
   labels,
   data,
   "snf_cases",
-  colors.Orange
+  colors.orange
 );
 const homeless_cases = new SingleSeriesChart(
   "Homeless Cases",
   labels,
   data,
   "homeless_cases",
-  colors.Purple
+  colors.purple
 );
 
 const jail_cases = new SingleSeriesChart(
@@ -45,7 +45,7 @@ const jail_cases = new SingleSeriesChart(
   labels,
   data,
   "jail_cases",
-  colors.Yellow
+  colors.yellow
 );
 
 const recovered = new SingleSeriesChart(
@@ -53,7 +53,7 @@ const recovered = new SingleSeriesChart(
   labels,
   data,
   "recovered",
-  colors.Cyan,
+  colors.darkBlue,
 );
 
 export {
