@@ -12,7 +12,7 @@ import {
   sortDataByDate,
   buildDateLabels,
   SingleSeriesChart,
-} from "./utils/helpers";
+} from "../../components/charts/utils/helpers";
 import {
   ageMapping,
   raceMapping,

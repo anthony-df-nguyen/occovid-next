@@ -14,7 +14,19 @@ import {
 } from "chart.js";
 import { Bar } from "react-chartjs-2";
 import ZoomPlugin from "chartjs-plugin-zoom";
-import { ChartDataStructure } from "@/data/transformed/utils/helpers";
+import { ChartDataStructure } from "@/components/charts/utils/helpers";
+
+ChartJS.register(
+  CategoryScale,
+  LinearScale,
+  LineElement,
+  BarElement,
+  Title,
+  Tooltip,
+  Legend,
+  PointElement,
+  ZoomPlugin
+);
 
 type Props = {
   data: ChartDataStructure;
@@ -22,18 +34,6 @@ type Props = {
 };
 
 const BarChart = ({ data, scaleOptions }: Props) => {
-  ChartJS.register(
-    CategoryScale,
-    LinearScale,
-    LineElement,
-    BarElement,
-    Title,
-    Tooltip,
-    Legend,
-    PointElement,
-    ZoomPlugin
-  );
-
   const options = {
     responsive: true,
     maintainAspectRatio: false,
@@ -50,17 +50,15 @@ const BarChart = ({ data, scaleOptions }: Props) => {
       },
       zoom: {
         zoom: {
+          mode: 'x',
           wheel: {
             enabled: true,
-            mode: 'x',
           },
           pinch: {
             enabled: true,
-            mode: 'x'
           },
           drag: {
             enabled: true,
-            mode: 'x'
           },
         },
       }
@@ -69,6 +67,7 @@ const BarChart = ({ data, scaleOptions }: Props) => {
   return (
     <Card>
       <div className="min-h-[300px]">
+        {/* @ts-expect-error */}
         <Bar options={options} data={data} />
       </div>
     </Card>

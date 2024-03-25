@@ -4,7 +4,7 @@ import {
   SingleSeriesChart,
   sortDataByDate,
   buildDateLabels,
-} from "./utils/helpers";
+} from "../../components/charts/utils/helpers";
 import { colors } from "@/components/colors/colors";
 
 sortDataByDate(data,"date");

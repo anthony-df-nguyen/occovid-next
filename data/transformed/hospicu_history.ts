@@ -5,7 +5,7 @@ import {
   MultiSeriesChart,
   sortDataByDate,
   buildDateLabels,
-} from "./utils/helpers";
+} from "../../components/charts/utils/helpers";
 
 sortDataByDate(data, "date");
 const labels = buildDateLabels(data, "date");
