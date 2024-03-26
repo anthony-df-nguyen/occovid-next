@@ -2,8 +2,6 @@ import Shell from "@/components/layout/Shell";
 import StatCard from "@/components/ui/StatCard";
 import type { Metadata } from "next";
 import summarizedToDates from "@/data/source/static_counts/summarized";
-// import { BarChart } from "@/components/charts/BarChart";
-import dynamic from "next/dynamic";
 import {
   total_dth,
   dth_date,
@@ -13,14 +11,22 @@ import {
   homeless_dth,
 } from "@/data/transformed/death_history";
 import Break from "@/components/layout/Break";
+import TabChartController from "@/components/charts/TabChartController";
+import { TabData } from "@/components/charts/TabChartController";
 
 export const metadata: Metadata = {
   title: "OCCOVID | Deaths",
   description: "OCCOVID Deaths",
 };
-const BarChart = dynamic(() => import("../../components/charts/BarChart"), {
-  ssr: false,
-});
+
+const deathTabs: TabData = [
+  { tabName: "Total Deaths", tabData: total_dth },
+  { tabName: "Daily Deaths", tabData: dth_date },
+  { tabName: "SNFs", tabData: snf_dth },
+  { tabName: "ALFs", tabData: alf_dth },
+  { tabName: "Homeless", tabData: homeless_dth },
+  { tabName: "Jail", tabData: jail_dth },
+];
 
 export default function Deaths() {
   return (
@@ -51,14 +57,8 @@ export default function Deaths() {
           />
         </div>
         <Break />
-        <div className="grid gap-4 grid-cols-1 xl:grid-cols-2">
-          <BarChart data={total_dth} />
-          <BarChart data={dth_date} />
-          <BarChart data={snf_dth} />
-          <BarChart data={alf_dth} />
-          <BarChart data={jail_dth} />
-          <BarChart data={homeless_dth} />
-        </div>
+        <TabChartController data={deathTabs} />
+        <Break />
       </Shell>
     </main>
   );

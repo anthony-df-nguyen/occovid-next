@@ -1,7 +1,7 @@
 import Shell from "@/components/layout/Shell";
 import type { Metadata } from "next";
 import Break from "@/components/layout/Break";
-//import { BarChart } from "@/components/charts/BarChart";
+import ChartController from "@/components/charts/ChartController";
 import dynamic from "next/dynamic";
 import { hospital_and_icu } from "@/data/transformed/hospicu_history";
 import summarizedToDates from "@/data/source/static_counts/summarized";
@@ -26,9 +26,17 @@ export default function Hospitalizations() {
           {new Date(summarizedToDates.hospitalized.date).toLocaleDateString()}
         </div>
         <Break />
-        <div className="grid gap-4 grid-cols-1">
-          <BarChart data={hospital_and_icu} />
-        </div>
+        <ChartController
+          data={hospital_and_icu}
+          scaleOptions={{
+            x: {
+              stacked: true,
+            },
+            y: {
+              stacked: true,
+            },
+          }}
+        />
       </Shell>
     </main>
   );

@@ -65,7 +65,7 @@ const BarChart = ({ data, scaleOptions }: Props) => {
     },
   };
   return (
-    <div className="min-h-[300px]">
+    <div className="">
       {/* @ts-expect-error */}
       <Bar options={options} data={data} />
     </div>

@@ -1,35 +1,21 @@
 "use client";
-import { useState, useEffect } from "react";
 import React from "react";
-import BarChart from "./BarChart";
-import Tabs from "../ui/Tabs";
+import dynamic from "next/dynamic";
 import Card from "../ui/Card";
 import { ChartDataStructure } from "./utils/helpers";
 
-export type TabData = {
-  tabName: string;
-  tabData: ChartDataStructure;
-}[];
+const BarChart = dynamic(() => import("./BarChart"), {
+  ssr: false,
+});
 
-type Props = {
-  data: TabData;
-};
+type Props = { data: ChartDataStructure; scaleOptions?: {} };
 
-export default function ChartController({ data }: Props) {
-  const [activeTab, handleActiveTab] = useState(0);
+export default function ChartController({ data, scaleOptions }: Props) {
   return (
-    <div>
-      <Tabs
-        label="Select Metric"
-        tabs={data.map((tabs) => tabs.tabName)}
-        activeTab={activeTab}
-        handleChange={handleActiveTab}
-      />
-      <Card>
-        <div className="chartContainer">
-          <BarChart data={data[activeTab].tabData} />
-        </div>
-      </Card>
-    </div>
+    <Card>
+      <div className="chartContainer">
+        <BarChart data={data} scaleOptions={scaleOptions} />
+      </div>
+    </Card>
   );
 }

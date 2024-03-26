@@ -19,14 +19,7 @@ export default function MapController({}: Props) {
 
   return (
     <div>
-      <div className="grid grid-cols-2 gap-4 my-4">
-        <SelectMenu
-          label="Select A View"
-          defaultValue={"Tot_Cases"}
-          options={[{ key: "Total Cases", value: "Tot_Cases" },{ key: "Total Deaths", value: "Tot_Deaths" }]}
-        />
-      </div>
-      <div className="w-[100%] h-min-[500px] h-[60vh] shadow">
+      <div className="w-[100%] h-min-[500px] h-[60vh] shadow rounded overflow-hidden">
         <Map data={dataSeries} />
       </div>
     </div>

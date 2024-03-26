@@ -3,10 +3,8 @@ import StatCard from "@/components/ui/StatCard";
 import type { Metadata } from "next";
 import summarizedToDates from "@/data/source/static_counts/summarized";
 import MapController from "@/components/maps/MapController";
-import ChartController from "@/components/charts/ChartController";
+import TabChartController from "@/components/charts/TabChartController";
 import Break from "@/components/layout/Break";
-// import { BarChart } from "@/components/charts/BarChart";
-import dynamic from "next/dynamic";
 import {
   total_cases_spec,
   daily_cases_spec,
@@ -15,16 +13,12 @@ import {
   jail_cases,
   recovered,
 } from "@/data/transformed/case_history";
-import { TabData } from "@/components/charts/ChartController";
+import { TabData } from "@/components/charts/TabChartController";
 
 export const metadata: Metadata = {
   title: "OCCOVID | Cases",
   description: "OCCOVID Cases",
 };
-
-const BarChart = dynamic(() => import("../../components/charts/BarChart"), {
-  ssr: false,
-});
 
 const caseTabs: TabData = [
   { tabName: "Total Cases", tabData: total_cases_spec },
@@ -64,10 +58,9 @@ export default function Home() {
           />
         </div>
         <Break />
-        <div className="grid gap-4 grid-cols-1">
-          <ChartController data={caseTabs} />
-          <MapController />
-        </div>
+        <TabChartController data={caseTabs} />
+        <Break />
+        <MapController />
       </Shell>
     </main>
   );
