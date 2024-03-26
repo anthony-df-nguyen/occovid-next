@@ -39,6 +39,9 @@ const summarizedToDates = {
     oc_pop_fully_vaxed: 73.7,
     person_with_bivalent_booster: "594367",
   },
+  maps: {
+    date: 1701936000000,
+  }
 };
 
 export default summarizedToDates;

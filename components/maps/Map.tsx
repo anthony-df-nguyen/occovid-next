@@ -5,10 +5,13 @@ import { SourceDataGeoJSON } from "./utils/types";
 import { PopupStats } from "./PopUpContent";
 
 type Props = {
-  data: SourceDataGeoJSON[];
+  data: {
+    source: SourceDataGeoJSON[];
+    metric: string;
+  };
 };
 
-const CityCaseStats: PopupStats = {
+const CityCaseStats = {
   Tot_Cases: "Total Cases",
   CaseRate: "Case Rate",
   Total_Pop: "Total Population",
@@ -24,7 +27,13 @@ export default function Map({ data }: Props) {
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
         maxZoom={19}
       />
-      {<BuildGeoJson data={data} show={CityCaseStats} />}
+      {
+        <BuildGeoJson
+          data={data.source}
+          metric={data.metric}
+          popupContent={CityCaseStats}
+        />
+      }
     </MapContainer>
   );
 }

@@ -50,7 +50,7 @@ const BarChart = ({ data, scaleOptions }: Props) => {
       },
       zoom: {
         zoom: {
-          mode: 'x',
+          mode: "x",
           wheel: {
             enabled: true,
           },
@@ -61,16 +61,14 @@ const BarChart = ({ data, scaleOptions }: Props) => {
             enabled: true,
           },
         },
-      }
+      },
     },
   };
   return (
-    <Card>
-      <div className="min-h-[300px]">
-        {/* @ts-expect-error */}
-        <Bar options={options} data={data} />
-      </div>
-    </Card>
+    <div className="min-h-[300px]">
+      {/* @ts-expect-error */}
+      <Bar options={options} data={data} />
+    </div>
   );
 };
 

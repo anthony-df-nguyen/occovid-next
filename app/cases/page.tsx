@@ -2,6 +2,8 @@ import Shell from "@/components/layout/Shell";
 import StatCard from "@/components/ui/StatCard";
 import type { Metadata } from "next";
 import summarizedToDates from "@/data/source/static_counts/summarized";
+import MapController from "@/components/maps/MapController";
+import ChartController from "@/components/charts/ChartController";
 import Break from "@/components/layout/Break";
 // import { BarChart } from "@/components/charts/BarChart";
 import dynamic from "next/dynamic";
@@ -13,6 +15,7 @@ import {
   jail_cases,
   recovered,
 } from "@/data/transformed/case_history";
+import { TabData } from "@/components/charts/ChartController";
 
 export const metadata: Metadata = {
   title: "OCCOVID | Cases",
@@ -22,6 +25,15 @@ export const metadata: Metadata = {
 const BarChart = dynamic(() => import("../../components/charts/BarChart"), {
   ssr: false,
 });
+
+const caseTabs: TabData = [
+  { tabName: "Total Cases", tabData: total_cases_spec },
+  { tabName: "Daily Cases", tabData: daily_cases_spec },
+  { tabName: "SNFs", tabData: snf_cases },
+  { tabName: "Homeless", tabData: homeless_cases },
+  { tabName: "Jail", tabData: jail_cases },
+  { tabName: "Recovered", tabData: recovered },
+];
 
 export default function Home() {
   return (
@@ -52,13 +64,9 @@ export default function Home() {
           />
         </div>
         <Break />
-        <div className="grid gap-4 grid-cols-1 xl:grid-cols-2">
-          <BarChart data={total_cases_spec} />
-          <BarChart data={daily_cases_spec} />
-          <BarChart data={snf_cases} />
-          <BarChart data={homeless_cases} />
-          <BarChart data={jail_cases} />
-          <BarChart data={recovered} />
+        <div className="grid gap-4 grid-cols-1">
+          <ChartController data={caseTabs} />
+          <MapController />
         </div>
       </Shell>
     </main>

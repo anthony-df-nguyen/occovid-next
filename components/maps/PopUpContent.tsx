@@ -1,11 +1,11 @@
 import React from "react";
 
 export type PopupStats = {
-  [key: string]: string | number;
+  [key: string]: number;
 };
 
 type Props = {
-  primaryKey: string | number | null;
+  primaryKey: number;
   stats: PopupStats;
 };
 
@@ -15,10 +15,11 @@ export default function PopUpContent({ primaryKey, stats }: Props) {
       <div className="font-bold text-lg">{primaryKey}</div>
       <div>
         {Object.keys(stats).map((stat) => {
+          const value = stats[stat];
           return (
             <div key={primaryKey + stat} className="flex gap-2">
               <div className="font-bold">{stat}</div>
-              <div>{stats[stat]}</div>
+              <div>{value?.toLocaleString()}</div>
             </div>
           );
         })}

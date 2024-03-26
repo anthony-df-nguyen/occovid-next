@@ -6,6 +6,6 @@ export type SourceDataGeoJSON = {
     coordinates: [];
   };
   properties: {
-    [key: string]: string | number | null;
+    [key: string]: number;
   };
 };

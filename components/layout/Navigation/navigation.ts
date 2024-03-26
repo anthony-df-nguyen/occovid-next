@@ -23,7 +23,6 @@ const pages: Pages[] = [
     icon: BuildingOffice2Icon,
   },
   { name: "Vaccinations", href: "/vaccinations", icon: BeakerIcon },
-  { name: "Maps", href: "/maps", icon: MapIcon },
 ];
 
 export default pages;
