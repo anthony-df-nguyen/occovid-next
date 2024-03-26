@@ -2,8 +2,7 @@ import Shell from "@/components/layout/Shell";
 import StatCard from "@/components/ui/StatCard";
 import type { Metadata } from "next";
 import summarizedToDates from "@/data/source/static_counts/summarized";
-// import { BarChart } from "@/components/charts/BarChart";
-import dynamic from "next/dynamic";
+import TabChartController from "@/components/charts/TabChartController";
 import {
   vaxByRace,
   vaxByRacePercent,
@@ -13,15 +12,51 @@ import {
   vaxBySexPercent,
   doseHistory,
 } from "@/data/transformed/vax_breakdown";
+import { TabData } from "@/components/charts/TabChartController";
 import Break from "@/components/layout/Break";
 export const metadata: Metadata = {
   title: "OCCOVID | Vaccinations",
   description: "OCCOVID Vaccinations",
 };
 
-const BarChart = dynamic(() => import("../../components/charts/BarChart"), {
-  ssr: false,
-});
+const maxYScale = {
+  y: {
+    min: 0,
+    max: 100,
+  },
+  x: {
+    stacked: false,
+  }
+};
+const vaxTabs: TabData = [
+  {
+    tabName: "Race",
+    tabData: vaxByRace,
+  },
+  {
+    tabName: "Race Vax %",
+    tabData: vaxByRacePercent,
+    scaleOptions: maxYScale,
+  },
+  {
+    tabName: "Age",
+    tabData: vaxByAge,
+  },
+  {
+    tabName: "Age Vax %",
+    tabData: vaxByAgePercent,
+    scaleOptions: maxYScale,
+  },
+  {
+    tabName: "Sex",
+    tabData: vaxBySex,
+  },
+  {
+    tabName: "Sex Vax %",
+    tabData: vaxBySexPercent,
+    scaleOptions: maxYScale,
+  },
+];
 
 export default function Vaccinations() {
   return (
@@ -56,54 +91,11 @@ export default function Vaccinations() {
         {/* Race */}
         <Break />
         <div className="grid gap-42">
-          <BarChart data={doseHistory} />
+          {/* <BarChart data={doseHistory} /> */}
         </div>
         <Break />
-        <div className="sectionTitle">By Race/Ethnicity</div>
-        <br />
-        <div className="grid gap-4 md:grid-cols-2">
-          <BarChart data={vaxByRace} />
-          <BarChart
-            data={vaxByRacePercent}
-            scaleOptions={{
-              y: {
-                min: 0,
-                max: 100,
-              },
-            }}
-          />
-        </div>
-        {/* Age */}
-        <Break />
-        <div className="sectionTitle">By Age</div>
-        <br />
-        <div className="grid gap-4 md:grid-cols-2">
-          <BarChart data={vaxByAge} />
-          <BarChart
-            data={vaxByAgePercent}
-            scaleOptions={{
-              y: {
-                min: 0,
-                max: 100,
-              },
-            }}
-          />
-        </div>
-        <Break />
-        {/*  Sex*/}
-        <div className="sectionTitle">By Sex</div>
-        <br />
-        <div className="grid gap-4 md:grid-cols-2">
-          <BarChart data={vaxBySex} />
-          <BarChart
-            data={vaxBySexPercent}
-            scaleOptions={{
-              y: {
-                min: 0,
-                max: 100,
-              },
-            }}
-          />
+        <div className="grid gap-4">
+          <TabChartController data={vaxTabs} />
         </div>
       </Shell>
     </main>

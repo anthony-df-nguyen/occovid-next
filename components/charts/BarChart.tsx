@@ -14,7 +14,7 @@ import {
 } from "chart.js";
 import { Bar } from "react-chartjs-2";
 import ZoomPlugin from "chartjs-plugin-zoom";
-import { ChartDataStructure } from "@/components/charts/utils/helpers";
+import { ChartDataStructure, CategoricalChart } from "@/components/charts/utils/helpers";
 
 ChartJS.register(
   CategoryScale,
@@ -29,7 +29,7 @@ ChartJS.register(
 );
 
 type Props = {
-  data: ChartDataStructure;
+  data: ChartDataStructure | CategoricalChart;
   scaleOptions?: {};
 };
 
@@ -41,8 +41,8 @@ const BarChart = ({ data, scaleOptions }: Props) => {
     plugins: {
       legend: {
         // Display a legend if there are more than 1 series being passed in
-        display: data.datasets.length > 1 ? true : false,
-        position: "top" as const,
+        display: false,
+        //position: "top" as const,
       },
       title: {
         display: true,

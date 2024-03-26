@@ -4,7 +4,7 @@ import React from "react";
 import dynamic from "next/dynamic";
 import Tabs from "../ui/Tabs";
 import Card from "../ui/Card";
-import { ChartDataStructure } from "./utils/helpers";
+import { ChartDataStructure, CategoricalChart } from "./utils/helpers";
 
 const BarChart = dynamic(() => import("./BarChart"), {
   ssr: false,
@@ -12,12 +12,13 @@ const BarChart = dynamic(() => import("./BarChart"), {
 
 export type TabData = {
   tabName: string;
-  tabData: ChartDataStructure;
+  tabData: ChartDataStructure | CategoricalChart,
+  scaleOptions?: {},
 }[];
 
-type Props = { data: TabData; scaleOptions?: {} };
+type Props = { data: TabData };
 
-export default function ChartController({ data, scaleOptions }: Props) {
+export default function TabChartController({ data }: Props) {
   const [activeTab, handleActiveTab] = useState(0);
   return (
     <div>
@@ -31,7 +32,7 @@ export default function ChartController({ data, scaleOptions }: Props) {
         <div className="chartContainer">
           <BarChart
             data={data[activeTab].tabData}
-            scaleOptions={scaleOptions}
+            scaleOptions={data[activeTab].scaleOptions}
           />
         </div>
       </Card>
