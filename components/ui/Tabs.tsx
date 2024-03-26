@@ -50,7 +50,7 @@ export default function Tabs({ label, tabs, activeTab, handleChange }: Props) {
                   : "text-gray-500 hover:text-gray-700",
                 tabIdx === 0 ? "rounded-tl-lg" : "",
                 tabIdx === tabs.length - 1 ? "rounded-tr-lg" : "",
-                "cursor-pointer group relative min-w-0 flex-1 overflow-hidden bg-white py-4 px-4 text-center text-sm font-medium hover:bg-gray-200 focus:z-10"
+                "border-b-[1px] cursor-pointer group relative min-w-0 flex-1 overflow-hidden bg-white py-4 px-4 text-center text-sm font-medium hover:bg-gray-200 focus:z-10"
               )}
               aria-current={tabIdx === activeTab ? "page" : undefined}
             >
@@ -59,7 +59,7 @@ export default function Tabs({ label, tabs, activeTab, handleChange }: Props) {
                 aria-hidden="true"
                 className={classNames(
                   tabIdx === activeTab ? "bg-blue-500" : "bg-transparent",
-                  "absolute inset-x-0 bottom-0 h-0.5"
+                  "absolute inset-x-0 bottom-0 h-1 "
                 )}
               />
             </div>

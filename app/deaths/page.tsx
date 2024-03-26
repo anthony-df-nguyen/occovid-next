@@ -29,15 +29,12 @@ const deathTabs: TabData = [
 ];
 
 export default function Deaths() {
+  const asOf = `as of ${new Date(summarizedToDates.deaths.date).toLocaleDateString()}`
   return (
     <main className="">
-      <Shell pageURL="/deaths">
+      <Shell pageURL="/deaths" title="Deaths" subtitle={asOf}>
         {/* Cases */}
-        <div className="pageTitle">Deaths</div>
-        <div className="subTitle">
-          as of {new Date(summarizedToDates.deaths.date).toLocaleDateString()}
-        </div>
-        <div className="mt-4 grid gap-4 md:grid-cols-2 lg:grid-cols-4">
+        <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-4">
           <StatCard
             name="Total Deaths"
             value={summarizedToDates.deaths.total_dth_date}

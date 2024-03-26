@@ -2,6 +2,7 @@ import Shell from "@/components/layout/Shell";
 import StatCard from "@/components/ui/StatCard";
 import type { Metadata } from "next";
 import summarizedToDates from "@/data/source/static_counts/summarized";
+import ChartController from "@/components/charts/ChartController";
 import TabChartController from "@/components/charts/TabChartController";
 import {
   vaxByRace,
@@ -61,10 +62,8 @@ const vaxTabs: TabData = [
 export default function Vaccinations() {
   return (
     <main className="">
-      <Shell pageURL="/vaccinations">
-        <div className="pageTitle">Vaccinations</div>
-        <div className="subTitle">as of December 11, 2023</div>
-        <div className="mt-4 grid gap-4 md:grid-cols-2 lg:grid-cols-5">
+      <Shell pageURL="/vaccinations" title="Vaccinations" subtitle="as of 12/11/2023"  >
+        <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-5">
           <StatCard
             name="% of OC Population Vaccinated"
             value={summarizedToDates.totalDoses.oc_pop_fully_vaxed}
@@ -88,13 +87,12 @@ export default function Vaccinations() {
             value={summarizedToDates.totalDoses.num_boosters}
           />
         </div>
-        {/* Race */}
         <Break />
-        <div className="grid gap-42">
-          {/* <BarChart data={doseHistory} /> */}
+        <div className="">
+          <ChartController data={doseHistory} />
         </div>
         <Break />
-        <div className="grid gap-4">
+        <div className="">
           <TabChartController data={vaxTabs} />
         </div>
       </Shell>

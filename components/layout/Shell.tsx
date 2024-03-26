@@ -11,9 +11,11 @@ import Link from "next/link";
 type Props = {
   pageURL: string;
   children: any;
+  title: string,
+  subtitle?: string,
 };
 
-export default function Shell({ children, pageURL }: Props) {
+export default function Shell({ children, pageURL, title, subtitle }: Props) {
   const [sidebarOpen, setSidebarOpen] = useState(false);
 
   return (
@@ -44,7 +46,10 @@ export default function Shell({ children, pageURL }: Props) {
               className="h-6 w-px bg-gray-900/10 lg:hidden"
               aria-hidden="true"
             />
-
+            <div>
+              <div className="pageTitle">{title}</div>
+              <div className="subTitle">{subtitle}</div>
+            </div>
             <div className="flex flex-1 gap-x-4 self-stretch lg:gap-x-6"></div>
           </div>
 

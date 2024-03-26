@@ -4,10 +4,7 @@ import summarizedToDates from "@/data/source/static_counts/summarized";
 export default function Home() {
   return (
     <main className="">
-      <Shell pageURL="/">
-        {/* Cases */}
-        <div className="pageTitle">OCCOVID</div>
-        <div className="subTitle">as of December 31, 2022</div>
+      <Shell pageURL="/" title="Summary">
         <div className="mt-4 grid gap-4 md:grid-cols-2 lg:grid-cols-4">
           <StatCard
             name="Total Cases"

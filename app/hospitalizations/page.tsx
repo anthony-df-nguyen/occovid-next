@@ -16,16 +16,14 @@ const BarChart = dynamic(() => import("../../components/charts/BarChart"), {
 });
 
 export default function Hospitalizations() {
+  const asOf = `as of ${new Date(summarizedToDates.hospitalized.date).toLocaleDateString()}`;
   return (
     <main className="">
-      <Shell pageURL="/hospitalizations">
-        {/* Cases */}
-        <div className="pageTitle">Hospitalizations</div>
-        <div className="subTitle">
-          as of{" "}
-          {new Date(summarizedToDates.hospitalized.date).toLocaleDateString()}
-        </div>
-        <Break />
+      <Shell
+        pageURL="/hospitalizations"
+        title="Hospitalizations"
+        subtitle={asOf}
+      >
         <ChartController
           data={hospital_and_icu}
           scaleOptions={{

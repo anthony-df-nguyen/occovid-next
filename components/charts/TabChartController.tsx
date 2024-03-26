@@ -21,7 +21,7 @@ type Props = { data: TabData };
 export default function TabChartController({ data }: Props) {
   const [activeTab, handleActiveTab] = useState(0);
   return (
-    <div>
+    <div className="sm:top-[-10px] relative">
       <Tabs
         label="Select Metric"
         tabs={data.map((tabs) => tabs.tabName)}

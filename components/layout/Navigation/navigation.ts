@@ -17,12 +17,13 @@ const pages: Pages[] = [
   { name: "Summary", href: "/", icon: HomeIcon },
   { name: "Cases", href: "/cases", icon: BugAntIcon },
   { name: "Deaths", href: "/deaths", icon: UserMinusIcon },
+  { name: "Vaccinations", href: "/vaccinations", icon: BeakerIcon },
   {
     name: "Hospitalization",
     href: "/hospitalizations",
     icon: BuildingOffice2Icon,
   },
-  { name: "Vaccinations", href: "/vaccinations", icon: BeakerIcon },
+
 ];
 
 export default pages;

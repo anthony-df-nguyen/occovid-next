@@ -30,15 +30,12 @@ const caseTabs: TabData = [
 ];
 
 export default function Home() {
+  const asOf = ` as of ${new Date(summarizedToDates.cases.date).toLocaleDateString()}`
   return (
     <main className="">
-      <Shell pageURL="/cases">
+      <Shell pageURL="/cases" title="Cases" subtitle={asOf}>
         {/* Cases */}
-        <div className="pageTitle">Cases</div>
-        <div className="subTitle">
-          as of {new Date(summarizedToDates.cases.date).toLocaleDateString()}
-        </div>
-        <div className="mt-4 grid gap-4 md:grid-cols-2 lg:grid-cols-4">
+        <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-4">
           <StatCard
             name="Total Cases"
             value={summarizedToDates.cases.total_cases_repo}

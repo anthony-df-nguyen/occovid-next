@@ -28,7 +28,7 @@ body {
 }
 
 .pageTitle {
-  @apply text-2xl font-bold text-blue-500;
+  @apply text-xl font-bold text-blue-500;
 }
 
 .sectionTitle {
@@ -36,7 +36,7 @@ body {
 }
 
 .subTitle {
-  @apply text-lg;
+  @apply text-xs font-light;
 }
 
 .leaflet-container {
