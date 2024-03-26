@@ -30,29 +30,29 @@ const maxYScale = {
 };
 const vaxTabs: TabData = [
   {
-    tabName: "Race",
+    tabName: "by Race",
     tabData: vaxByRace,
   },
   {
-    tabName: "Race Vax %",
+    tabName: "by Race %",
     tabData: vaxByRacePercent,
     scaleOptions: maxYScale,
   },
   {
-    tabName: "Age",
+    tabName: "by Age",
     tabData: vaxByAge,
   },
   {
-    tabName: "Age Vax %",
+    tabName: "by Age %",
     tabData: vaxByAgePercent,
     scaleOptions: maxYScale,
   },
   {
-    tabName: "Sex",
+    tabName: "by Sex",
     tabData: vaxBySex,
   },
   {
-    tabName: "Sex Vax %",
+    tabName: "by Sex %",
     tabData: vaxBySexPercent,
     scaleOptions: maxYScale,
   },

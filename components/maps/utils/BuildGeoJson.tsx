@@ -1,13 +1,13 @@
 import { GeoJSON } from "react-leaflet";
 import { Popup } from "react-leaflet";
-import { SourceDataGeoJSON } from "./types";
+import { CountySourceDataGeoJSON } from "@/data/source/types";
 import PopUpContent from "../PopUpContent";
 import { PopupStats } from "../PopUpContent";
 import { relativeColors } from "../utils/relativeColors";
 import { KeyValuePair } from "tailwindcss/types/config";
 
 type Props = {
-  data: SourceDataGeoJSON[];
+  data: CountySourceDataGeoJSON[];
   metric: string;
   popupContent: KeyValuePair;
 };

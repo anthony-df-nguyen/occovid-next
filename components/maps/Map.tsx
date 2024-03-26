@@ -1,12 +1,12 @@
 "use client";
 import { MapContainer, TileLayer, Popup, GeoJSON } from "react-leaflet";
 import BuildGeoJson from "./utils/BuildGeoJson";
-import { SourceDataGeoJSON } from "./utils/types";
+import { CountySourceDataGeoJSON } from "@/data/source/types";
 import { PopupStats } from "./PopUpContent";
 
 type Props = {
   data: {
-    source: SourceDataGeoJSON[];
+    source: CountySourceDataGeoJSON[];
     metric: string;
   };
 };

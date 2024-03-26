@@ -1,5 +1,6 @@
 "use client";
-const data: any[] = require("../source/timeseries_data/deaths.json");
+import { CountySourceData } from "../source/types";
+const data: CountySourceData = require("../source/timeseries_data/deaths.json");
 import {
   SingleSeriesChart,
   sortDataByDate,
