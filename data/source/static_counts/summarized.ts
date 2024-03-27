@@ -29,6 +29,14 @@ const summarizedToDates = {
     date: 1701504000000,
     hospital: 82,
     icu: 11,
+    totalUnvaxHospital: 6519,
+    totalVaxedHospital: 1296,
+    perVaxedOfHospital: 16.6,
+    perUnvaxedOfHospital: 83.4,
+    peakICU: 547,
+    peakHospital: 2259,
+    avgICU: 71.5,
+    avgHospital: 306,
   },
   totalDoses: {
     num_1st: 242298,
@@ -41,7 +49,7 @@ const summarizedToDates = {
   },
   maps: {
     date: 1701936000000,
-  }
+  },
 };
 
 export default summarizedToDates;

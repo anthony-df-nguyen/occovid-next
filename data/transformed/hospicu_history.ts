@@ -55,7 +55,7 @@ const hos_by_vax_status = new MultiSeriesChart(
       label: "Vaccincated",
       data: hosByVaxData,
       key: "fullvax_alladmit",
-      backgroundColor: colors.blue,
+      backgroundColor: colors.green,
     },
     {
       label: "Unvaccinated",

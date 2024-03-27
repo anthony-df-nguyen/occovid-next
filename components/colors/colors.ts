@@ -3,7 +3,7 @@ import { KeyValuePair } from "tailwindcss/types/config";
 
 export const colors: KeyValuePair = {
   lightGray: "#f3f3f3",
-  ligherGray: "#999",
+  lighterGray: "#999",
   blue: "#003f5c",
   darkBlue: "#2f4b7c",
   purple: "#665191",
