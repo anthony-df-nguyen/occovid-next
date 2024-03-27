@@ -1,5 +1,6 @@
 import React from "react";
 
+//@ts-ignore
 function PercentColors(value, context,band1,band2,band3,band4,band5) {
   //console.log(`Max value is ${max} and min value is ${min}`)
   //console.log(`The value passed over is ${value}`)

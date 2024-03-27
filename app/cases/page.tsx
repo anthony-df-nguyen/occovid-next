@@ -14,6 +14,11 @@ import {
   recovered,
 } from "@/data/transformed/case_history";
 import { TabData } from "@/components/charts/TabChartController";
+import { MapControllerProps } from "@/components/maps/MapController";
+import { CityCaseStats, ZipCaseStats } from "@/components/maps/utils/constants";
+import { CountySourceDataGeoJSON } from "@/data/source/types";
+// const cityCaseData: CountySourceDataGeoJSON[] = require("../../data/source/geodata/cities/counts_with_shapes.json");
+// const zipCaseData: CountySourceDataGeoJSON[] = require("../../data/source/geodata/zips/counts_with_shapes.json")
 
 export const metadata: Metadata = {
   title: "OCCOVID | Cases",
@@ -29,8 +34,39 @@ const caseTabs: TabData = [
   { tabName: "Recovered", tabData: recovered },
 ];
 
+const mapOptions: MapControllerProps = [
+  {
+    tabName: "Total Cases by City",
+    metric: "Tot_Cases",
+    popupStats: CityCaseStats,
+    fetchURL: "/data/geodata/cities/counts_with_shapes.json",
+  },
+  {
+    tabName: "Case Rate by City",
+    metric: "CaseRate",
+    popupStats: CityCaseStats,
+    fetchURL: "/data/geodata/cities/counts_with_shapes.json",
+  },
+  {
+    tabName: "Total Cases by Zip",
+    metric: "tot_cas",
+    popupStats: ZipCaseStats,
+    fetchURL: "/data/geodata/zips/counts_with_shapes.json",
+  },
+  {
+    tabName: "Case Rate by Zip",
+    metric: "tot_casrate",
+    popupStats: ZipCaseStats,
+    fetchURL: "/data/geodata/zips/counts_with_shapes.json",
+  },
+];
+
 export default function Home() {
-  const asOf = ` as of ${new Date(summarizedToDates.cases.date).toLocaleDateString()}`
+  const asOf = ` as of ${new Date(
+    summarizedToDates.cases.date
+  ).toLocaleDateString()}`;
+
+
   return (
     <main className="">
       <Shell pageURL="/cases" title="Cases" subtitle={asOf}>
@@ -57,7 +93,7 @@ export default function Home() {
         <Break />
         <TabChartController data={caseTabs} />
         <Break />
-        <MapController />
+        <MapController mapOptions={mapOptions} />
       </Shell>
     </main>
   );

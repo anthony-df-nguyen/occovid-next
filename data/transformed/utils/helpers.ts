@@ -25,7 +25,7 @@ const filterCategoricalData = (
   return values;
 };
 
-const promoteChildren = (data) => {
+const promoteChildren = (data: {attributes: {}}[]) => {
   return data.map((item) => ({ ...item.attributes }));
 };
 

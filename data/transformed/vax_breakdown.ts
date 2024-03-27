@@ -14,10 +14,6 @@ import {
   raceMapping,
   sexMapping,
 } from "@/components/colors/colors";
-import { promoteChildren } from "./utils/helpers";
-
-const cleanDoses = promoteChildren(timeData)
-console.log('cleanDoses: ', cleanDoses);
 
 sortDataByDate(timeData, "vac_date");
 

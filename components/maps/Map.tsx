@@ -2,24 +2,19 @@
 import { MapContainer, TileLayer, Popup, GeoJSON } from "react-leaflet";
 import BuildGeoJson from "./utils/BuildGeoJson";
 import { CountySourceDataGeoJSON } from "@/data/source/types";
-import { PopupStats } from "./PopUpContent";
+import { KeyValuePair } from "tailwindcss/types/config";
 
 type Props = {
   data: {
     source: CountySourceDataGeoJSON[];
     metric: string;
   };
+  popupMetrics: KeyValuePair,
 };
 
-const CityCaseStats = {
-  Tot_Cases: "Total Cases",
-  CaseRate: "Case Rate",
-  Total_Pop: "Total Population",
-};
-
-export default function Map({ data }: Props) {
+export default function Map({ data, popupMetrics }: Props) {
   const tileURL =
-    "http://services.arcgisonline.com/arcgis/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}";
+    "http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png";
   return (
     <MapContainer center={[33.68, -117.8]} zoom={10}>
       <TileLayer
@@ -31,7 +26,7 @@ export default function Map({ data }: Props) {
         <BuildGeoJson
           data={data.source}
           metric={data.metric}
-          popupContent={CityCaseStats}
+          popupContent={popupMetrics}
         />
       }
     </MapContainer>

@@ -10,7 +10,7 @@ type Props = {
   label: string,
   tabs: string[];
   activeTab: number;
-  handleChange: React.Dispatch<React.SetStateAction<number>>;
+  handleChange: React.Dispatch<React.SetStateAction<any>>;
 };
 
 export default function Tabs({ label, tabs, activeTab, handleChange }: Props) {

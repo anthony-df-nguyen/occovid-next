@@ -41,15 +41,15 @@ const BuildGeoJson = ({ data, metric, popupContent }: Props) => {
         //@ts-expect-error
         data={geoArray}
         pathOptions={{
-          color: "black",
-          weight: 0.2,
+          color: "white",
+          weight: 1.5,
           fillColor: relativeColors(
             valueForColoring,
             "high_is_bad",
             maxValue,
             minValue
           ),
-          fillOpacity: 0.3,
+          fillOpacity: .4,
         }}
       >
         <Popup key={row.properties.PrimaryKey}>
