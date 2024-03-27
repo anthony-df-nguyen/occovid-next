@@ -93,7 +93,7 @@ export default function Vaccinations() {
         </div>
         <Break />
         <div className="">
-          <TabChartController data={vaxTabs} />
+          <TabChartController data={vaxTabs} zoomDisabled/>
         </div>
       </Shell>
     </main>

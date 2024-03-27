@@ -14,7 +14,10 @@ import {
 } from "chart.js";
 import { Bar } from "react-chartjs-2";
 import ZoomPlugin from "chartjs-plugin-zoom";
-import { ChartDataStructure, CategoricalChart } from "@/components/charts/utils/helpers";
+import {
+  ChartDataStructure,
+  CategoricalChart,
+} from "@/components/charts/utils/helpers";
 
 ChartJS.register(
   CategoryScale,
@@ -31,9 +34,25 @@ ChartJS.register(
 type Props = {
   data: ChartDataStructure | CategoricalChart;
   scaleOptions?: {};
+  disableZoom?: boolean;
 };
 
-const BarChart = ({ data, scaleOptions }: Props) => {
+const zoom = {
+  zoom: {
+    mode: "x",
+    wheel: {
+      enabled: true,
+    },
+    pinch: {
+      enabled: true,
+    },
+    drag: {
+      enabled: true,
+    },
+  },
+};
+
+const BarChart = ({ data, scaleOptions, disableZoom }: Props) => {
   const options = {
     responsive: true,
     maintainAspectRatio: false,
@@ -48,20 +67,7 @@ const BarChart = ({ data, scaleOptions }: Props) => {
         display: true,
         text: data.title,
       },
-      zoom: {
-        zoom: {
-          mode: "x",
-          wheel: {
-            enabled: true,
-          },
-          pinch: {
-            enabled: true,
-          },
-          drag: {
-            enabled: true,
-          },
-        },
-      },
+      zoom: !disableZoom && zoom,
     },
   };
   return (

@@ -12,13 +12,13 @@ const BarChart = dynamic(() => import("./BarChart"), {
 
 export type TabData = {
   tabName: string;
-  tabData: ChartDataStructure | CategoricalChart,
-  scaleOptions?: {},
+  tabData: ChartDataStructure | CategoricalChart;
+  scaleOptions?: {};
 }[];
 
-type Props = { data: TabData };
+type Props = { data: TabData; zoomDisabled?: boolean };
 
-export default function TabChartController({ data }: Props) {
+export default function TabChartController({ data, zoomDisabled }: Props) {
   const [activeTab, handleActiveTab] = useState(0);
   return (
     <div className="sm:top-[-10px] relative">
@@ -33,6 +33,7 @@ export default function TabChartController({ data }: Props) {
           <BarChart
             data={data[activeTab].tabData}
             scaleOptions={data[activeTab].scaleOptions}
+            disableZoom={zoomDisabled}
           />
         </div>
       </Card>
