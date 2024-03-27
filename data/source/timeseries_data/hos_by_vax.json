@@ -1,0 +1,3002 @@
+[
+  {
+    "attributes": {
+      "Date": 1625122800000,
+      "unvax_alladmit": 4,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 4
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1634454000000,
+      "unvax_alladmit": 11,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 13
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1625209200000,
+      "unvax_alladmit": 5,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 5
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1625295600000,
+      "unvax_alladmit": 7,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 7
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1625382000000,
+      "unvax_alladmit": 4,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 4
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1625468400000,
+      "unvax_alladmit": 5,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 7
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1634540400000,
+      "unvax_alladmit": 18,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 20
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1629788400000,
+      "unvax_alladmit": 43,
+      "fullvax_alladmit": 6,
+      "alladmit_tot": 49
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1639123200000,
+      "unvax_alladmit": 13,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 16
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1634626800000,
+      "unvax_alladmit": 5,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 7
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1625554800000,
+      "unvax_alladmit": 10,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 11
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1629874800000,
+      "unvax_alladmit": 43,
+      "fullvax_alladmit": 5,
+      "alladmit_tot": 48
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1639209600000,
+      "unvax_alladmit": 10,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 12
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1634713200000,
+      "unvax_alladmit": 12,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 15
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1625641200000,
+      "unvax_alladmit": 9,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 10
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1629961200000,
+      "unvax_alladmit": 50,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 50
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1639296000000,
+      "unvax_alladmit": 11,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 13
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1634799600000,
+      "unvax_alladmit": 11,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 13
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1625727600000,
+      "unvax_alladmit": 8,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 10
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1630047600000,
+      "unvax_alladmit": 35,
+      "fullvax_alladmit": 8,
+      "alladmit_tot": 43
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1639382400000,
+      "unvax_alladmit": 15,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 17
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1634886000000,
+      "unvax_alladmit": 11,
+      "fullvax_alladmit": 6,
+      "alladmit_tot": 17
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1625814000000,
+      "unvax_alladmit": 11,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 12
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1630134000000,
+      "unvax_alladmit": 32,
+      "fullvax_alladmit": 7,
+      "alladmit_tot": 39
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1639468800000,
+      "unvax_alladmit": 10,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 10
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1634972400000,
+      "unvax_alladmit": 9,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 10
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1630220400000,
+      "unvax_alladmit": 42,
+      "fullvax_alladmit": 5,
+      "alladmit_tot": 47
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1625900400000,
+      "unvax_alladmit": 10,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 11
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1639555200000,
+      "unvax_alladmit": 11,
+      "fullvax_alladmit": 4,
+      "alladmit_tot": 15
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1630306800000,
+      "unvax_alladmit": 43,
+      "fullvax_alladmit": 4,
+      "alladmit_tot": 47
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1635058800000,
+      "unvax_alladmit": 14,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 14
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1625986800000,
+      "unvax_alladmit": 10,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 12
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1639641600000,
+      "unvax_alladmit": 12,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 15
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1630393200000,
+      "unvax_alladmit": 28,
+      "fullvax_alladmit": 4,
+      "alladmit_tot": 32
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1635145200000,
+      "unvax_alladmit": 8,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 8
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1639728000000,
+      "unvax_alladmit": 17,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 18
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1626073200000,
+      "unvax_alladmit": 14,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 15
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1630479600000,
+      "unvax_alladmit": 39,
+      "fullvax_alladmit": 5,
+      "alladmit_tot": 44
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1635231600000,
+      "unvax_alladmit": 12,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 14
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1639814400000,
+      "unvax_alladmit": 12,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 14
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1626159600000,
+      "unvax_alladmit": 11,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 12
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1630566000000,
+      "unvax_alladmit": 26,
+      "fullvax_alladmit": 4,
+      "alladmit_tot": 30
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1635318000000,
+      "unvax_alladmit": 9,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 10
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1639900800000,
+      "unvax_alladmit": 18,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 19
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1626246000000,
+      "unvax_alladmit": 10,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 11
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1630652400000,
+      "unvax_alladmit": 30,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 33
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1635404400000,
+      "unvax_alladmit": 10,
+      "fullvax_alladmit": 5,
+      "alladmit_tot": 15
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1639987200000,
+      "unvax_alladmit": 19,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 21
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1626332400000,
+      "unvax_alladmit": 12,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 14
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1630738800000,
+      "unvax_alladmit": 33,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 33
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1635490800000,
+      "unvax_alladmit": 18,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 19
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1640073600000,
+      "unvax_alladmit": 26,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 29
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1626418800000,
+      "unvax_alladmit": 5,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 5
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1630825200000,
+      "unvax_alladmit": 35,
+      "fullvax_alladmit": 5,
+      "alladmit_tot": 40
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1635577200000,
+      "unvax_alladmit": 11,
+      "fullvax_alladmit": 4,
+      "alladmit_tot": 15
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1626505200000,
+      "unvax_alladmit": 10,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 12
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1640160000000,
+      "unvax_alladmit": 16,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 18
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1630911600000,
+      "unvax_alladmit": 21,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 23
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1635663600000,
+      "unvax_alladmit": 10,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 10
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1626591600000,
+      "unvax_alladmit": 16,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 18
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1640246400000,
+      "unvax_alladmit": 19,
+      "fullvax_alladmit": 5,
+      "alladmit_tot": 24
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1630998000000,
+      "unvax_alladmit": 33,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 35
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1635750000000,
+      "unvax_alladmit": 14,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 16
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1626678000000,
+      "unvax_alladmit": 21,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 24
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1640332800000,
+      "unvax_alladmit": 27,
+      "fullvax_alladmit": 7,
+      "alladmit_tot": 34
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1631084400000,
+      "unvax_alladmit": 22,
+      "fullvax_alladmit": 4,
+      "alladmit_tot": 26
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1635836400000,
+      "unvax_alladmit": 20,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 23
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1626764400000,
+      "unvax_alladmit": 12,
+      "fullvax_alladmit": 4,
+      "alladmit_tot": 16
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1640419200000,
+      "unvax_alladmit": 18,
+      "fullvax_alladmit": 5,
+      "alladmit_tot": 23
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1631170800000,
+      "unvax_alladmit": 21,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 24
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1635922800000,
+      "unvax_alladmit": 16,
+      "fullvax_alladmit": 4,
+      "alladmit_tot": 20
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1626850800000,
+      "unvax_alladmit": 17,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 19
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1640505600000,
+      "unvax_alladmit": 39,
+      "fullvax_alladmit": 11,
+      "alladmit_tot": 50
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1631257200000,
+      "unvax_alladmit": 27,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 29
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1636009200000,
+      "unvax_alladmit": 9,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 12
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1626937200000,
+      "unvax_alladmit": 20,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 22
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1640592000000,
+      "unvax_alladmit": 34,
+      "fullvax_alladmit": 10,
+      "alladmit_tot": 44
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1631343600000,
+      "unvax_alladmit": 13,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 14
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1636095600000,
+      "unvax_alladmit": 18,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 19
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1627023600000,
+      "unvax_alladmit": 24,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 25
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1640678400000,
+      "unvax_alladmit": 49,
+      "fullvax_alladmit": 6,
+      "alladmit_tot": 55
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1631430000000,
+      "unvax_alladmit": 21,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 23
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1636182000000,
+      "unvax_alladmit": 12,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 14
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1627110000000,
+      "unvax_alladmit": 23,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 23
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1640764800000,
+      "unvax_alladmit": 30,
+      "fullvax_alladmit": 11,
+      "alladmit_tot": 41
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1631516400000,
+      "unvax_alladmit": 16,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 18
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1636268400000,
+      "unvax_alladmit": 11,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 12
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1627196400000,
+      "unvax_alladmit": 29,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 30
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1640851200000,
+      "unvax_alladmit": 39,
+      "fullvax_alladmit": 10,
+      "alladmit_tot": 49
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1631602800000,
+      "unvax_alladmit": 14,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 17
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1636358400000,
+      "unvax_alladmit": 10,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 11
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1627282800000,
+      "unvax_alladmit": 20,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 22
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1640937600000,
+      "unvax_alladmit": 51,
+      "fullvax_alladmit": 15,
+      "alladmit_tot": 66
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1631689200000,
+      "unvax_alladmit": 17,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 20
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1636444800000,
+      "unvax_alladmit": 21,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 22
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1627369200000,
+      "unvax_alladmit": 24,
+      "fullvax_alladmit": 5,
+      "alladmit_tot": 29
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1631775600000,
+      "unvax_alladmit": 16,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 19
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1631862000000,
+      "unvax_alladmit": 8,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 11
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1631948400000,
+      "unvax_alladmit": 12,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 15
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1632034800000,
+      "unvax_alladmit": 20,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 23
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1632121200000,
+      "unvax_alladmit": 19,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 21
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1632207600000,
+      "unvax_alladmit": 26,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 29
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1632294000000,
+      "unvax_alladmit": 11,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 13
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1632380400000,
+      "unvax_alladmit": 16,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 18
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1632466800000,
+      "unvax_alladmit": 13,
+      "fullvax_alladmit": 6,
+      "alladmit_tot": 19
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1632553200000,
+      "unvax_alladmit": 16,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 18
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1632639600000,
+      "unvax_alladmit": 9,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 11
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1632726000000,
+      "unvax_alladmit": 24,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 27
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1632812400000,
+      "unvax_alladmit": 19,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 20
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1632898800000,
+      "unvax_alladmit": 13,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 14
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1632985200000,
+      "unvax_alladmit": 13,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 16
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1633071600000,
+      "unvax_alladmit": 9,
+      "fullvax_alladmit": 6,
+      "alladmit_tot": 15
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1633158000000,
+      "unvax_alladmit": 12,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 13
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1633244400000,
+      "unvax_alladmit": 13,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 15
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1633330800000,
+      "unvax_alladmit": 14,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 17
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1633417200000,
+      "unvax_alladmit": 15,
+      "fullvax_alladmit": 4,
+      "alladmit_tot": 19
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1633503600000,
+      "unvax_alladmit": 12,
+      "fullvax_alladmit": 5,
+      "alladmit_tot": 17
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1633590000000,
+      "unvax_alladmit": 15,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 18
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1633676400000,
+      "unvax_alladmit": 20,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 21
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1633762800000,
+      "unvax_alladmit": 10,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 13
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1633849200000,
+      "unvax_alladmit": 6,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 7
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1633935600000,
+      "unvax_alladmit": 18,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 21
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1634022000000,
+      "unvax_alladmit": 7,
+      "fullvax_alladmit": 5,
+      "alladmit_tot": 12
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1634108400000,
+      "unvax_alladmit": 12,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 14
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1634194800000,
+      "unvax_alladmit": 6,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 8
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1634281200000,
+      "unvax_alladmit": 11,
+      "fullvax_alladmit": 4,
+      "alladmit_tot": 15
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1634367600000,
+      "unvax_alladmit": 6,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 9
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1641024000000,
+      "unvax_alladmit": 40,
+      "fullvax_alladmit": 12,
+      "alladmit_tot": 52
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1636531200000,
+      "unvax_alladmit": 9,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 10
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1641110400000,
+      "unvax_alladmit": 45,
+      "fullvax_alladmit": 14,
+      "alladmit_tot": 59
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1636617600000,
+      "unvax_alladmit": 13,
+      "fullvax_alladmit": 4,
+      "alladmit_tot": 17
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1641196800000,
+      "unvax_alladmit": 67,
+      "fullvax_alladmit": 15,
+      "alladmit_tot": 82
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1636704000000,
+      "unvax_alladmit": 18,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 19
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1641283200000,
+      "unvax_alladmit": 66,
+      "fullvax_alladmit": 21,
+      "alladmit_tot": 87
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1636790400000,
+      "unvax_alladmit": 14,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 17
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1641369600000,
+      "unvax_alladmit": 70,
+      "fullvax_alladmit": 19,
+      "alladmit_tot": 89
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1636876800000,
+      "unvax_alladmit": 17,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 18
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1641456000000,
+      "unvax_alladmit": 66,
+      "fullvax_alladmit": 19,
+      "alladmit_tot": 85
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1636963200000,
+      "unvax_alladmit": 13,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 16
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1641542400000,
+      "unvax_alladmit": 76,
+      "fullvax_alladmit": 20,
+      "alladmit_tot": 96
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1627455600000,
+      "unvax_alladmit": 25,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 27
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1637049600000,
+      "unvax_alladmit": 9,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 10
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1641628800000,
+      "unvax_alladmit": 69,
+      "fullvax_alladmit": 17,
+      "alladmit_tot": 86
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1627542000000,
+      "unvax_alladmit": 41,
+      "fullvax_alladmit": 7,
+      "alladmit_tot": 48
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1637136000000,
+      "unvax_alladmit": 11,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 11
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1641715200000,
+      "unvax_alladmit": 53,
+      "fullvax_alladmit": 16,
+      "alladmit_tot": 69
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1627628400000,
+      "unvax_alladmit": 38,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 41
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1637222400000,
+      "unvax_alladmit": 11,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 11
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1641801600000,
+      "unvax_alladmit": 68,
+      "fullvax_alladmit": 18,
+      "alladmit_tot": 86
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1627714800000,
+      "unvax_alladmit": 38,
+      "fullvax_alladmit": 5,
+      "alladmit_tot": 43
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1637308800000,
+      "unvax_alladmit": 9,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 10
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1641888000000,
+      "unvax_alladmit": 73,
+      "fullvax_alladmit": 20,
+      "alladmit_tot": 93
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1627801200000,
+      "unvax_alladmit": 28,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 31
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1637395200000,
+      "unvax_alladmit": 12,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 13
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1641974400000,
+      "unvax_alladmit": 74,
+      "fullvax_alladmit": 23,
+      "alladmit_tot": 97
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1627887600000,
+      "unvax_alladmit": 53,
+      "fullvax_alladmit": 5,
+      "alladmit_tot": 58
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1637481600000,
+      "unvax_alladmit": 13,
+      "fullvax_alladmit": 6,
+      "alladmit_tot": 19
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1642060800000,
+      "unvax_alladmit": 70,
+      "fullvax_alladmit": 19,
+      "alladmit_tot": 89
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1627974000000,
+      "unvax_alladmit": 39,
+      "fullvax_alladmit": 7,
+      "alladmit_tot": 46
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1637568000000,
+      "unvax_alladmit": 8,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 10
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1642147200000,
+      "unvax_alladmit": 65,
+      "fullvax_alladmit": 12,
+      "alladmit_tot": 77
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1628060400000,
+      "unvax_alladmit": 48,
+      "fullvax_alladmit": 10,
+      "alladmit_tot": 58
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1637654400000,
+      "unvax_alladmit": 12,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 13
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1642233600000,
+      "unvax_alladmit": 68,
+      "fullvax_alladmit": 11,
+      "alladmit_tot": 79
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1628146800000,
+      "unvax_alladmit": 35,
+      "fullvax_alladmit": 5,
+      "alladmit_tot": 40
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1637740800000,
+      "unvax_alladmit": 13,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 14
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1642320000000,
+      "unvax_alladmit": 63,
+      "fullvax_alladmit": 12,
+      "alladmit_tot": 75
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1628233200000,
+      "unvax_alladmit": 49,
+      "fullvax_alladmit": 9,
+      "alladmit_tot": 58
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1637827200000,
+      "unvax_alladmit": 15,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 16
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1642406400000,
+      "unvax_alladmit": 63,
+      "fullvax_alladmit": 22,
+      "alladmit_tot": 85
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1628319600000,
+      "unvax_alladmit": 34,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 36
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1637913600000,
+      "unvax_alladmit": 15,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 15
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1642492800000,
+      "unvax_alladmit": 63,
+      "fullvax_alladmit": 23,
+      "alladmit_tot": 86
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1628406000000,
+      "unvax_alladmit": 40,
+      "fullvax_alladmit": 8,
+      "alladmit_tot": 48
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1638000000000,
+      "unvax_alladmit": 12,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 15
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1642579200000,
+      "unvax_alladmit": 70,
+      "fullvax_alladmit": 24,
+      "alladmit_tot": 94
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1628492400000,
+      "unvax_alladmit": 44,
+      "fullvax_alladmit": 10,
+      "alladmit_tot": 54
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1638086400000,
+      "unvax_alladmit": 15,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 16
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1642665600000,
+      "unvax_alladmit": 72,
+      "fullvax_alladmit": 17,
+      "alladmit_tot": 89
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1628578800000,
+      "unvax_alladmit": 42,
+      "fullvax_alladmit": 5,
+      "alladmit_tot": 47
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1638172800000,
+      "unvax_alladmit": 10,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 11
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1642752000000,
+      "unvax_alladmit": 70,
+      "fullvax_alladmit": 16,
+      "alladmit_tot": 86
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1628665200000,
+      "unvax_alladmit": 33,
+      "fullvax_alladmit": 10,
+      "alladmit_tot": 43
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1638259200000,
+      "unvax_alladmit": 16,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 16
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1642838400000,
+      "unvax_alladmit": 67,
+      "fullvax_alladmit": 15,
+      "alladmit_tot": 82
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1628751600000,
+      "unvax_alladmit": 46,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 47
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1638345600000,
+      "unvax_alladmit": 16,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 17
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1642924800000,
+      "unvax_alladmit": 46,
+      "fullvax_alladmit": 12,
+      "alladmit_tot": 58
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1628838000000,
+      "unvax_alladmit": 52,
+      "fullvax_alladmit": 7,
+      "alladmit_tot": 59
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1628924400000,
+      "unvax_alladmit": 62,
+      "fullvax_alladmit": 4,
+      "alladmit_tot": 66
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1629010800000,
+      "unvax_alladmit": 50,
+      "fullvax_alladmit": 9,
+      "alladmit_tot": 59
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1629097200000,
+      "unvax_alladmit": 42,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 45
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1629183600000,
+      "unvax_alladmit": 52,
+      "fullvax_alladmit": 6,
+      "alladmit_tot": 58
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1629270000000,
+      "unvax_alladmit": 36,
+      "fullvax_alladmit": 6,
+      "alladmit_tot": 42
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1629356400000,
+      "unvax_alladmit": 37,
+      "fullvax_alladmit": 7,
+      "alladmit_tot": 44
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1629442800000,
+      "unvax_alladmit": 36,
+      "fullvax_alladmit": 10,
+      "alladmit_tot": 46
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1629529200000,
+      "unvax_alladmit": 38,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 40
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1629615600000,
+      "unvax_alladmit": 26,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 29
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1629702000000,
+      "unvax_alladmit": 47,
+      "fullvax_alladmit": 8,
+      "alladmit_tot": 55
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1638432000000,
+      "unvax_alladmit": 8,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 10
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1638518400000,
+      "unvax_alladmit": 6,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 6
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1638604800000,
+      "unvax_alladmit": 11,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 12
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1638691200000,
+      "unvax_alladmit": 17,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 18
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1638777600000,
+      "unvax_alladmit": 15,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 17
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1638864000000,
+      "unvax_alladmit": 18,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 21
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1638950400000,
+      "unvax_alladmit": 14,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 17
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1639036800000,
+      "unvax_alladmit": 22,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 25
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1643011200000,
+      "unvax_alladmit": 46,
+      "fullvax_alladmit": 12,
+      "alladmit_tot": 58
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1643097600000,
+      "unvax_alladmit": 67,
+      "fullvax_alladmit": 14,
+      "alladmit_tot": 81
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1643184000000,
+      "unvax_alladmit": 47,
+      "fullvax_alladmit": 12,
+      "alladmit_tot": 59
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1643270400000,
+      "unvax_alladmit": 56,
+      "fullvax_alladmit": 13,
+      "alladmit_tot": 69
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1643356800000,
+      "unvax_alladmit": 38,
+      "fullvax_alladmit": 10,
+      "alladmit_tot": 48
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1643443200000,
+      "unvax_alladmit": 32,
+      "fullvax_alladmit": 6,
+      "alladmit_tot": 38
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1643529600000,
+      "unvax_alladmit": 31,
+      "fullvax_alladmit": 8,
+      "alladmit_tot": 39
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1643616000000,
+      "unvax_alladmit": 38,
+      "fullvax_alladmit": 7,
+      "alladmit_tot": 45
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1643702400000,
+      "unvax_alladmit": 36,
+      "fullvax_alladmit": 13,
+      "alladmit_tot": 49
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1648450800000,
+      "unvax_alladmit": 1,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 2
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1648537200000,
+      "unvax_alladmit": 7,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 8
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1648623600000,
+      "unvax_alladmit": 2,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 2
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1648710000000,
+      "unvax_alladmit": 1,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 2
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1648796400000,
+      "unvax_alladmit": 4,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 5
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1648882800000,
+      "unvax_alladmit": 3,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 4
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1648969200000,
+      "unvax_alladmit": 1,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 1
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1649055600000,
+      "unvax_alladmit": 1,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 1
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1649142000000,
+      "unvax_alladmit": 4,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 7
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1649228400000,
+      "unvax_alladmit": 3,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 4
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1649314800000,
+      "unvax_alladmit": 0,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 0
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1649401200000,
+      "unvax_alladmit": 3,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 4
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1649487600000,
+      "unvax_alladmit": 3,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 3
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1649574000000,
+      "unvax_alladmit": 5,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 5
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1649660400000,
+      "unvax_alladmit": 1,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 1
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1649746800000,
+      "unvax_alladmit": 1,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 2
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1649833200000,
+      "unvax_alladmit": 1,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 1
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1649919600000,
+      "unvax_alladmit": 1,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 2
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1650006000000,
+      "unvax_alladmit": 4,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 5
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1650092400000,
+      "unvax_alladmit": 3,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 4
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1650178800000,
+      "unvax_alladmit": 3,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 3
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1650265200000,
+      "unvax_alladmit": 3,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 3
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1650351600000,
+      "unvax_alladmit": 3,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 3
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1650438000000,
+      "unvax_alladmit": 2,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 3
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1650524400000,
+      "unvax_alladmit": 4,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 4
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1650610800000,
+      "unvax_alladmit": 1,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 1
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1650697200000,
+      "unvax_alladmit": 1,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 2
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1650783600000,
+      "unvax_alladmit": 4,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 5
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1650870000000,
+      "unvax_alladmit": 6,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 7
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1650956400000,
+      "unvax_alladmit": 1,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 2
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1651042800000,
+      "unvax_alladmit": 3,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 4
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1651129200000,
+      "unvax_alladmit": 2,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 5
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1651215600000,
+      "unvax_alladmit": 2,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 2
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1651302000000,
+      "unvax_alladmit": 5,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 5
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1651388400000,
+      "unvax_alladmit": 4,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 5
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1651474800000,
+      "unvax_alladmit": 2,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 4
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1651561200000,
+      "unvax_alladmit": 1,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 2
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1651647600000,
+      "unvax_alladmit": 11,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 12
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1651734000000,
+      "unvax_alladmit": 4,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 5
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1651820400000,
+      "unvax_alladmit": 4,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 5
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1651906800000,
+      "unvax_alladmit": 2,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 3
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1651993200000,
+      "unvax_alladmit": 2,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 3
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1652079600000,
+      "unvax_alladmit": 2,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 3
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1652166000000,
+      "unvax_alladmit": 3,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 4
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1652252400000,
+      "unvax_alladmit": 6,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 9
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1652338800000,
+      "unvax_alladmit": 2,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 5
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1652425200000,
+      "unvax_alladmit": 4,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 4
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1652511600000,
+      "unvax_alladmit": 3,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 5
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1652598000000,
+      "unvax_alladmit": 0,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 1
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1652684400000,
+      "unvax_alladmit": 5,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 7
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1652770800000,
+      "unvax_alladmit": 3,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 3
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1652857200000,
+      "unvax_alladmit": 7,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 7
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1652943600000,
+      "unvax_alladmit": 5,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 5
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1653030000000,
+      "unvax_alladmit": 9,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 11
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1653116400000,
+      "unvax_alladmit": 6,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 9
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1653202800000,
+      "unvax_alladmit": 5,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 6
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1653289200000,
+      "unvax_alladmit": 11,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 11
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1653375600000,
+      "unvax_alladmit": 7,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 7
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1653462000000,
+      "unvax_alladmit": 6,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 8
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1653548400000,
+      "unvax_alladmit": 11,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 11
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1653634800000,
+      "unvax_alladmit": 10,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 10
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1653721200000,
+      "unvax_alladmit": 6,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 9
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1643788800000,
+      "unvax_alladmit": 24,
+      "fullvax_alladmit": 11,
+      "alladmit_tot": 35
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1653807600000,
+      "unvax_alladmit": 3,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 3
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1653894000000,
+      "unvax_alladmit": 7,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 8
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1653980400000,
+      "unvax_alladmit": 4,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 6
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1654066800000,
+      "unvax_alladmit": 3,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 3
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1654153200000,
+      "unvax_alladmit": 5,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 5
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1654239600000,
+      "unvax_alladmit": 8,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 11
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1654326000000,
+      "unvax_alladmit": 7,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 8
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1654412400000,
+      "unvax_alladmit": 6,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 6
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1654498800000,
+      "unvax_alladmit": 7,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 10
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1654585200000,
+      "unvax_alladmit": 6,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 8
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1654671600000,
+      "unvax_alladmit": 5,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 6
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1654758000000,
+      "unvax_alladmit": 10,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 13
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1654844400000,
+      "unvax_alladmit": 7,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 9
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1654930800000,
+      "unvax_alladmit": 10,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 13
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1655017200000,
+      "unvax_alladmit": 4,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 6
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1655103600000,
+      "unvax_alladmit": 4,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 5
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1655190000000,
+      "unvax_alladmit": 5,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 6
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1655276400000,
+      "unvax_alladmit": 6,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 6
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1655362800000,
+      "unvax_alladmit": 6,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 7
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1655449200000,
+      "unvax_alladmit": 8,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 8
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1655535600000,
+      "unvax_alladmit": 6,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 8
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1655622000000,
+      "unvax_alladmit": 4,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 4
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1655708400000,
+      "unvax_alladmit": 3,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 3
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1655794800000,
+      "unvax_alladmit": 10,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 10
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1655881200000,
+      "unvax_alladmit": 6,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 7
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1655967600000,
+      "unvax_alladmit": 5,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 6
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1656054000000,
+      "unvax_alladmit": 6,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 7
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1656140400000,
+      "unvax_alladmit": 4,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 4
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1656226800000,
+      "unvax_alladmit": 7,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 7
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1656313200000,
+      "unvax_alladmit": 5,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 5
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1656399600000,
+      "unvax_alladmit": 6,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 6
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1656486000000,
+      "unvax_alladmit": 4,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 5
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1656572400000,
+      "unvax_alladmit": 6,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 6
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1656658800000,
+      "unvax_alladmit": 6,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 6
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1656745200000,
+      "unvax_alladmit": 4,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 4
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1656831600000,
+      "unvax_alladmit": 2,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 2
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1656918000000,
+      "unvax_alladmit": 0,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 0
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1657004400000,
+      "unvax_alladmit": 2,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 2
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1657090800000,
+      "unvax_alladmit": 4,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 4
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1657177200000,
+      "unvax_alladmit": 3,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 3
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1657263600000,
+      "unvax_alladmit": 2,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 2
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1657350000000,
+      "unvax_alladmit": 0,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 0
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1657436400000,
+      "unvax_alladmit": 1,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 1
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1643875200000,
+      "unvax_alladmit": 29,
+      "fullvax_alladmit": 8,
+      "alladmit_tot": 37
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1643961600000,
+      "unvax_alladmit": 21,
+      "fullvax_alladmit": 10,
+      "alladmit_tot": 31
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1644048000000,
+      "unvax_alladmit": 15,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 18
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1644134400000,
+      "unvax_alladmit": 23,
+      "fullvax_alladmit": 5,
+      "alladmit_tot": 28
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1644220800000,
+      "unvax_alladmit": 14,
+      "fullvax_alladmit": 8,
+      "alladmit_tot": 22
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1644307200000,
+      "unvax_alladmit": 19,
+      "fullvax_alladmit": 6,
+      "alladmit_tot": 25
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1644393600000,
+      "unvax_alladmit": 24,
+      "fullvax_alladmit": 8,
+      "alladmit_tot": 32
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1644480000000,
+      "unvax_alladmit": 10,
+      "fullvax_alladmit": 7,
+      "alladmit_tot": 17
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1644566400000,
+      "unvax_alladmit": 17,
+      "fullvax_alladmit": 6,
+      "alladmit_tot": 23
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1644652800000,
+      "unvax_alladmit": 18,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 20
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1644739200000,
+      "unvax_alladmit": 6,
+      "fullvax_alladmit": 4,
+      "alladmit_tot": 10
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1644825600000,
+      "unvax_alladmit": 13,
+      "fullvax_alladmit": 4,
+      "alladmit_tot": 17
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1644912000000,
+      "unvax_alladmit": 18,
+      "fullvax_alladmit": 5,
+      "alladmit_tot": 23
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1644998400000,
+      "unvax_alladmit": 9,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 11
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1645084800000,
+      "unvax_alladmit": 9,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 11
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1645171200000,
+      "unvax_alladmit": 7,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 7
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1645257600000,
+      "unvax_alladmit": 8,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 10
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1645344000000,
+      "unvax_alladmit": 11,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 12
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1645430400000,
+      "unvax_alladmit": 5,
+      "fullvax_alladmit": 5,
+      "alladmit_tot": 10
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1645516800000,
+      "unvax_alladmit": 7,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 9
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1645603200000,
+      "unvax_alladmit": 6,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 7
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1645689600000,
+      "unvax_alladmit": 7,
+      "fullvax_alladmit": 5,
+      "alladmit_tot": 12
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1645776000000,
+      "unvax_alladmit": 4,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 6
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1645862400000,
+      "unvax_alladmit": 3,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 5
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1645948800000,
+      "unvax_alladmit": 5,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 7
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1646035200000,
+      "unvax_alladmit": 7,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 7
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1646121600000,
+      "unvax_alladmit": 7,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 8
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1646208000000,
+      "unvax_alladmit": 9,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 11
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1646294400000,
+      "unvax_alladmit": 4,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 4
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1646380800000,
+      "unvax_alladmit": 8,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 10
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1646467200000,
+      "unvax_alladmit": 3,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 4
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1646553600000,
+      "unvax_alladmit": 3,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 4
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1646640000000,
+      "unvax_alladmit": 4,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 6
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1646726400000,
+      "unvax_alladmit": 6,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 6
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1646812800000,
+      "unvax_alladmit": 6,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 9
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1646899200000,
+      "unvax_alladmit": 2,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 5
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1646985600000,
+      "unvax_alladmit": 4,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 6
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1647072000000,
+      "unvax_alladmit": 4,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 5
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1647158400000,
+      "unvax_alladmit": 3,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 4
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1647241200000,
+      "unvax_alladmit": 3,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 6
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1647327600000,
+      "unvax_alladmit": 3,
+      "fullvax_alladmit": 3,
+      "alladmit_tot": 6
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1647414000000,
+      "unvax_alladmit": 4,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 4
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1647500400000,
+      "unvax_alladmit": 4,
+      "fullvax_alladmit": 5,
+      "alladmit_tot": 9
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1647586800000,
+      "unvax_alladmit": 4,
+      "fullvax_alladmit": 2,
+      "alladmit_tot": 6
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1647673200000,
+      "unvax_alladmit": 2,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 2
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1647759600000,
+      "unvax_alladmit": 2,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 2
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1647846000000,
+      "unvax_alladmit": 6,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 7
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1647932400000,
+      "unvax_alladmit": 3,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 4
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1648018800000,
+      "unvax_alladmit": 0,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 1
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1648105200000,
+      "unvax_alladmit": 4,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 4
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1648191600000,
+      "unvax_alladmit": 2,
+      "fullvax_alladmit": 1,
+      "alladmit_tot": 3
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1648278000000,
+      "unvax_alladmit": 1,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 1
+    }
+  },
+  {
+    "attributes": {
+      "Date": 1648364400000,
+      "unvax_alladmit": 2,
+      "fullvax_alladmit": 0,
+      "alladmit_tot": 2
+    }
+  }
+]

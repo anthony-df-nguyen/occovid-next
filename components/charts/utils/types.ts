@@ -1,4 +1,5 @@
 import { KeyValuePair } from "tailwindcss/types/config";
+import { filterCategoricalData } from "../../../data/transformed/utils/helpers";
 
 /**
  * The format of the object that must be passed into ChartJS to correctly plot.
@@ -111,62 +112,9 @@ class CategoricalChart implements ChartDataStructure {
 }
 
 
-const sortDataByDate = (data: any[], dateKey: string) => {
-  return data.sort((a, b) =>
-    a.attributes[dateKey] > b.attributes[dateKey] ? 1 : -1
-  );
-};
-
-const buildDateLabels = (data: any[], dateKey: string) => {
-  return data.map((row) =>
-    new Date(row.attributes[dateKey]).toLocaleDateString()
-  );
-};
-
-const filterCategoricalData = (
-  data: {
-    attributes: {
-      [key: string]: string | number;
-    };
-  }[],
-  categories: string[],
-  key: string
-) => {
-  let values: any[] = [];
-  categories.forEach((cat) => {
-    const found = data.find((row) => row.attributes.category === cat);
-    found && values.push(found.attributes[key]);
-  });
-  return values;
-};
-
-const ageKeys = [
-  "0-4 yrs",
-  "5-11 yrs",
-  "12-17 yrs",
-  "18-24 yrs",
-  "25-34 yrs",
-  "35-44 yrs",
-  "45-54 yrs",
-  "55-64 yrs",
-  "65-74 yrs",
-  "75-84 yrs",
-  "85+ yrs",
-];
-
-const raceKeys = ["Asian/PI", "Black", "Hispanic", "White", "Other Race"];
-
-const sexKeys = ["Male", "Female"];
-
 export type { ChartDataStructure };
 export {
   SingleSeriesChart,
   MultiSeriesChart,
   CategoricalChart,
-  sortDataByDate,
-  buildDateLabels,
-  filterCategoricalData,
-  ageKeys,
-  raceKeys,
-  sexKeys,
 };

@@ -4,7 +4,7 @@ import React from "react";
 import dynamic from "next/dynamic";
 import Tabs from "../ui/Tabs";
 import Card from "../ui/Card";
-import { ChartDataStructure, CategoricalChart } from "./utils/helpers";
+import { ChartDataStructure, CategoricalChart } from "../../data/transformed/utils/helpers";
 
 const BarChart = dynamic(() => import("./BarChart"), {
   ssr: false,

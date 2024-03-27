@@ -2,10 +2,10 @@
 import { CountySourceData } from "../source/types";
 const data: CountySourceData = require("../source/timeseries_data/deaths.json");
 import {
-  SingleSeriesChart,
   sortDataByDate,
   buildDateLabels,
-} from "../../components/charts/utils/helpers";
+} from "./utils/helpers";
+import { SingleSeriesChart } from "@/components/charts/utils/types";
 import { colors } from "@/components/colors/colors";
 
 sortDataByDate(data,"date");

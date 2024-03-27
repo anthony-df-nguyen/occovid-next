@@ -2,7 +2,7 @@
 import React from "react";
 import dynamic from "next/dynamic";
 import Card from "../ui/Card";
-import { ChartDataStructure } from "./utils/helpers";
+import { ChartDataStructure } from "../../data/transformed/utils/helpers";
 
 const BarChart = dynamic(() => import("./BarChart"), {
   ssr: false,

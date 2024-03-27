@@ -3,15 +3,12 @@ import { CountySourceData } from "../source/types";
 const data: CountySourceData = require("../source/static_counts/vaccinations/doses.json");
 const timeData: CountySourceData = require("../source/timeseries_data/doses.json");
 import { colors } from "@/components/colors/colors";
+import { SingleSeriesChart, CategoricalChart } from "@/components/charts/utils/types";
+import { ageKeys, sexKeys, raceKeys } from "@/data/transformed/utils/constants";
 import {
-  CategoricalChart,
-  ageKeys,
-  raceKeys,
-  sexKeys,
   sortDataByDate,
   buildDateLabels,
-  SingleSeriesChart,
-} from "../../components/charts/utils/helpers";
+} from "./utils/helpers";
 import {
   ageMapping,
   raceMapping,
