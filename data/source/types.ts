@@ -1,7 +1,5 @@
 export type CountySourceData = {
-  attributes: {
-    [key: string]: string | number | null;
-  };
+  [key: string]: string | number | null;
 }[];
 
 export type CountySourceDataGeoJSON = {

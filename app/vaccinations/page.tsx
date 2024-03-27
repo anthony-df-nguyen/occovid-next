@@ -3,7 +3,7 @@ import StatCard from "@/components/ui/StatCard";
 import type { Metadata } from "next";
 import summarizedToDates from "@/data/source/static_counts/summarized";
 import ChartController from "@/components/charts/ChartController";
-import TabChartController from "@/components/charts/TabChartController";
+import TabChartController, { TabData } from "@/components/charts/TabChartController";
 import {
   vaxByRace,
   vaxByRacePercent,
@@ -13,22 +13,15 @@ import {
   vaxBySexPercent,
   doseHistory,
 } from "@/data/transformed/vax_breakdown";
-import { TabData } from "@/components/charts/TabChartController";
+import { maxYScale } from "@/components/charts/utils/constants";
 import Break from "@/components/layout/Break";
+
 export const metadata: Metadata = {
   title: "OCCOVID | Vaccinations",
   description: "OCCOVID Vaccinations",
 };
 
-const maxYScale = {
-  y: {
-    min: 0,
-    max: 100,
-  },
-  x: {
-    stacked: false,
-  }
-};
+
 const vaxTabs: TabData = [
   {
     tabName: "by Race",

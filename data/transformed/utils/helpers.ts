@@ -1,30 +1,37 @@
+import { CountySourceData } from "@/data/source/types";
+
 const sortDataByDate = (data: any[], dateKey: string) => {
-  return data.sort((a, b) =>
-    a.attributes[dateKey] > b.attributes[dateKey] ? 1 : -1
-  );
+  return data.sort((a, b) => (a[dateKey] > b[dateKey] ? 1 : -1));
 };
 
 const buildDateLabels = (data: any[], dateKey: string) => {
   return data.map((row) =>
-    new Date(row.attributes[dateKey]).toLocaleDateString()
+    new Date(row[dateKey]).toLocaleDateString()
   );
 };
 
 const filterCategoricalData = (
   data: {
-    attributes: {
-      [key: string]: string | number;
-    };
+    [key: string]: string | number;
   }[],
   categories: string[],
   key: string
 ) => {
   let values: any[] = [];
   categories.forEach((cat) => {
-    const found = data.find((row) => row.attributes.category === cat);
-    found && values.push(found.attributes[key]);
+    const found = data.find((row) => row.category === cat);
+    found && values.push(found[key]);
   });
   return values;
 };
 
-export { sortDataByDate, buildDateLabels, filterCategoricalData };
+const promoteChildren = (data) => {
+  return data.map((item) => ({ ...item.attributes }));
+};
+
+export {
+  sortDataByDate,
+  buildDateLabels,
+  filterCategoricalData,
+  promoteChildren,
+};

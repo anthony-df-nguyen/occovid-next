@@ -8,6 +8,7 @@ import {
 import { SingleSeriesChart } from "@/components/charts/utils/types";
 import { colors } from "@/components/colors/colors";
 
+
 sortDataByDate(data,"date");
 const labels = buildDateLabels(data, "date");
 

@@ -38,7 +38,7 @@ class SingleSeriesChart implements ChartDataStructure {
     this.datasets = [
       {
         label: "Total",
-        data: data.map((row) => row.attributes[key]),
+        data: data.map((row) => row[key]),
         backgroundColor: color,
       },
     ];
@@ -69,7 +69,7 @@ class MultiSeriesChart implements ChartDataStructure {
     this.datasets = data.map((series) => {
       return {
         label: series.label,
-        data: series.data.map((entry) => entry.attributes[series.key]),
+        data: series.data.map((entry) => entry[series.key]),
         backgroundColor: series.backgroundColor,
       };
     });

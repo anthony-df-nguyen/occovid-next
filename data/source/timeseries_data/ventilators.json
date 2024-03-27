@@ -1,0 +1,4270 @@
+[
+  {
+      "date": 1591858800000,
+      "vent_avail_cdph": 68.1
+  },
+  {
+      "date": 1591945200000,
+      "vent_avail_cdph": 69.16
+  },
+  {
+      "date": 1592031600000,
+      "vent_avail_cdph": 69.4
+  },
+  {
+      "date": 1592118000000,
+      "vent_avail_cdph": 69.4
+  },
+  {
+      "date": 1592204400000,
+      "vent_avail_cdph": 72.8
+  },
+  {
+      "date": 1592290800000,
+      "vent_avail_cdph": 68.13
+  },
+  {
+      "date": 1592377200000,
+      "vent_avail_cdph": 68.59
+  },
+  {
+      "date": 1592463600000,
+      "vent_avail_cdph": 67.61
+  },
+  {
+      "date": 1592550000000,
+      "vent_avail_cdph": 68.4
+  },
+  {
+      "date": 1592636400000,
+      "vent_avail_cdph": 68.2
+  },
+  {
+      "date": 1592722800000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1592809200000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1592895600000,
+      "vent_avail_cdph": 67.7
+  },
+  {
+      "date": 1592982000000,
+      "vent_avail_cdph": 65.1
+  },
+  {
+      "date": 1593068400000,
+      "vent_avail_cdph": 64.6
+  },
+  {
+      "date": 1593154800000,
+      "vent_avail_cdph": 66.7
+  },
+  {
+      "date": 1593241200000,
+      "vent_avail_cdph": 67.2
+  },
+  {
+      "date": 1593327600000,
+      "vent_avail_cdph": 67.3
+  },
+  {
+      "date": 1593414000000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1593500400000,
+      "vent_avail_cdph": 67
+  },
+  {
+      "date": 1593586800000,
+      "vent_avail_cdph": 64.6
+  },
+  {
+      "date": 1593673200000,
+      "vent_avail_cdph": 63.5
+  },
+  {
+      "date": 1593759600000,
+      "vent_avail_cdph": 64.7
+  },
+  {
+      "date": 1593846000000,
+      "vent_avail_cdph": 64.4
+  },
+  {
+      "date": 1593932400000,
+      "vent_avail_cdph": 66.1
+  },
+  {
+      "date": 1594018800000,
+      "vent_avail_cdph": 66.1
+  },
+  {
+      "date": 1594105200000,
+      "vent_avail_cdph": 66.7
+  },
+  {
+      "date": 1594191600000,
+      "vent_avail_cdph": 65.8
+  },
+  {
+      "date": 1594278000000,
+      "vent_avail_cdph": 64.5
+  },
+  {
+      "date": 1594364400000,
+      "vent_avail_cdph": 65.4
+  },
+  {
+      "date": 1594450800000,
+      "vent_avail_cdph": 65.3
+  },
+  {
+      "date": 1594537200000,
+      "vent_avail_cdph": 63.3
+  },
+  {
+      "date": 1594623600000,
+      "vent_avail_cdph": 65.8
+  },
+  {
+      "date": 1594710000000,
+      "vent_avail_cdph": 64.8
+  },
+  {
+      "date": 1594796400000,
+      "vent_avail_cdph": 63.9
+  },
+  {
+      "date": 1594882800000,
+      "vent_avail_cdph": 64
+  },
+  {
+      "date": 1594969200000,
+      "vent_avail_cdph": 64
+  },
+  {
+      "date": 1595055600000,
+      "vent_avail_cdph": 64.5
+  },
+  {
+      "date": 1595142000000,
+      "vent_avail_cdph": 64.5
+  },
+  {
+      "date": 1595228400000,
+      "vent_avail_cdph": 61.5
+  },
+  {
+      "date": 1595314800000,
+      "vent_avail_cdph": 64
+  },
+  {
+      "date": 1595401200000,
+      "vent_avail_cdph": 63
+  },
+  {
+      "date": 1595487600000,
+      "vent_avail_cdph": 67
+  },
+  {
+      "date": 1595574000000,
+      "vent_avail_cdph": 61
+  },
+  {
+      "date": 1595660400000,
+      "vent_avail_cdph": 61
+  },
+  {
+      "date": 1595746800000,
+      "vent_avail_cdph": 62
+  },
+  {
+      "date": 1595833200000,
+      "vent_avail_cdph": 60
+  },
+  {
+      "date": 1595919600000,
+      "vent_avail_cdph": 58
+  },
+  {
+      "date": 1596006000000,
+      "vent_avail_cdph": 65
+  },
+  {
+      "date": 1596092400000,
+      "vent_avail_cdph": 57
+  },
+  {
+      "date": 1596178800000,
+      "vent_avail_cdph": 56
+  },
+  {
+      "date": 1596265200000,
+      "vent_avail_cdph": 57
+  },
+  {
+      "date": 1596351600000,
+      "vent_avail_cdph": 57
+  },
+  {
+      "date": 1596438000000,
+      "vent_avail_cdph": 54
+  },
+  {
+      "date": 1596524400000,
+      "vent_avail_cdph": 54
+  },
+  {
+      "date": 1596610800000,
+      "vent_avail_cdph": 54
+  },
+  {
+      "date": 1596697200000,
+      "vent_avail_cdph": 56
+  },
+  {
+      "date": 1596783600000,
+      "vent_avail_cdph": 64
+  },
+  {
+      "date": 1596870000000,
+      "vent_avail_cdph": 63
+  },
+  {
+      "date": 1596956400000,
+      "vent_avail_cdph": 66
+  },
+  {
+      "date": 1597042800000,
+      "vent_avail_cdph": 64
+  },
+  {
+      "date": 1597129200000,
+      "vent_avail_cdph": 64
+  },
+  {
+      "date": 1597215600000,
+      "vent_avail_cdph": 63
+  },
+  {
+      "date": 1597302000000,
+      "vent_avail_cdph": 65
+  },
+  {
+      "date": 1597388400000,
+      "vent_avail_cdph": 56
+  },
+  {
+      "date": 1597474800000,
+      "vent_avail_cdph": 57
+  },
+  {
+      "date": 1597561200000,
+      "vent_avail_cdph": 57
+  },
+  {
+      "date": 1597647600000,
+      "vent_avail_cdph": 56
+  },
+  {
+      "date": 1597734000000,
+      "vent_avail_cdph": 56
+  },
+  {
+      "date": 1597820400000,
+      "vent_avail_cdph": 56
+  },
+  {
+      "date": 1597906800000,
+      "vent_avail_cdph": 58
+  },
+  {
+      "date": 1597993200000,
+      "vent_avail_cdph": 58
+  },
+  {
+      "date": 1598079600000,
+      "vent_avail_cdph": 59
+  },
+  {
+      "date": 1598166000000,
+      "vent_avail_cdph": 58
+  },
+  {
+      "date": 1598252400000,
+      "vent_avail_cdph": 59
+  },
+  {
+      "date": 1598338800000,
+      "vent_avail_cdph": 58
+  },
+  {
+      "date": 1598425200000,
+      "vent_avail_cdph": 58
+  },
+  {
+      "date": 1598511600000,
+      "vent_avail_cdph": 60
+  },
+  {
+      "date": 1598598000000,
+      "vent_avail_cdph": 61
+  },
+  {
+      "date": 1598684400000,
+      "vent_avail_cdph": 63
+  },
+  {
+      "date": 1598770800000,
+      "vent_avail_cdph": 62.5
+  },
+  {
+      "date": 1598857200000,
+      "vent_avail_cdph": 62
+  },
+  {
+      "date": 1598943600000,
+      "vent_avail_cdph": 62
+  },
+  {
+      "date": 1599030000000,
+      "vent_avail_cdph": 63
+  },
+  {
+      "date": 1599116400000,
+      "vent_avail_cdph": 62
+  },
+  {
+      "date": 1599202800000,
+      "vent_avail_cdph": 63
+  },
+  {
+      "date": 1599289200000,
+      "vent_avail_cdph": 62
+  },
+  {
+      "date": 1599375600000,
+      "vent_avail_cdph": 63
+  },
+  {
+      "date": 1599462000000,
+      "vent_avail_cdph": 65
+  },
+  {
+      "date": 1599548400000,
+      "vent_avail_cdph": 62
+  },
+  {
+      "date": 1599634800000,
+      "vent_avail_cdph": 62
+  },
+  {
+      "date": 1599721200000,
+      "vent_avail_cdph": 61
+  },
+  {
+      "date": 1599807600000,
+      "vent_avail_cdph": 62
+  },
+  {
+      "date": 1599894000000,
+      "vent_avail_cdph": 63
+  },
+  {
+      "date": 1599980400000,
+      "vent_avail_cdph": 64
+  },
+  {
+      "date": 1600066800000,
+      "vent_avail_cdph": 65
+  },
+  {
+      "date": 1600153200000,
+      "vent_avail_cdph": 63
+  },
+  {
+      "date": 1600239600000,
+      "vent_avail_cdph": 64
+  },
+  {
+      "date": 1600326000000,
+      "vent_avail_cdph": 64
+  },
+  {
+      "date": 1600412400000,
+      "vent_avail_cdph": 67
+  },
+  {
+      "date": 1600498800000,
+      "vent_avail_cdph": 65.6
+  },
+  {
+      "date": 1600585200000,
+      "vent_avail_cdph": 65.7
+  },
+  {
+      "date": 1600671600000,
+      "vent_avail_cdph": 65
+  },
+  {
+      "date": 1600758000000,
+      "vent_avail_cdph": 65
+  },
+  {
+      "date": 1600844400000,
+      "vent_avail_cdph": 65
+  },
+  {
+      "date": 1600930800000,
+      "vent_avail_cdph": 66
+  },
+  {
+      "date": 1601017200000,
+      "vent_avail_cdph": 65
+  },
+  {
+      "date": 1601103600000,
+      "vent_avail_cdph": 67
+  },
+  {
+      "date": 1601190000000,
+      "vent_avail_cdph": 67
+  },
+  {
+      "date": 1601276400000,
+      "vent_avail_cdph": 67
+  },
+  {
+      "date": 1601362800000,
+      "vent_avail_cdph": 67
+  },
+  {
+      "date": 1601449200000,
+      "vent_avail_cdph": 65
+  },
+  {
+      "date": 1601535600000,
+      "vent_avail_cdph": 66
+  },
+  {
+      "date": 1601622000000,
+      "vent_avail_cdph": 67
+  },
+  {
+      "date": 1601708400000,
+      "vent_avail_cdph": 67
+  },
+  {
+      "date": 1601794800000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1601881200000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1601967600000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1602054000000,
+      "vent_avail_cdph": 66
+  },
+  {
+      "date": 1602140400000,
+      "vent_avail_cdph": 67
+  },
+  {
+      "date": 1602226800000,
+      "vent_avail_cdph": 66
+  },
+  {
+      "date": 1602313200000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1602399600000,
+      "vent_avail_cdph": 67
+  },
+  {
+      "date": 1602486000000,
+      "vent_avail_cdph": 67
+  },
+  {
+      "date": 1602572400000,
+      "vent_avail_cdph": 66
+  },
+  {
+      "date": 1602658800000,
+      "vent_avail_cdph": 67
+  },
+  {
+      "date": 1602745200000,
+      "vent_avail_cdph": 69
+  },
+  {
+      "date": 1602831600000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1602918000000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1603004400000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1603090800000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1603177200000,
+      "vent_avail_cdph": 69
+  },
+  {
+      "date": 1603263600000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1603350000000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1603436400000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1603522800000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1603609200000,
+      "vent_avail_cdph": 69
+  },
+  {
+      "date": 1603695600000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1603782000000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1603868400000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1603954800000,
+      "vent_avail_cdph": 66
+  },
+  {
+      "date": 1604041200000,
+      "vent_avail_cdph": 67
+  },
+  {
+      "date": 1604127600000,
+      "vent_avail_cdph": 67
+  },
+  {
+      "date": 1604214000000,
+      "vent_avail_cdph": 67
+  },
+  {
+      "date": 1604304000000,
+      "vent_avail_cdph": 66
+  },
+  {
+      "date": 1604390400000,
+      "vent_avail_cdph": 65
+  },
+  {
+      "date": 1604476800000,
+      "vent_avail_cdph": 65
+  },
+  {
+      "date": 1604563200000,
+      "vent_avail_cdph": 64
+  },
+  {
+      "date": 1604649600000,
+      "vent_avail_cdph": 64
+  },
+  {
+      "date": 1604736000000,
+      "vent_avail_cdph": 64
+  },
+  {
+      "date": 1604822400000,
+      "vent_avail_cdph": 65
+  },
+  {
+      "date": 1604908800000,
+      "vent_avail_cdph": 65
+  },
+  {
+      "date": 1604995200000,
+      "vent_avail_cdph": 64
+  },
+  {
+      "date": 1605081600000,
+      "vent_avail_cdph": 63
+  },
+  {
+      "date": 1605168000000,
+      "vent_avail_cdph": 64
+  },
+  {
+      "date": 1605254400000,
+      "vent_avail_cdph": 64
+  },
+  {
+      "date": 1605340800000,
+      "vent_avail_cdph": 65
+  },
+  {
+      "date": 1605427200000,
+      "vent_avail_cdph": 65
+  },
+  {
+      "date": 1605513600000,
+      "vent_avail_cdph": 65
+  },
+  {
+      "date": 1605600000000,
+      "vent_avail_cdph": 64
+  },
+  {
+      "date": 1605686400000,
+      "vent_avail_cdph": 65
+  },
+  {
+      "date": 1605772800000,
+      "vent_avail_cdph": 65
+  },
+  {
+      "date": 1605859200000,
+      "vent_avail_cdph": 65
+  },
+  {
+      "date": 1605945600000,
+      "vent_avail_cdph": 66
+  },
+  {
+      "date": 1606032000000,
+      "vent_avail_cdph": 67
+  },
+  {
+      "date": 1606118400000,
+      "vent_avail_cdph": 66
+  },
+  {
+      "date": 1606204800000,
+      "vent_avail_cdph": 66
+  },
+  {
+      "date": 1606291200000,
+      "vent_avail_cdph": 64
+  },
+  {
+      "date": 1606377600000,
+      "vent_avail_cdph": 65
+  },
+  {
+      "date": 1606464000000,
+      "vent_avail_cdph": 65
+  },
+  {
+      "date": 1606550400000,
+      "vent_avail_cdph": 63
+  },
+  {
+      "date": 1606636800000,
+      "vent_avail_cdph": 63
+  },
+  {
+      "date": 1606723200000,
+      "vent_avail_cdph": 62
+  },
+  {
+      "date": 1606809600000,
+      "vent_avail_cdph": 61
+  },
+  {
+      "date": 1606896000000,
+      "vent_avail_cdph": 59
+  },
+  {
+      "date": 1606982400000,
+      "vent_avail_cdph": 57
+  },
+  {
+      "date": 1607068800000,
+      "vent_avail_cdph": 55
+  },
+  {
+      "date": 1607155200000,
+      "vent_avail_cdph": 56
+  },
+  {
+      "date": 1607241600000,
+      "vent_avail_cdph": 54
+  },
+  {
+      "date": 1607328000000,
+      "vent_avail_cdph": 53
+  },
+  {
+      "date": 1607414400000,
+      "vent_avail_cdph": 53
+  },
+  {
+      "date": 1607500800000,
+      "vent_avail_cdph": 53
+  },
+  {
+      "date": 1607587200000,
+      "vent_avail_cdph": 53
+  },
+  {
+      "date": 1607673600000,
+      "vent_avail_cdph": 54
+  },
+  {
+      "date": 1607760000000,
+      "vent_avail_cdph": 53
+  },
+  {
+      "date": 1607846400000,
+      "vent_avail_cdph": 54
+  },
+  {
+      "date": 1607932800000,
+      "vent_avail_cdph": 53
+  },
+  {
+      "date": 1608019200000,
+      "vent_avail_cdph": 50
+  },
+  {
+      "date": 1608105600000,
+      "vent_avail_cdph": 50
+  },
+  {
+      "date": 1608192000000,
+      "vent_avail_cdph": 47
+  },
+  {
+      "date": 1608278400000,
+      "vent_avail_cdph": 51
+  },
+  {
+      "date": 1608364800000,
+      "vent_avail_cdph": 50
+  },
+  {
+      "date": 1608451200000,
+      "vent_avail_cdph": 51
+  },
+  {
+      "date": 1608537600000,
+      "vent_avail_cdph": 48
+  },
+  {
+      "date": 1608624000000,
+      "vent_avail_cdph": 45
+  },
+  {
+      "date": 1608710400000,
+      "vent_avail_cdph": 44
+  },
+  {
+      "date": 1608796800000,
+      "vent_avail_cdph": 44
+  },
+  {
+      "date": 1608883200000,
+      "vent_avail_cdph": 44
+  },
+  {
+      "date": 1608969600000,
+      "vent_avail_cdph": 45
+  },
+  {
+      "date": 1609056000000,
+      "vent_avail_cdph": 45
+  },
+  {
+      "date": 1609142400000,
+      "vent_avail_cdph": 43
+  },
+  {
+      "date": 1609228800000,
+      "vent_avail_cdph": 42
+  },
+  {
+      "date": 1609315200000,
+      "vent_avail_cdph": 40
+  },
+  {
+      "date": 1609401600000,
+      "vent_avail_cdph": 40
+  },
+  {
+      "date": 1609488000000,
+      "vent_avail_cdph": 39
+  },
+  {
+      "date": 1609574400000,
+      "vent_avail_cdph": 37
+  },
+  {
+      "date": 1609660800000,
+      "vent_avail_cdph": 35
+  },
+  {
+      "date": 1609747200000,
+      "vent_avail_cdph": 33
+  },
+  {
+      "date": 1609833600000,
+      "vent_avail_cdph": 31
+  },
+  {
+      "date": 1609920000000,
+      "vent_avail_cdph": 32
+  },
+  {
+      "date": 1610006400000,
+      "vent_avail_cdph": 33
+  },
+  {
+      "date": 1610092800000,
+      "vent_avail_cdph": 34
+  },
+  {
+      "date": 1610179200000,
+      "vent_avail_cdph": 34
+  },
+  {
+      "date": 1610265600000,
+      "vent_avail_cdph": 36
+  },
+  {
+      "date": 1610352000000,
+      "vent_avail_cdph": 35
+  },
+  {
+      "date": 1610438400000,
+      "vent_avail_cdph": 34
+  },
+  {
+      "date": 1610524800000,
+      "vent_avail_cdph": 35
+  },
+  {
+      "date": 1610611200000,
+      "vent_avail_cdph": 33
+  },
+  {
+      "date": 1610697600000,
+      "vent_avail_cdph": 36
+  },
+  {
+      "date": 1610784000000,
+      "vent_avail_cdph": 37
+  },
+  {
+      "date": 1610870400000,
+      "vent_avail_cdph": 36
+  },
+  {
+      "date": 1610956800000,
+      "vent_avail_cdph": 35
+  },
+  {
+      "date": 1611043200000,
+      "vent_avail_cdph": 34
+  },
+  {
+      "date": 1611129600000,
+      "vent_avail_cdph": 34
+  },
+  {
+      "date": 1611216000000,
+      "vent_avail_cdph": 35
+  },
+  {
+      "date": 1611302400000,
+      "vent_avail_cdph": 35
+  },
+  {
+      "date": 1611388800000,
+      "vent_avail_cdph": 36
+  },
+  {
+      "date": 1611475200000,
+      "vent_avail_cdph": 35
+  },
+  {
+      "date": 1611561600000,
+      "vent_avail_cdph": 38
+  },
+  {
+      "date": 1611648000000,
+      "vent_avail_cdph": 38
+  },
+  {
+      "date": 1611734400000,
+      "vent_avail_cdph": 39
+  },
+  {
+      "date": 1611820800000,
+      "vent_avail_cdph": 41
+  },
+  {
+      "date": 1611907200000,
+      "vent_avail_cdph": 43
+  },
+  {
+      "date": 1611993600000,
+      "vent_avail_cdph": 47
+  },
+  {
+      "date": 1612080000000,
+      "vent_avail_cdph": 48
+  },
+  {
+      "date": 1612166400000,
+      "vent_avail_cdph": 49
+  },
+  {
+      "date": 1612252800000,
+      "vent_avail_cdph": 50
+  },
+  {
+      "date": 1612339200000,
+      "vent_avail_cdph": 51
+  },
+  {
+      "date": 1612425600000,
+      "vent_avail_cdph": 52
+  },
+  {
+      "date": 1612512000000,
+      "vent_avail_cdph": 53
+  },
+  {
+      "date": 1612598400000,
+      "vent_avail_cdph": 53
+  },
+  {
+      "date": 1612684800000,
+      "vent_avail_cdph": 58
+  },
+  {
+      "date": 1612771200000,
+      "vent_avail_cdph": 51
+  },
+  {
+      "date": 1612857600000,
+      "vent_avail_cdph": 51
+  },
+  {
+      "date": 1612944000000,
+      "vent_avail_cdph": 52
+  },
+  {
+      "date": 1613030400000,
+      "vent_avail_cdph": 51
+  },
+  {
+      "date": 1613116800000,
+      "vent_avail_cdph": 54
+  },
+  {
+      "date": 1613203200000,
+      "vent_avail_cdph": 56
+  },
+  {
+      "date": 1613289600000,
+      "vent_avail_cdph": 56
+  },
+  {
+      "date": 1613376000000,
+      "vent_avail_cdph": 56
+  },
+  {
+      "date": 1613462400000,
+      "vent_avail_cdph": 56
+  },
+  {
+      "date": 1613548800000,
+      "vent_avail_cdph": 57
+  },
+  {
+      "date": 1613635200000,
+      "vent_avail_cdph": 58
+  },
+  {
+      "date": 1613721600000,
+      "vent_avail_cdph": 59
+  },
+  {
+      "date": 1613808000000,
+      "vent_avail_cdph": 58
+  },
+  {
+      "date": 1613894400000,
+      "vent_avail_cdph": 59
+  },
+  {
+      "date": 1613980800000,
+      "vent_avail_cdph": 59
+  },
+  {
+      "date": 1614067200000,
+      "vent_avail_cdph": 61
+  },
+  {
+      "date": 1614153600000,
+      "vent_avail_cdph": 61
+  },
+  {
+      "date": 1614240000000,
+      "vent_avail_cdph": 61
+  },
+  {
+      "date": 1614326400000,
+      "vent_avail_cdph": 60
+  },
+  {
+      "date": 1614412800000,
+      "vent_avail_cdph": 61
+  },
+  {
+      "date": 1614499200000,
+      "vent_avail_cdph": 62
+  },
+  {
+      "date": 1614585600000,
+      "vent_avail_cdph": 63
+  },
+  {
+      "date": 1614672000000,
+      "vent_avail_cdph": 64
+  },
+  {
+      "date": 1614758400000,
+      "vent_avail_cdph": 65
+  },
+  {
+      "date": 1614844800000,
+      "vent_avail_cdph": 66
+  },
+  {
+      "date": 1614931200000,
+      "vent_avail_cdph": 66
+  },
+  {
+      "date": 1615017600000,
+      "vent_avail_cdph": 66
+  },
+  {
+      "date": 1615104000000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1615190400000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1615276800000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1615363200000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1615449600000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1615536000000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1615622400000,
+      "vent_avail_cdph": 69
+  },
+  {
+      "date": 1615708800000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1615791600000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1615878000000,
+      "vent_avail_cdph": 71
+  },
+  {
+      "date": 1615964400000,
+      "vent_avail_cdph": 71
+  },
+  {
+      "date": 1616050800000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1616137200000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1616223600000,
+      "vent_avail_cdph": 69
+  },
+  {
+      "date": 1616310000000,
+      "vent_avail_cdph": 72
+  },
+  {
+      "date": 1616396400000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1616482800000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1616569200000,
+      "vent_avail_cdph": 71
+  },
+  {
+      "date": 1616655600000,
+      "vent_avail_cdph": 71
+  },
+  {
+      "date": 1616742000000,
+      "vent_avail_cdph": 72
+  },
+  {
+      "date": 1616828400000,
+      "vent_avail_cdph": 73
+  },
+  {
+      "date": 1616914800000,
+      "vent_avail_cdph": 73
+  },
+  {
+      "date": 1617001200000,
+      "vent_avail_cdph": 72
+  },
+  {
+      "date": 1617087600000,
+      "vent_avail_cdph": 73
+  },
+  {
+      "date": 1617174000000,
+      "vent_avail_cdph": 72
+  },
+  {
+      "date": 1617260400000,
+      "vent_avail_cdph": 72
+  },
+  {
+      "date": 1617346800000,
+      "vent_avail_cdph": 72
+  },
+  {
+      "date": 1617433200000,
+      "vent_avail_cdph": 72
+  },
+  {
+      "date": 1617519600000,
+      "vent_avail_cdph": 72
+  },
+  {
+      "date": 1617606000000,
+      "vent_avail_cdph": 72
+  },
+  {
+      "date": 1617692400000,
+      "vent_avail_cdph": 72
+  },
+  {
+      "date": 1617778800000,
+      "vent_avail_cdph": 71
+  },
+  {
+      "date": 1617865200000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1617951600000,
+      "vent_avail_cdph": 72
+  },
+  {
+      "date": 1618038000000,
+      "vent_avail_cdph": 72
+  },
+  {
+      "date": 1618124400000,
+      "vent_avail_cdph": 71
+  },
+  {
+      "date": 1618210800000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1618297200000,
+      "vent_avail_cdph": 71
+  },
+  {
+      "date": 1618383600000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1618470000000,
+      "vent_avail_cdph": 71
+  },
+  {
+      "date": 1618556400000,
+      "vent_avail_cdph": 73
+  },
+  {
+      "date": 1618642800000,
+      "vent_avail_cdph": 72
+  },
+  {
+      "date": 1618729200000,
+      "vent_avail_cdph": 74
+  },
+  {
+      "date": 1618815600000,
+      "vent_avail_cdph": 73
+  },
+  {
+      "date": 1618902000000,
+      "vent_avail_cdph": 73
+  },
+  {
+      "date": 1618988400000,
+      "vent_avail_cdph": 74
+  },
+  {
+      "date": 1619074800000,
+      "vent_avail_cdph": 74
+  },
+  {
+      "date": 1619161200000,
+      "vent_avail_cdph": 74
+  },
+  {
+      "date": 1619247600000,
+      "vent_avail_cdph": 74
+  },
+  {
+      "date": 1619334000000,
+      "vent_avail_cdph": 73
+  },
+  {
+      "date": 1619420400000,
+      "vent_avail_cdph": 73
+  },
+  {
+      "date": 1619506800000,
+      "vent_avail_cdph": 74
+  },
+  {
+      "date": 1619593200000,
+      "vent_avail_cdph": 73
+  },
+  {
+      "date": 1619679600000,
+      "vent_avail_cdph": 74
+  },
+  {
+      "date": 1619766000000,
+      "vent_avail_cdph": 75
+  },
+  {
+      "date": 1619852400000,
+      "vent_avail_cdph": 76
+  },
+  {
+      "date": 1619938800000,
+      "vent_avail_cdph": 76
+  },
+  {
+      "date": 1620025200000,
+      "vent_avail_cdph": 76
+  },
+  {
+      "date": 1620111600000,
+      "vent_avail_cdph": 76
+  },
+  {
+      "date": 1620198000000,
+      "vent_avail_cdph": 77
+  },
+  {
+      "date": 1620284400000,
+      "vent_avail_cdph": 76
+  },
+  {
+      "date": 1620370800000,
+      "vent_avail_cdph": 77
+  },
+  {
+      "date": 1620457200000,
+      "vent_avail_cdph": 77
+  },
+  {
+      "date": 1620543600000,
+      "vent_avail_cdph": 77
+  },
+  {
+      "date": 1620630000000,
+      "vent_avail_cdph": 75
+  },
+  {
+      "date": 1620716400000,
+      "vent_avail_cdph": 75
+  },
+  {
+      "date": 1620802800000,
+      "vent_avail_cdph": 75
+  },
+  {
+      "date": 1620889200000,
+      "vent_avail_cdph": 74
+  },
+  {
+      "date": 1620975600000,
+      "vent_avail_cdph": 74
+  },
+  {
+      "date": 1621062000000,
+      "vent_avail_cdph": 74
+  },
+  {
+      "date": 1621148400000,
+      "vent_avail_cdph": 75
+  },
+  {
+      "date": 1621234800000,
+      "vent_avail_cdph": 75
+  },
+  {
+      "date": 1621321200000,
+      "vent_avail_cdph": 75
+  },
+  {
+      "date": 1621407600000,
+      "vent_avail_cdph": 75
+  },
+  {
+      "date": 1621494000000,
+      "vent_avail_cdph": 75
+  },
+  {
+      "date": 1621580400000,
+      "vent_avail_cdph": 76
+  },
+  {
+      "date": 1621666800000,
+      "vent_avail_cdph": 79
+  },
+  {
+      "date": 1621753200000,
+      "vent_avail_cdph": 79
+  },
+  {
+      "date": 1621839600000,
+      "vent_avail_cdph": 79
+  },
+  {
+      "date": 1621926000000,
+      "vent_avail_cdph": 80
+  },
+  {
+      "date": 1622012400000,
+      "vent_avail_cdph": 79
+  },
+  {
+      "date": 1622098800000,
+      "vent_avail_cdph": 79
+  },
+  {
+      "date": 1622185200000,
+      "vent_avail_cdph": 80
+  },
+  {
+      "date": 1622271600000,
+      "vent_avail_cdph": 80
+  },
+  {
+      "date": 1622358000000,
+      "vent_avail_cdph": 80
+  },
+  {
+      "date": 1622444400000,
+      "vent_avail_cdph": 79
+  },
+  {
+      "date": 1622530800000,
+      "vent_avail_cdph": 79
+  },
+  {
+      "date": 1622617200000,
+      "vent_avail_cdph": 78
+  },
+  {
+      "date": 1622703600000,
+      "vent_avail_cdph": 78
+  },
+  {
+      "date": 1622790000000,
+      "vent_avail_cdph": 79
+  },
+  {
+      "date": 1622876400000,
+      "vent_avail_cdph": 80
+  },
+  {
+      "date": 1622962800000,
+      "vent_avail_cdph": 80
+  },
+  {
+      "date": 1623049200000,
+      "vent_avail_cdph": 80
+  },
+  {
+      "date": 1623135600000,
+      "vent_avail_cdph": 80
+  },
+  {
+      "date": 1623222000000,
+      "vent_avail_cdph": 80
+  },
+  {
+      "date": 1623308400000,
+      "vent_avail_cdph": 79
+  },
+  {
+      "date": 1623394800000,
+      "vent_avail_cdph": 79
+  },
+  {
+      "date": 1623481200000,
+      "vent_avail_cdph": 79
+  },
+  {
+      "date": 1623567600000,
+      "vent_avail_cdph": 79
+  },
+  {
+      "date": 1623654000000,
+      "vent_avail_cdph": 79
+  },
+  {
+      "date": 1623740400000,
+      "vent_avail_cdph": 77
+  },
+  {
+      "date": 1623826800000,
+      "vent_avail_cdph": 77
+  },
+  {
+      "date": 1623913200000,
+      "vent_avail_cdph": 77
+  },
+  {
+      "date": 1623999600000,
+      "vent_avail_cdph": 77
+  },
+  {
+      "date": 1624086000000,
+      "vent_avail_cdph": 77
+  },
+  {
+      "date": 1624172400000,
+      "vent_avail_cdph": 76
+  },
+  {
+      "date": 1624258800000,
+      "vent_avail_cdph": 77
+  },
+  {
+      "date": 1624345200000,
+      "vent_avail_cdph": 76
+  },
+  {
+      "date": 1624431600000,
+      "vent_avail_cdph": 76
+  },
+  {
+      "date": 1624518000000,
+      "vent_avail_cdph": 76
+  },
+  {
+      "date": 1624604400000,
+      "vent_avail_cdph": 77
+  },
+  {
+      "date": 1624690800000,
+      "vent_avail_cdph": 76
+  },
+  {
+      "date": 1624777200000,
+      "vent_avail_cdph": 77
+  },
+  {
+      "date": 1624863600000,
+      "vent_avail_cdph": 78
+  },
+  {
+      "date": 1624950000000,
+      "vent_avail_cdph": 77
+  },
+  {
+      "date": 1625036400000,
+      "vent_avail_cdph": 77
+  },
+  {
+      "date": 1625122800000,
+      "vent_avail_cdph": 77
+  },
+  {
+      "date": 1625209200000,
+      "vent_avail_cdph": 77
+  },
+  {
+      "date": 1625295600000,
+      "vent_avail_cdph": 77
+  },
+  {
+      "date": 1625382000000,
+      "vent_avail_cdph": 77
+  },
+  {
+      "date": 1625468400000,
+      "vent_avail_cdph": 77
+  },
+  {
+      "date": 1625554800000,
+      "vent_avail_cdph": 76
+  },
+  {
+      "date": 1625641200000,
+      "vent_avail_cdph": 76
+  },
+  {
+      "date": 1625727600000,
+      "vent_avail_cdph": 76
+  },
+  {
+      "date": 1625814000000,
+      "vent_avail_cdph": 77
+  },
+  {
+      "date": 1625900400000,
+      "vent_avail_cdph": 77
+  },
+  {
+      "date": 1625986800000,
+      "vent_avail_cdph": 78
+  },
+  {
+      "date": 1626073200000,
+      "vent_avail_cdph": 77
+  },
+  {
+      "date": 1626159600000,
+      "vent_avail_cdph": 77
+  },
+  {
+      "date": 1626246000000,
+      "vent_avail_cdph": 77
+  },
+  {
+      "date": 1626332400000,
+      "vent_avail_cdph": 76
+  },
+  {
+      "date": 1626418800000,
+      "vent_avail_cdph": 77
+  },
+  {
+      "date": 1626505200000,
+      "vent_avail_cdph": 78
+  },
+  {
+      "date": 1626591600000,
+      "vent_avail_cdph": 78
+  },
+  {
+      "date": 1626678000000,
+      "vent_avail_cdph": 78
+  },
+  {
+      "date": 1626764400000,
+      "vent_avail_cdph": 79
+  },
+  {
+      "date": 1626850800000,
+      "vent_avail_cdph": 79
+  },
+  {
+      "date": 1626937200000,
+      "vent_avail_cdph": 75
+  },
+  {
+      "date": 1627023600000,
+      "vent_avail_cdph": 76
+  },
+  {
+      "date": 1627110000000,
+      "vent_avail_cdph": 75
+  },
+  {
+      "date": 1627196400000,
+      "vent_avail_cdph": 74
+  },
+  {
+      "date": 1627282800000,
+      "vent_avail_cdph": 74
+  },
+  {
+      "date": 1627369200000,
+      "vent_avail_cdph": 74
+  },
+  {
+      "date": 1627455600000,
+      "vent_avail_cdph": 73
+  },
+  {
+      "date": 1627542000000,
+      "vent_avail_cdph": 79
+  },
+  {
+      "date": 1627628400000,
+      "vent_avail_cdph": 75
+  },
+  {
+      "date": 1627714800000,
+      "vent_avail_cdph": 76
+  },
+  {
+      "date": 1627801200000,
+      "vent_avail_cdph": 76
+  },
+  {
+      "date": 1627887600000,
+      "vent_avail_cdph": 76
+  },
+  {
+      "date": 1627974000000,
+      "vent_avail_cdph": 76
+  },
+  {
+      "date": 1628060400000,
+      "vent_avail_cdph": 73
+  },
+  {
+      "date": 1628146800000,
+      "vent_avail_cdph": 74
+  },
+  {
+      "date": 1628233200000,
+      "vent_avail_cdph": 74
+  },
+  {
+      "date": 1628319600000,
+      "vent_avail_cdph": 72
+  },
+  {
+      "date": 1628406000000,
+      "vent_avail_cdph": 72
+  },
+  {
+      "date": 1628492400000,
+      "vent_avail_cdph": 72
+  },
+  {
+      "date": 1628578800000,
+      "vent_avail_cdph": 72
+  },
+  {
+      "date": 1628665200000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1628751600000,
+      "vent_avail_cdph": 71
+  },
+  {
+      "date": 1628838000000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1628924400000,
+      "vent_avail_cdph": 69
+  },
+  {
+      "date": 1629010800000,
+      "vent_avail_cdph": 69
+  },
+  {
+      "date": 1629097200000,
+      "vent_avail_cdph": 71
+  },
+  {
+      "date": 1629183600000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1629270000000,
+      "vent_avail_cdph": 69
+  },
+  {
+      "date": 1629356400000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1629442800000,
+      "vent_avail_cdph": 69
+  },
+  {
+      "date": 1629529200000,
+      "vent_avail_cdph": 69
+  },
+  {
+      "date": 1629615600000,
+      "vent_avail_cdph": 69
+  },
+  {
+      "date": 1629702000000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1629788400000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1629874800000,
+      "vent_avail_cdph": 69
+  },
+  {
+      "date": 1629961200000,
+      "vent_avail_cdph": 69
+  },
+  {
+      "date": 1630047600000,
+      "vent_avail_cdph": 69
+  },
+  {
+      "date": 1630134000000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1630220400000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1630306800000,
+      "vent_avail_cdph": 67
+  },
+  {
+      "date": 1630393200000,
+      "vent_avail_cdph": 67
+  },
+  {
+      "date": 1630479600000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1630566000000,
+      "vent_avail_cdph": 67
+  },
+  {
+      "date": 1630652400000,
+      "vent_avail_cdph": 66
+  },
+  {
+      "date": 1630738800000,
+      "vent_avail_cdph": 67
+  },
+  {
+      "date": 1630825200000,
+      "vent_avail_cdph": 67
+  },
+  {
+      "date": 1630911600000,
+      "vent_avail_cdph": 65
+  },
+  {
+      "date": 1630998000000,
+      "vent_avail_cdph": 65
+  },
+  {
+      "date": 1631084400000,
+      "vent_avail_cdph": 64
+  },
+  {
+      "date": 1631170800000,
+      "vent_avail_cdph": 64
+  },
+  {
+      "date": 1631257200000,
+      "vent_avail_cdph": 64
+  },
+  {
+      "date": 1631343600000,
+      "vent_avail_cdph": 63
+  },
+  {
+      "date": 1631430000000,
+      "vent_avail_cdph": 62
+  },
+  {
+      "date": 1631516400000,
+      "vent_avail_cdph": 63
+  },
+  {
+      "date": 1631602800000,
+      "vent_avail_cdph": 65
+  },
+  {
+      "date": 1631689200000,
+      "vent_avail_cdph": 65
+  },
+  {
+      "date": 1631775600000,
+      "vent_avail_cdph": 64
+  },
+  {
+      "date": 1631862000000,
+      "vent_avail_cdph": 64
+  },
+  {
+      "date": 1631948400000,
+      "vent_avail_cdph": 65
+  },
+  {
+      "date": 1632034800000,
+      "vent_avail_cdph": 65
+  },
+  {
+      "date": 1632121200000,
+      "vent_avail_cdph": 66
+  },
+  {
+      "date": 1632207600000,
+      "vent_avail_cdph": 65
+  },
+  {
+      "date": 1632294000000,
+      "vent_avail_cdph": 65
+  },
+  {
+      "date": 1632380400000,
+      "vent_avail_cdph": 66
+  },
+  {
+      "date": 1632466800000,
+      "vent_avail_cdph": 66
+  },
+  {
+      "date": 1632553200000,
+      "vent_avail_cdph": 66
+  },
+  {
+      "date": 1632639600000,
+      "vent_avail_cdph": 66
+  },
+  {
+      "date": 1632726000000,
+      "vent_avail_cdph": 66
+  },
+  {
+      "date": 1632812400000,
+      "vent_avail_cdph": 66
+  },
+  {
+      "date": 1632898800000,
+      "vent_avail_cdph": 66
+  },
+  {
+      "date": 1632985200000,
+      "vent_avail_cdph": 66
+  },
+  {
+      "date": 1633071600000,
+      "vent_avail_cdph": 66
+  },
+  {
+      "date": 1633158000000,
+      "vent_avail_cdph": 67
+  },
+  {
+      "date": 1633244400000,
+      "vent_avail_cdph": 67
+  },
+  {
+      "date": 1633330800000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1633417200000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1633503600000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1633590000000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1633676400000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1633762800000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1633849200000,
+      "vent_avail_cdph": 69
+  },
+  {
+      "date": 1633935600000,
+      "vent_avail_cdph": 71
+  },
+  {
+      "date": 1634022000000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1634108400000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1634194800000,
+      "vent_avail_cdph": 69
+  },
+  {
+      "date": 1634281200000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1634367600000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1634454000000,
+      "vent_avail_cdph": 71
+  },
+  {
+      "date": 1634540400000,
+      "vent_avail_cdph": 72
+  },
+  {
+      "date": 1634626800000,
+      "vent_avail_cdph": 71
+  },
+  {
+      "date": 1634713200000,
+      "vent_avail_cdph": 72
+  },
+  {
+      "date": 1634799600000,
+      "vent_avail_cdph": 71
+  },
+  {
+      "date": 1634886000000,
+      "vent_avail_cdph": 72
+  },
+  {
+      "date": 1634972400000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1635058800000,
+      "vent_avail_cdph": 71
+  },
+  {
+      "date": 1635145200000,
+      "vent_avail_cdph": 71
+  },
+  {
+      "date": 1635231600000,
+      "vent_avail_cdph": 71
+  },
+  {
+      "date": 1635318000000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1635404400000,
+      "vent_avail_cdph": 69
+  },
+  {
+      "date": 1635490800000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1635577200000,
+      "vent_avail_cdph": 69
+  },
+  {
+      "date": 1635663600000,
+      "vent_avail_cdph": 69
+  },
+  {
+      "date": 1635750000000,
+      "vent_avail_cdph": 69
+  },
+  {
+      "date": 1635836400000,
+      "vent_avail_cdph": 69
+  },
+  {
+      "date": 1635922800000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1636009200000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1636095600000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1636182000000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1636268400000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1636358400000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1636444800000,
+      "vent_avail_cdph": 67
+  },
+  {
+      "date": 1636531200000,
+      "vent_avail_cdph": 67
+  },
+  {
+      "date": 1636617600000,
+      "vent_avail_cdph": 67
+  },
+  {
+      "date": 1636704000000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1636790400000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1636876800000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1636963200000,
+      "vent_avail_cdph": 69
+  },
+  {
+      "date": 1637049600000,
+      "vent_avail_cdph": 69
+  },
+  {
+      "date": 1637136000000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1637222400000,
+      "vent_avail_cdph": 67
+  },
+  {
+      "date": 1637308800000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1637395200000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1637481600000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1637568000000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1637654400000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1637740800000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1637827200000,
+      "vent_avail_cdph": 67
+  },
+  {
+      "date": 1637913600000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1638000000000,
+      "vent_avail_cdph": 69
+  },
+  {
+      "date": 1638086400000,
+      "vent_avail_cdph": 69
+  },
+  {
+      "date": 1638172800000,
+      "vent_avail_cdph": 69
+  },
+  {
+      "date": 1638259200000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1638345600000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1638432000000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1638518400000,
+      "vent_avail_cdph": 69
+  },
+  {
+      "date": 1638604800000,
+      "vent_avail_cdph": 69
+  },
+  {
+      "date": 1638691200000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1638777600000,
+      "vent_avail_cdph": 71
+  },
+  {
+      "date": 1638864000000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1638950400000,
+      "vent_avail_cdph": 69
+  },
+  {
+      "date": 1639036800000,
+      "vent_avail_cdph": 69
+  },
+  {
+      "date": 1639123200000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1639209600000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1639296000000,
+      "vent_avail_cdph": 69
+  },
+  {
+      "date": 1639382400000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1639468800000,
+      "vent_avail_cdph": 69
+  },
+  {
+      "date": 1639555200000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1639641600000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1639728000000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1639814400000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1639900800000,
+      "vent_avail_cdph": 72
+  },
+  {
+      "date": 1639987200000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1640073600000,
+      "vent_avail_cdph": 69
+  },
+  {
+      "date": 1640160000000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1640246400000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1640332800000,
+      "vent_avail_cdph": 68.1
+  },
+  {
+      "date": 1640419200000,
+      "vent_avail_cdph": 68.9
+  },
+  {
+      "date": 1640505600000,
+      "vent_avail_cdph": 68.6
+  },
+  {
+      "date": 1640592000000,
+      "vent_avail_cdph": 67.8
+  },
+  {
+      "date": 1640678400000,
+      "vent_avail_cdph": 67
+  },
+  {
+      "date": 1640764800000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1640851200000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1640937600000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1641024000000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1641110400000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1641196800000,
+      "vent_avail_cdph": 67
+  },
+  {
+      "date": 1641283200000,
+      "vent_avail_cdph": 66
+  },
+  {
+      "date": 1641369600000,
+      "vent_avail_cdph": 66
+  },
+  {
+      "date": 1641456000000,
+      "vent_avail_cdph": 66
+  },
+  {
+      "date": 1641542400000,
+      "vent_avail_cdph": 66
+  },
+  {
+      "date": 1641628800000,
+      "vent_avail_cdph": 67
+  },
+  {
+      "date": 1641715200000,
+      "vent_avail_cdph": 65
+  },
+  {
+      "date": 1641801600000,
+      "vent_avail_cdph": 65
+  },
+  {
+      "date": 1641888000000,
+      "vent_avail_cdph": 64
+  },
+  {
+      "date": 1641974400000,
+      "vent_avail_cdph": 64
+  },
+  {
+      "date": 1642060800000,
+      "vent_avail_cdph": 63
+  },
+  {
+      "date": 1642147200000,
+      "vent_avail_cdph": 63
+  },
+  {
+      "date": 1642233600000,
+      "vent_avail_cdph": 63
+  },
+  {
+      "date": 1642320000000,
+      "vent_avail_cdph": 62
+  },
+  {
+      "date": 1642406400000,
+      "vent_avail_cdph": 62
+  },
+  {
+      "date": 1642492800000,
+      "vent_avail_cdph": 62
+  },
+  {
+      "date": 1642579200000,
+      "vent_avail_cdph": 62
+  },
+  {
+      "date": 1642665600000,
+      "vent_avail_cdph": 61
+  },
+  {
+      "date": 1642752000000,
+      "vent_avail_cdph": 61
+  },
+  {
+      "date": 1642838400000,
+      "vent_avail_cdph": 59
+  },
+  {
+      "date": 1642924800000,
+      "vent_avail_cdph": 59
+  },
+  {
+      "date": 1643011200000,
+      "vent_avail_cdph": 59
+  },
+  {
+      "date": 1643097600000,
+      "vent_avail_cdph": 58
+  },
+  {
+      "date": 1643184000000,
+      "vent_avail_cdph": 59
+  },
+  {
+      "date": 1643270400000,
+      "vent_avail_cdph": 59
+  },
+  {
+      "date": 1643356800000,
+      "vent_avail_cdph": 58
+  },
+  {
+      "date": 1643443200000,
+      "vent_avail_cdph": 57
+  },
+  {
+      "date": 1643529600000,
+      "vent_avail_cdph": 60
+  },
+  {
+      "date": 1643616000000,
+      "vent_avail_cdph": 60
+  },
+  {
+      "date": 1643702400000,
+      "vent_avail_cdph": 59
+  },
+  {
+      "date": 1643788800000,
+      "vent_avail_cdph": 61
+  },
+  {
+      "date": 1643875200000,
+      "vent_avail_cdph": 61
+  },
+  {
+      "date": 1643961600000,
+      "vent_avail_cdph": 61
+  },
+  {
+      "date": 1644048000000,
+      "vent_avail_cdph": 61.5
+  },
+  {
+      "date": 1644134400000,
+      "vent_avail_cdph": 60.5
+  },
+  {
+      "date": 1644220800000,
+      "vent_avail_cdph": 59.5
+  },
+  {
+      "date": 1644307200000,
+      "vent_avail_cdph": 60.6
+  },
+  {
+      "date": 1644393600000,
+      "vent_avail_cdph": 59.1
+  },
+  {
+      "date": 1644480000000,
+      "vent_avail_cdph": 59.6
+  },
+  {
+      "date": 1644566400000,
+      "vent_avail_cdph": 61.4
+  },
+  {
+      "date": 1644652800000,
+      "vent_avail_cdph": 62.5
+  },
+  {
+      "date": 1644739200000,
+      "vent_avail_cdph": 62.3
+  },
+  {
+      "date": 1644825600000,
+      "vent_avail_cdph": 63
+  },
+  {
+      "date": 1644912000000,
+      "vent_avail_cdph": 63.1
+  },
+  {
+      "date": 1644998400000,
+      "vent_avail_cdph": 62.1
+  },
+  {
+      "date": 1645084800000,
+      "vent_avail_cdph": 63.3
+  },
+  {
+      "date": 1645171200000,
+      "vent_avail_cdph": 64
+  },
+  {
+      "date": 1645257600000,
+      "vent_avail_cdph": 64.1
+  },
+  {
+      "date": 1645344000000,
+      "vent_avail_cdph": 65.9
+  },
+  {
+      "date": 1645430400000,
+      "vent_avail_cdph": 64.3
+  },
+  {
+      "date": 1645516800000,
+      "vent_avail_cdph": 65.4
+  },
+  {
+      "date": 1645603200000,
+      "vent_avail_cdph": 65.7
+  },
+  {
+      "date": 1645689600000,
+      "vent_avail_cdph": 65
+  },
+  {
+      "date": 1645776000000,
+      "vent_avail_cdph": 64
+  },
+  {
+      "date": 1645862400000,
+      "vent_avail_cdph": 63.2
+  },
+  {
+      "date": 1645948800000,
+      "vent_avail_cdph": 64.8
+  },
+  {
+      "date": 1646035200000,
+      "vent_avail_cdph": 64.6
+  },
+  {
+      "date": 1646121600000,
+      "vent_avail_cdph": 64.1
+  },
+  {
+      "date": 1646208000000,
+      "vent_avail_cdph": 64
+  },
+  {
+      "date": 1646294400000,
+      "vent_avail_cdph": 62.6
+  },
+  {
+      "date": 1646380800000,
+      "vent_avail_cdph": 64.4
+  },
+  {
+      "date": 1646467200000,
+      "vent_avail_cdph": 64.9
+  },
+  {
+      "date": 1646553600000,
+      "vent_avail_cdph": 65.1
+  },
+  {
+      "date": 1646640000000,
+      "vent_avail_cdph": 65.2
+  },
+  {
+      "date": 1646726400000,
+      "vent_avail_cdph": 65.4
+  },
+  {
+      "date": 1646812800000,
+      "vent_avail_cdph": 66
+  },
+  {
+      "date": 1646899200000,
+      "vent_avail_cdph": 66.3
+  },
+  {
+      "date": 1646985600000,
+      "vent_avail_cdph": 65.4
+  },
+  {
+      "date": 1647072000000,
+      "vent_avail_cdph": 66.3
+  },
+  {
+      "date": 1647158400000,
+      "vent_avail_cdph": 65.6
+  },
+  {
+      "date": 1647241200000,
+      "vent_avail_cdph": 65.5
+  },
+  {
+      "date": 1647327600000,
+      "vent_avail_cdph": 67.5
+  },
+  {
+      "date": 1647414000000,
+      "vent_avail_cdph": 70.2
+  },
+  {
+      "date": 1647500400000,
+      "vent_avail_cdph": 69
+  },
+  {
+      "date": 1647586800000,
+      "vent_avail_cdph": 65.8
+  },
+  {
+      "date": 1647673200000,
+      "vent_avail_cdph": 67.6
+  },
+  {
+      "date": 1647759600000,
+      "vent_avail_cdph": 68.1
+  },
+  {
+      "date": 1647846000000,
+      "vent_avail_cdph": 68.7
+  },
+  {
+      "date": 1647932400000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1648018800000,
+      "vent_avail_cdph": 68.3
+  },
+  {
+      "date": 1648105200000,
+      "vent_avail_cdph": 66.9
+  },
+  {
+      "date": 1648191600000,
+      "vent_avail_cdph": 67
+  },
+  {
+      "date": 1648278000000,
+      "vent_avail_cdph": 67.5
+  },
+  {
+      "date": 1648364400000,
+      "vent_avail_cdph": 67.8
+  },
+  {
+      "date": 1648450800000,
+      "vent_avail_cdph": 67.7
+  },
+  {
+      "date": 1648537200000,
+      "vent_avail_cdph": 68.4
+  },
+  {
+      "date": 1648623600000,
+      "vent_avail_cdph": 68.4
+  },
+  {
+      "date": 1648710000000,
+      "vent_avail_cdph": 67.4
+  },
+  {
+      "date": 1648796400000,
+      "vent_avail_cdph": 68.1
+  },
+  {
+      "date": 1648882800000,
+      "vent_avail_cdph": 67.5
+  },
+  {
+      "date": 1648969200000,
+      "vent_avail_cdph": 67.6
+  },
+  {
+      "date": 1649055600000,
+      "vent_avail_cdph": 69.3
+  },
+  {
+      "date": 1649142000000,
+      "vent_avail_cdph": 68.5
+  },
+  {
+      "date": 1649228400000,
+      "vent_avail_cdph": 68.9
+  },
+  {
+      "date": 1649314800000,
+      "vent_avail_cdph": 68.2
+  },
+  {
+      "date": 1649401200000,
+      "vent_avail_cdph": 69.7
+  },
+  {
+      "date": 1649487600000,
+      "vent_avail_cdph": 69.1
+  },
+  {
+      "date": 1649574000000,
+      "vent_avail_cdph": 68.1
+  },
+  {
+      "date": 1649660400000,
+      "vent_avail_cdph": 67.1
+  },
+  {
+      "date": 1649746800000,
+      "vent_avail_cdph": 67.3
+  },
+  {
+      "date": 1649833200000,
+      "vent_avail_cdph": 66.6
+  },
+  {
+      "date": 1649919600000,
+      "vent_avail_cdph": 66.9
+  },
+  {
+      "date": 1650006000000,
+      "vent_avail_cdph": 69.2
+  },
+  {
+      "date": 1650092400000,
+      "vent_avail_cdph": 71.1
+  },
+  {
+      "date": 1650178800000,
+      "vent_avail_cdph": 69.7
+  },
+  {
+      "date": 1650265200000,
+      "vent_avail_cdph": 69.8
+  },
+  {
+      "date": 1650351600000,
+      "vent_avail_cdph": 70.8
+  },
+  {
+      "date": 1650438000000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1650524400000,
+      "vent_avail_cdph": 71.8
+  },
+  {
+      "date": 1650610800000,
+      "vent_avail_cdph": 71.1
+  },
+  {
+      "date": 1650697200000,
+      "vent_avail_cdph": 73.6
+  },
+  {
+      "date": 1650783600000,
+      "vent_avail_cdph": 71.4
+  },
+  {
+      "date": 1650870000000,
+      "vent_avail_cdph": 70.8
+  },
+  {
+      "date": 1650956400000,
+      "vent_avail_cdph": 71.8
+  },
+  {
+      "date": 1651042800000,
+      "vent_avail_cdph": 70.7
+  },
+  {
+      "date": 1651129200000,
+      "vent_avail_cdph": 69.3
+  },
+  {
+      "date": 1651215600000,
+      "vent_avail_cdph": 69.8
+  },
+  {
+      "date": 1651302000000,
+      "vent_avail_cdph": 69.9
+  },
+  {
+      "date": 1651388400000,
+      "vent_avail_cdph": 70.8
+  },
+  {
+      "date": 1651474800000,
+      "vent_avail_cdph": 71.3
+  },
+  {
+      "date": 1651561200000,
+      "vent_avail_cdph": 72.2
+  },
+  {
+      "date": 1651647600000,
+      "vent_avail_cdph": 74.4
+  },
+  {
+      "date": 1651734000000,
+      "vent_avail_cdph": 73.6
+  },
+  {
+      "date": 1651820400000,
+      "vent_avail_cdph": 70.3
+  },
+  {
+      "date": 1651906800000,
+      "vent_avail_cdph": 72
+  },
+  {
+      "date": 1651993200000,
+      "vent_avail_cdph": 71.1
+  },
+  {
+      "date": 1652079600000,
+      "vent_avail_cdph": 71.3
+  },
+  {
+      "date": 1652166000000,
+      "vent_avail_cdph": 72.3
+  },
+  {
+      "date": 1652252400000,
+      "vent_avail_cdph": 72.5
+  },
+  {
+      "date": 1652338800000,
+      "vent_avail_cdph": 71.2
+  },
+  {
+      "date": 1652425200000,
+      "vent_avail_cdph": 70.7
+  },
+  {
+      "date": 1652511600000,
+      "vent_avail_cdph": 72.7
+  },
+  {
+      "date": 1652598000000,
+      "vent_avail_cdph": 73
+  },
+  {
+      "date": 1652684400000,
+      "vent_avail_cdph": 73.6
+  },
+  {
+      "date": 1652770800000,
+      "vent_avail_cdph": 73.9
+  },
+  {
+      "date": 1652857200000,
+      "vent_avail_cdph": 73
+  },
+  {
+      "date": 1652943600000,
+      "vent_avail_cdph": 72.3
+  },
+  {
+      "date": 1653030000000,
+      "vent_avail_cdph": 73.3
+  },
+  {
+      "date": 1653116400000,
+      "vent_avail_cdph": 72.3
+  },
+  {
+      "date": 1653202800000,
+      "vent_avail_cdph": 72.3
+  },
+  {
+      "date": 1653289200000,
+      "vent_avail_cdph": 72
+  },
+  {
+      "date": 1653375600000,
+      "vent_avail_cdph": 72.8
+  },
+  {
+      "date": 1653462000000,
+      "vent_avail_cdph": 72.5
+  },
+  {
+      "date": 1653548400000,
+      "vent_avail_cdph": 71.6
+  },
+  {
+      "date": 1653634800000,
+      "vent_avail_cdph": 72.2
+  },
+  {
+      "date": 1653721200000,
+      "vent_avail_cdph": 72.2
+  },
+  {
+      "date": 1653807600000,
+      "vent_avail_cdph": 73
+  },
+  {
+      "date": 1653894000000,
+      "vent_avail_cdph": 73.5
+  },
+  {
+      "date": 1653980400000,
+      "vent_avail_cdph": 74
+  },
+  {
+      "date": 1654066800000,
+      "vent_avail_cdph": 73.2
+  },
+  {
+      "date": 1654153200000,
+      "vent_avail_cdph": 73.7
+  },
+  {
+      "date": 1654239600000,
+      "vent_avail_cdph": 74.2
+  },
+  {
+      "date": 1654326000000,
+      "vent_avail_cdph": 73.2
+  },
+  {
+      "date": 1654412400000,
+      "vent_avail_cdph": 71.4
+  },
+  {
+      "date": 1654498800000,
+      "vent_avail_cdph": 71.6
+  },
+  {
+      "date": 1654585200000,
+      "vent_avail_cdph": 73
+  },
+  {
+      "date": 1654671600000,
+      "vent_avail_cdph": 71.6
+  },
+  {
+      "date": 1654758000000,
+      "vent_avail_cdph": 71.6
+  },
+  {
+      "date": 1654844400000,
+      "vent_avail_cdph": 72.2
+  },
+  {
+      "date": 1654930800000,
+      "vent_avail_cdph": 71.5
+  },
+  {
+      "date": 1655017200000,
+      "vent_avail_cdph": 70.6
+  },
+  {
+      "date": 1655103600000,
+      "vent_avail_cdph": 71.8
+  },
+  {
+      "date": 1655190000000,
+      "vent_avail_cdph": 71.7
+  },
+  {
+      "date": 1655276400000,
+      "vent_avail_cdph": 72
+  },
+  {
+      "date": 1655362800000,
+      "vent_avail_cdph": 72
+  },
+  {
+      "date": 1655449200000,
+      "vent_avail_cdph": 72.9
+  },
+  {
+      "date": 1655535600000,
+      "vent_avail_cdph": 73.1
+  },
+  {
+      "date": 1655622000000,
+      "vent_avail_cdph": 72.7
+  },
+  {
+      "date": 1655708400000,
+      "vent_avail_cdph": 73.4
+  },
+  {
+      "date": 1655794800000,
+      "vent_avail_cdph": 73.6
+  },
+  {
+      "date": 1655881200000,
+      "vent_avail_cdph": 72.4
+  },
+  {
+      "date": 1655967600000,
+      "vent_avail_cdph": 72.8
+  },
+  {
+      "date": 1656054000000,
+      "vent_avail_cdph": 73.6
+  },
+  {
+      "date": 1656140400000,
+      "vent_avail_cdph": 73.4
+  },
+  {
+      "date": 1656226800000,
+      "vent_avail_cdph": 71.1
+  },
+  {
+      "date": 1656313200000,
+      "vent_avail_cdph": 71.1
+  },
+  {
+      "date": 1656399600000,
+      "vent_avail_cdph": 72.8
+  },
+  {
+      "date": 1656486000000,
+      "vent_avail_cdph": 72.4
+  },
+  {
+      "date": 1656572400000,
+      "vent_avail_cdph": 71.2
+  },
+  {
+      "date": 1656658800000,
+      "vent_avail_cdph": 70.2
+  },
+  {
+      "date": 1656745200000,
+      "vent_avail_cdph": 69.7
+  },
+  {
+      "date": 1656831600000,
+      "vent_avail_cdph": 70.7
+  },
+  {
+      "date": 1656918000000,
+      "vent_avail_cdph": 71.4
+  },
+  {
+      "date": 1657004400000,
+      "vent_avail_cdph": 71.5
+  },
+  {
+      "date": 1657090800000,
+      "vent_avail_cdph": 71
+  },
+  {
+      "date": 1657177200000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1657263600000,
+      "vent_avail_cdph": 71.3
+  },
+  {
+      "date": 1657350000000,
+      "vent_avail_cdph": 70.6
+  },
+  {
+      "date": 1657436400000,
+      "vent_avail_cdph": 70.8
+  },
+  {
+      "date": 1657522800000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1657609200000,
+      "vent_avail_cdph": 71.5
+  },
+  {
+      "date": 1657695600000,
+      "vent_avail_cdph": 70.7
+  },
+  {
+      "date": 1657782000000,
+      "vent_avail_cdph": 71.5
+  },
+  {
+      "date": 1657868400000,
+      "vent_avail_cdph": 69.2
+  },
+  {
+      "date": 1657954800000,
+      "vent_avail_cdph": 70.3
+  },
+  {
+      "date": 1658041200000,
+      "vent_avail_cdph": 69.9
+  },
+  {
+      "date": 1658127600000,
+      "vent_avail_cdph": 70.3
+  },
+  {
+      "date": 1658214000000,
+      "vent_avail_cdph": 71.4
+  },
+  {
+      "date": 1658300400000,
+      "vent_avail_cdph": 70.3
+  },
+  {
+      "date": 1658386800000,
+      "vent_avail_cdph": 73.9
+  },
+  {
+      "date": 1658473200000,
+      "vent_avail_cdph": 71.1
+  },
+  {
+      "date": 1658559600000,
+      "vent_avail_cdph": 70.6
+  },
+  {
+      "date": 1658646000000,
+      "vent_avail_cdph": 71.6
+  },
+  {
+      "date": 1658732400000,
+      "vent_avail_cdph": 72.1
+  },
+  {
+      "date": 1658818800000,
+      "vent_avail_cdph": 71.9
+  },
+  {
+      "date": 1658905200000,
+      "vent_avail_cdph": 72.1
+  },
+  {
+      "date": 1658991600000,
+      "vent_avail_cdph": 71.8
+  },
+  {
+      "date": 1659078000000,
+      "vent_avail_cdph": 70.9
+  },
+  {
+      "date": 1659164400000,
+      "vent_avail_cdph": 71.4
+  },
+  {
+      "date": 1659250800000,
+      "vent_avail_cdph": 71.8
+  },
+  {
+      "date": 1659337200000,
+      "vent_avail_cdph": 70.7
+  },
+  {
+      "date": 1659423600000,
+      "vent_avail_cdph": 70.4
+  },
+  {
+      "date": 1659510000000,
+      "vent_avail_cdph": 71.7
+  },
+  {
+      "date": 1659596400000,
+      "vent_avail_cdph": 72.2
+  },
+  {
+      "date": 1659682800000,
+      "vent_avail_cdph": 70.8
+  },
+  {
+      "date": 1659769200000,
+      "vent_avail_cdph": 70.9
+  },
+  {
+      "date": 1659855600000,
+      "vent_avail_cdph": 71.3
+  },
+  {
+      "date": 1659942000000,
+      "vent_avail_cdph": 71.9
+  },
+  {
+      "date": 1660028400000,
+      "vent_avail_cdph": 71.6
+  },
+  {
+      "date": 1660114800000,
+      "vent_avail_cdph": 71.8
+  },
+  {
+      "date": 1660201200000,
+      "vent_avail_cdph": 72.2
+  },
+  {
+      "date": 1660287600000,
+      "vent_avail_cdph": 72.4
+  },
+  {
+      "date": 1660374000000,
+      "vent_avail_cdph": 72.9
+  },
+  {
+      "date": 1660460400000,
+      "vent_avail_cdph": 72
+  },
+  {
+      "date": 1660546800000,
+      "vent_avail_cdph": 71.7
+  },
+  {
+      "date": 1660633200000,
+      "vent_avail_cdph": 71.5
+  },
+  {
+      "date": 1660719600000,
+      "vent_avail_cdph": 71.7
+  },
+  {
+      "date": 1660806000000,
+      "vent_avail_cdph": 71.9
+  },
+  {
+      "date": 1660892400000,
+      "vent_avail_cdph": 71.1
+  },
+  {
+      "date": 1660978800000,
+      "vent_avail_cdph": 70.3
+  },
+  {
+      "date": 1661065200000,
+      "vent_avail_cdph": 70.1
+  },
+  {
+      "date": 1661151600000,
+      "vent_avail_cdph": 70.1
+  },
+  {
+      "date": 1661238000000,
+      "vent_avail_cdph": 69.9
+  },
+  {
+      "date": 1661324400000,
+      "vent_avail_cdph": 70.2
+  },
+  {
+      "date": 1661410800000,
+      "vent_avail_cdph": 74.2
+  },
+  {
+      "date": 1661497200000,
+      "vent_avail_cdph": 72.8
+  },
+  {
+      "date": 1661583600000,
+      "vent_avail_cdph": 72.8
+  },
+  {
+      "date": 1661670000000,
+      "vent_avail_cdph": 73.7
+  },
+  {
+      "date": 1661756400000,
+      "vent_avail_cdph": 72.9
+  },
+  {
+      "date": 1661842800000,
+      "vent_avail_cdph": 74.8
+  },
+  {
+      "date": 1661929200000,
+      "vent_avail_cdph": 72
+  },
+  {
+      "date": 1662015600000,
+      "vent_avail_cdph": 70.4
+  },
+  {
+      "date": 1662102000000,
+      "vent_avail_cdph": 71.9
+  },
+  {
+      "date": 1662188400000,
+      "vent_avail_cdph": 70.8
+  },
+  {
+      "date": 1662274800000,
+      "vent_avail_cdph": 72
+  },
+  {
+      "date": 1662361200000,
+      "vent_avail_cdph": 71.5
+  },
+  {
+      "date": 1662447600000,
+      "vent_avail_cdph": 70.7
+  },
+  {
+      "date": 1662534000000,
+      "vent_avail_cdph": 71.5
+  },
+  {
+      "date": 1662620400000,
+      "vent_avail_cdph": 70.5
+  },
+  {
+      "date": 1662706800000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1662793200000,
+      "vent_avail_cdph": 69.4
+  },
+  {
+      "date": 1662879600000,
+      "vent_avail_cdph": 74
+  },
+  {
+      "date": 1662966000000,
+      "vent_avail_cdph": 72.3
+  },
+  {
+      "date": 1663052400000,
+      "vent_avail_cdph": 71.2
+  },
+  {
+      "date": 1663138800000,
+      "vent_avail_cdph": 70.6
+  },
+  {
+      "date": 1663225200000,
+      "vent_avail_cdph": 68.1
+  },
+  {
+      "date": 1663311600000,
+      "vent_avail_cdph": 69.6
+  },
+  {
+      "date": 1663398000000,
+      "vent_avail_cdph": 71.6
+  },
+  {
+      "date": 1663484400000,
+      "vent_avail_cdph": 69.8
+  },
+  {
+      "date": 1663570800000,
+      "vent_avail_cdph": 72
+  },
+  {
+      "date": 1663657200000,
+      "vent_avail_cdph": 72.4
+  },
+  {
+      "date": 1663743600000,
+      "vent_avail_cdph": 69.4
+  },
+  {
+      "date": 1663830000000,
+      "vent_avail_cdph": 69.5
+  },
+  {
+      "date": 1663916400000,
+      "vent_avail_cdph": 72.4
+  },
+  {
+      "date": 1664002800000,
+      "vent_avail_cdph": 70.7
+  },
+  {
+      "date": 1664089200000,
+      "vent_avail_cdph": 70.4
+  },
+  {
+      "date": 1664175600000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1664262000000,
+      "vent_avail_cdph": 70.5
+  },
+  {
+      "date": 1664348400000,
+      "vent_avail_cdph": 69.9
+  },
+  {
+      "date": 1664434800000,
+      "vent_avail_cdph": 67.4
+  },
+  {
+      "date": 1664521200000,
+      "vent_avail_cdph": 69.2
+  },
+  {
+      "date": 1664607600000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1664694000000,
+      "vent_avail_cdph": 69.1
+  },
+  {
+      "date": 1664780400000,
+      "vent_avail_cdph": 69.6
+  },
+  {
+      "date": 1664866800000,
+      "vent_avail_cdph": 72.4
+  },
+  {
+      "date": 1664953200000,
+      "vent_avail_cdph": 70.1
+  },
+  {
+      "date": 1665039600000,
+      "vent_avail_cdph": 71.8
+  },
+  {
+      "date": 1665126000000,
+      "vent_avail_cdph": 70.7
+  },
+  {
+      "date": 1665212400000,
+      "vent_avail_cdph": 70.4
+  },
+  {
+      "date": 1665298800000,
+      "vent_avail_cdph": 70.5
+  },
+  {
+      "date": 1665385200000,
+      "vent_avail_cdph": 69
+  },
+  {
+      "date": 1665471600000,
+      "vent_avail_cdph": 72.9
+  },
+  {
+      "date": 1665558000000,
+      "vent_avail_cdph": 71.1
+  },
+  {
+      "date": 1665644400000,
+      "vent_avail_cdph": 71.3
+  },
+  {
+      "date": 1665730800000,
+      "vent_avail_cdph": 71.3
+  },
+  {
+      "date": 1665817200000,
+      "vent_avail_cdph": 70.3
+  },
+  {
+      "date": 1665903600000,
+      "vent_avail_cdph": 68.8
+  },
+  {
+      "date": 1665990000000,
+      "vent_avail_cdph": 71.1
+  },
+  {
+      "date": 1666076400000,
+      "vent_avail_cdph": 73.4
+  },
+  {
+      "date": 1666162800000,
+      "vent_avail_cdph": 72.2
+  },
+  {
+      "date": 1666249200000,
+      "vent_avail_cdph": 69.5
+  },
+  {
+      "date": 1666335600000,
+      "vent_avail_cdph": 71.2
+  },
+  {
+      "date": 1666422000000,
+      "vent_avail_cdph": 71.2
+  },
+  {
+      "date": 1666508400000,
+      "vent_avail_cdph": 69.8
+  },
+  {
+      "date": 1666594800000,
+      "vent_avail_cdph": 70.3
+  },
+  {
+      "date": 1666681200000,
+      "vent_avail_cdph": 71.1
+  },
+  {
+      "date": 1666767600000,
+      "vent_avail_cdph": 69.9
+  },
+  {
+      "date": 1666854000000,
+      "vent_avail_cdph": 69
+  },
+  {
+      "date": 1666940400000,
+      "vent_avail_cdph": 68.1
+  },
+  {
+      "date": 1667026800000,
+      "vent_avail_cdph": 68.8
+  },
+  {
+      "date": 1667113200000,
+      "vent_avail_cdph": 69
+  },
+  {
+      "date": 1667199600000,
+      "vent_avail_cdph": 69.6
+  },
+  {
+      "date": 1667286000000,
+      "vent_avail_cdph": 70.6
+  },
+  {
+      "date": 1667372400000,
+      "vent_avail_cdph": 72.2
+  },
+  {
+      "date": 1667458800000,
+      "vent_avail_cdph": 70.2
+  },
+  {
+      "date": 1667545200000,
+      "vent_avail_cdph": 68.9
+  },
+  {
+      "date": 1667631600000,
+      "vent_avail_cdph": 70.5
+  },
+  {
+      "date": 1667718000000,
+      "vent_avail_cdph": 66.2
+  },
+  {
+      "date": 1667808000000,
+      "vent_avail_cdph": 66.8
+  },
+  {
+      "date": 1667894400000,
+      "vent_avail_cdph": 66.2
+  },
+  {
+      "date": 1667980800000,
+      "vent_avail_cdph": 65.2
+  },
+  {
+      "date": 1668067200000,
+      "vent_avail_cdph": 65.3
+  },
+  {
+      "date": 1668153600000,
+      "vent_avail_cdph": 65.5
+  },
+  {
+      "date": 1668240000000,
+      "vent_avail_cdph": 66.7
+  },
+  {
+      "date": 1668326400000,
+      "vent_avail_cdph": 65.5
+  },
+  {
+      "date": 1668412800000,
+      "vent_avail_cdph": 65.7
+  },
+  {
+      "date": 1668499200000,
+      "vent_avail_cdph": 68.2
+  },
+  {
+      "date": 1668585600000,
+      "vent_avail_cdph": 66.4
+  },
+  {
+      "date": 1668672000000,
+      "vent_avail_cdph": 65.2
+  },
+  {
+      "date": 1668758400000,
+      "vent_avail_cdph": 65.8
+  },
+  {
+      "date": 1668844800000,
+      "vent_avail_cdph": 65.5
+  },
+  {
+      "date": 1668931200000,
+      "vent_avail_cdph": 64.2
+  },
+  {
+      "date": 1669017600000,
+      "vent_avail_cdph": 65.5
+  },
+  {
+      "date": 1669104000000,
+      "vent_avail_cdph": 66
+  },
+  {
+      "date": 1669190400000,
+      "vent_avail_cdph": 66.7
+  },
+  {
+      "date": 1669276800000,
+      "vent_avail_cdph": 65.9
+  },
+  {
+      "date": 1669363200000,
+      "vent_avail_cdph": 67.4
+  },
+  {
+      "date": 1669449600000,
+      "vent_avail_cdph": 67.3
+  },
+  {
+      "date": 1669536000000,
+      "vent_avail_cdph": 67.9
+  },
+  {
+      "date": 1669622400000,
+      "vent_avail_cdph": 64.7
+  },
+  {
+      "date": 1669708800000,
+      "vent_avail_cdph": 63.5
+  },
+  {
+      "date": 1669795200000,
+      "vent_avail_cdph": 64.3
+  },
+  {
+      "date": 1669881600000,
+      "vent_avail_cdph": 63.1
+  },
+  {
+      "date": 1669968000000,
+      "vent_avail_cdph": 62.8
+  },
+  {
+      "date": 1670054400000,
+      "vent_avail_cdph": 63.1
+  },
+  {
+      "date": 1670140800000,
+      "vent_avail_cdph": 64
+  },
+  {
+      "date": 1670227200000,
+      "vent_avail_cdph": 63.8
+  },
+  {
+      "date": 1670313600000,
+      "vent_avail_cdph": 65.1
+  },
+  {
+      "date": 1670400000000,
+      "vent_avail_cdph": 64.3
+  },
+  {
+      "date": 1670486400000,
+      "vent_avail_cdph": 62.3
+  },
+  {
+      "date": 1670572800000,
+      "vent_avail_cdph": 62.1
+  },
+  {
+      "date": 1670659200000,
+      "vent_avail_cdph": 63.8
+  },
+  {
+      "date": 1670745600000,
+      "vent_avail_cdph": 64.1
+  },
+  {
+      "date": 1670832000000,
+      "vent_avail_cdph": 66.3
+  },
+  {
+      "date": 1670918400000,
+      "vent_avail_cdph": 66.9
+  },
+  {
+      "date": 1671004800000,
+      "vent_avail_cdph": 65.1
+  },
+  {
+      "date": 1671091200000,
+      "vent_avail_cdph": 63.6
+  },
+  {
+      "date": 1671177600000,
+      "vent_avail_cdph": 63.5
+  },
+  {
+      "date": 1671264000000,
+      "vent_avail_cdph": 65.8
+  },
+  {
+      "date": 1671350400000,
+      "vent_avail_cdph": 63.5
+  },
+  {
+      "date": 1671436800000,
+      "vent_avail_cdph": 64.5
+  },
+  {
+      "date": 1671523200000,
+      "vent_avail_cdph": 66
+  },
+  {
+      "date": 1671609600000,
+      "vent_avail_cdph": 64.4
+  },
+  {
+      "date": 1671696000000,
+      "vent_avail_cdph": 64.3
+  },
+  {
+      "date": 1671782400000,
+      "vent_avail_cdph": 66.4
+  },
+  {
+      "date": 1671868800000,
+      "vent_avail_cdph": 66
+  },
+  {
+      "date": 1671955200000,
+      "vent_avail_cdph": 65.1
+  },
+  {
+      "date": 1672041600000,
+      "vent_avail_cdph": 66.4
+  },
+  {
+      "date": 1672128000000,
+      "vent_avail_cdph": 64.7
+  },
+  {
+      "date": 1672214400000,
+      "vent_avail_cdph": 64.5
+  },
+  {
+      "date": 1672300800000,
+      "vent_avail_cdph": 64.1
+  },
+  {
+      "date": 1672387200000,
+      "vent_avail_cdph": 65.3
+  },
+  {
+      "date": 1672473600000,
+      "vent_avail_cdph": 65.1
+  },
+  {
+      "date": 1672560000000,
+      "vent_avail_cdph": 63.8
+  },
+  {
+      "date": 1672646400000,
+      "vent_avail_cdph": 65.6
+  },
+  {
+      "date": 1672732800000,
+      "vent_avail_cdph": 64.6
+  },
+  {
+      "date": 1672819200000,
+      "vent_avail_cdph": 64.5
+  },
+  {
+      "date": 1672905600000,
+      "vent_avail_cdph": 68.2
+  },
+  {
+      "date": 1672992000000,
+      "vent_avail_cdph": 64.7
+  },
+  {
+      "date": 1673078400000,
+      "vent_avail_cdph": 63
+  },
+  {
+      "date": 1673164800000,
+      "vent_avail_cdph": 62.7
+  },
+  {
+      "date": 1673251200000,
+      "vent_avail_cdph": 65.5
+  },
+  {
+      "date": 1673337600000,
+      "vent_avail_cdph": 65.3
+  },
+  {
+      "date": 1673424000000,
+      "vent_avail_cdph": 64.6
+  },
+  {
+      "date": 1673510400000,
+      "vent_avail_cdph": 65.6
+  },
+  {
+      "date": 1673596800000,
+      "vent_avail_cdph": 65.3
+  },
+  {
+      "date": 1673683200000,
+      "vent_avail_cdph": 64.6
+  },
+  {
+      "date": 1673769600000,
+      "vent_avail_cdph": 65.3
+  },
+  {
+      "date": 1673856000000,
+      "vent_avail_cdph": 66.8
+  },
+  {
+      "date": 1673942400000,
+      "vent_avail_cdph": 67.1
+  },
+  {
+      "date": 1674028800000,
+      "vent_avail_cdph": 66.1
+  },
+  {
+      "date": 1674115200000,
+      "vent_avail_cdph": 66.2
+  },
+  {
+      "date": 1674201600000,
+      "vent_avail_cdph": 66.2
+  },
+  {
+      "date": 1674288000000,
+      "vent_avail_cdph": 65.7
+  },
+  {
+      "date": 1674374400000,
+      "vent_avail_cdph": 64.2
+  },
+  {
+      "date": 1674460800000,
+      "vent_avail_cdph": 66.1
+  },
+  {
+      "date": 1674547200000,
+      "vent_avail_cdph": 66.9
+  },
+  {
+      "date": 1674633600000,
+      "vent_avail_cdph": 65.8
+  },
+  {
+      "date": 1674720000000,
+      "vent_avail_cdph": 64.8
+  },
+  {
+      "date": 1674806400000,
+      "vent_avail_cdph": 65.6
+  },
+  {
+      "date": 1674892800000,
+      "vent_avail_cdph": 64.7
+  },
+  {
+      "date": 1674979200000,
+      "vent_avail_cdph": 65.1
+  },
+  {
+      "date": 1675065600000,
+      "vent_avail_cdph": 65.7
+  },
+  {
+      "date": 1675152000000,
+      "vent_avail_cdph": 66.8
+  },
+  {
+      "date": 1675238400000,
+      "vent_avail_cdph": 67
+  },
+  {
+      "date": 1675324800000,
+      "vent_avail_cdph": 68.1
+  },
+  {
+      "date": 1675411200000,
+      "vent_avail_cdph": 66.9
+  },
+  {
+      "date": 1675497600000,
+      "vent_avail_cdph": 68.7
+  },
+  {
+      "date": 1675584000000,
+      "vent_avail_cdph": 66
+  },
+  {
+      "date": 1675670400000,
+      "vent_avail_cdph": 66.5
+  },
+  {
+      "date": 1675756800000,
+      "vent_avail_cdph": 68.1
+  },
+  {
+      "date": 1675843200000,
+      "vent_avail_cdph": 70.9
+  },
+  {
+      "date": 1675929600000,
+      "vent_avail_cdph": 68.5
+  },
+  {
+      "date": 1676016000000,
+      "vent_avail_cdph": 66.7
+  },
+  {
+      "date": 1676102400000,
+      "vent_avail_cdph": 67.3
+  },
+  {
+      "date": 1676188800000,
+      "vent_avail_cdph": 66.5
+  },
+  {
+      "date": 1676275200000,
+      "vent_avail_cdph": 66.7
+  },
+  {
+      "date": 1676361600000,
+      "vent_avail_cdph": 65.5
+  },
+  {
+      "date": 1676448000000,
+      "vent_avail_cdph": 66.5
+  },
+  {
+      "date": 1676534400000,
+      "vent_avail_cdph": 67.2
+  },
+  {
+      "date": 1676620800000,
+      "vent_avail_cdph": 66.1
+  },
+  {
+      "date": 1676707200000,
+      "vent_avail_cdph": 66.4
+  },
+  {
+      "date": 1676793600000,
+      "vent_avail_cdph": 64.6
+  },
+  {
+      "date": 1676880000000,
+      "vent_avail_cdph": 65.4
+  },
+  {
+      "date": 1676966400000,
+      "vent_avail_cdph": 64.1
+  },
+  {
+      "date": 1677052800000,
+      "vent_avail_cdph": 65.9
+  },
+  {
+      "date": 1677139200000,
+      "vent_avail_cdph": 65.8
+  },
+  {
+      "date": 1677225600000,
+      "vent_avail_cdph": 64
+  },
+  {
+      "date": 1677312000000,
+      "vent_avail_cdph": 66
+  },
+  {
+      "date": 1677398400000,
+      "vent_avail_cdph": 64.8
+  },
+  {
+      "date": 1677484800000,
+      "vent_avail_cdph": 66.3
+  },
+  {
+      "date": 1677571200000,
+      "vent_avail_cdph": 64.7
+  },
+  {
+      "date": 1677657600000,
+      "vent_avail_cdph": 64
+  },
+  {
+      "date": 1677744000000,
+      "vent_avail_cdph": 63
+  },
+  {
+      "date": 1677830400000,
+      "vent_avail_cdph": 63.6
+  },
+  {
+      "date": 1677916800000,
+      "vent_avail_cdph": 67.2
+  },
+  {
+      "date": 1678003200000,
+      "vent_avail_cdph": 63.5
+  },
+  {
+      "date": 1678089600000,
+      "vent_avail_cdph": 64.2
+  },
+  {
+      "date": 1678176000000,
+      "vent_avail_cdph": 65.1
+  },
+  {
+      "date": 1678262400000,
+      "vent_avail_cdph": 65.3
+  },
+  {
+      "date": 1678348800000,
+      "vent_avail_cdph": 63.9
+  },
+  {
+      "date": 1678435200000,
+      "vent_avail_cdph": 64.5
+  },
+  {
+      "date": 1678521600000,
+      "vent_avail_cdph": 66.3
+  },
+  {
+      "date": 1678608000000,
+      "vent_avail_cdph": 65.5
+  },
+  {
+      "date": 1678690800000,
+      "vent_avail_cdph": 65.7
+  },
+  {
+      "date": 1678777200000,
+      "vent_avail_cdph": 65.2
+  },
+  {
+      "date": 1678863600000,
+      "vent_avail_cdph": 64.2
+  },
+  {
+      "date": 1678950000000,
+      "vent_avail_cdph": 63.6
+  },
+  {
+      "date": 1679036400000,
+      "vent_avail_cdph": 63.5
+  },
+  {
+      "date": 1679122800000,
+      "vent_avail_cdph": 65.4
+  },
+  {
+      "date": 1679209200000,
+      "vent_avail_cdph": 64.4
+  },
+  {
+      "date": 1679295600000,
+      "vent_avail_cdph": 65.7
+  },
+  {
+      "date": 1679382000000,
+      "vent_avail_cdph": 64.4
+  },
+  {
+      "date": 1679468400000,
+      "vent_avail_cdph": 64.2
+  },
+  {
+      "date": 1679554800000,
+      "vent_avail_cdph": 65.2
+  },
+  {
+      "date": 1679641200000,
+      "vent_avail_cdph": 65.4
+  },
+  {
+      "date": 1679727600000,
+      "vent_avail_cdph": 66.2
+  },
+  {
+      "date": 1679814000000,
+      "vent_avail_cdph": 65
+  },
+  {
+      "date": 1679900400000,
+      "vent_avail_cdph": 64.8
+  },
+  {
+      "date": 1679986800000,
+      "vent_avail_cdph": 65.9
+  },
+  {
+      "date": 1680073200000,
+      "vent_avail_cdph": 66.8
+  },
+  {
+      "date": 1680159600000,
+      "vent_avail_cdph": 64.9
+  },
+  {
+      "date": 1680246000000,
+      "vent_avail_cdph": 65.5
+  },
+  {
+      "date": 1680332400000,
+      "vent_avail_cdph": 67.2
+  },
+  {
+      "date": 1680418800000,
+      "vent_avail_cdph": 69.3
+  },
+  {
+      "date": 1680505200000,
+      "vent_avail_cdph": 67.9
+  },
+  {
+      "date": 1680591600000,
+      "vent_avail_cdph": 68.4
+  },
+  {
+      "date": 1680678000000,
+      "vent_avail_cdph": 68
+  },
+  {
+      "date": 1680764400000,
+      "vent_avail_cdph": 65.8
+  },
+  {
+      "date": 1680850800000,
+      "vent_avail_cdph": 69.9
+  },
+  {
+      "date": 1680937200000,
+      "vent_avail_cdph": 67.2
+  },
+  {
+      "date": 1681023600000,
+      "vent_avail_cdph": 66.1
+  },
+  {
+      "date": 1681110000000,
+      "vent_avail_cdph": 66.8
+  },
+  {
+      "date": 1681196400000,
+      "vent_avail_cdph": 68.3
+  },
+  {
+      "date": 1681282800000,
+      "vent_avail_cdph": 68.1
+  },
+  {
+      "date": 1681369200000,
+      "vent_avail_cdph": 65.8
+  },
+  {
+      "date": 1681455600000,
+      "vent_avail_cdph": 65.3
+  },
+  {
+      "date": 1681542000000,
+      "vent_avail_cdph": 68.5
+  },
+  {
+      "date": 1681628400000,
+      "vent_avail_cdph": 66.6
+  },
+  {
+      "date": 1681714800000,
+      "vent_avail_cdph": 69
+  },
+  {
+      "date": 1681801200000,
+      "vent_avail_cdph": 67.8
+  },
+  {
+      "date": 1681887600000,
+      "vent_avail_cdph": 67.2
+  },
+  {
+      "date": 1681974000000,
+      "vent_avail_cdph": 67.6
+  },
+  {
+      "date": 1682060400000,
+      "vent_avail_cdph": 67.4
+  },
+  {
+      "date": 1682146800000,
+      "vent_avail_cdph": 69.9
+  },
+  {
+      "date": 1682233200000,
+      "vent_avail_cdph": 68.5
+  },
+  {
+      "date": 1682319600000,
+      "vent_avail_cdph": 70
+  },
+  {
+      "date": 1682406000000,
+      "vent_avail_cdph": 69.1
+  },
+  {
+      "date": 1682492400000,
+      "vent_avail_cdph": 69.5
+  },
+  {
+      "date": 1682578800000,
+      "vent_avail_cdph": 67.2
+  },
+  {
+      "date": 1682665200000,
+      "vent_avail_cdph": 67.5
+  },
+  {
+      "date": 1682751600000,
+      "vent_avail_cdph": 69.3
+  },
+  {
+      "date": 1682838000000,
+      "vent_avail_cdph": 67.5
+  },
+  {
+      "date": 1682924400000,
+      "vent_avail_cdph": 68.6
+  },
+  {
+      "date": 1683010800000,
+      "vent_avail_cdph": 68.8
+  },
+  {
+      "date": 1683097200000,
+      "vent_avail_cdph": 68.3
+  },
+  {
+      "date": 1683183600000,
+      "vent_avail_cdph": 66
+  },
+  {
+      "date": 1683270000000,
+      "vent_avail_cdph": 68.6
+  },
+  {
+      "date": 1683356400000,
+      "vent_avail_cdph": 70.3
+  },
+  {
+      "date": 1683442800000,
+      "vent_avail_cdph": 67.7
+  },
+  {
+      "date": 1683529200000,
+      "vent_avail_cdph": 67.8
+  },
+  {
+      "date": 1683615600000,
+      "vent_avail_cdph": 67.3
+  },
+  {
+      "date": 1683702000000,
+      "vent_avail_cdph": 67.9
+  },
+  {
+      "date": 1683788400000,
+      "vent_avail_cdph": 66.2
+  },
+  {
+      "date": 1683874800000,
+      "vent_avail_cdph": 70.3
+  },
+  {
+      "date": 1683961200000,
+      "vent_avail_cdph": 70
+  }
+]
