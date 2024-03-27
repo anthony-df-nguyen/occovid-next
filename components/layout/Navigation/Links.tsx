@@ -14,16 +14,19 @@ export default function Links({ pageURL }: Props) {
       <ul role="list" className="flex flex-1 flex-col gap-y-7">
         <li>
           <ul role="list" className="-mx-2 space-y-1">
-            {navigation.map((item) => (
-              <li key={item.name}>
+            {navigation.map((item, i) => (
+              <li key={item.name} >
                 <Link
                   href={item.href}
-                  className={classNames(
-                    pageURL === item.href
-                      ? "bg-blue-700 text-white"
-                      : "text-blue-200 hover:text-white hover:bg-blue-700",
-                    "group flex gap-x-3 rounded-md p-2 text-sm leading-6 font-semibold"
-                  )}
+                  className={
+                    (classNames(
+                      pageURL === item.href
+                        ? "bg-blue-700 text-white"
+                        : "text-blue-200 hover:text-white hover:bg-blue-700",
+                      "group flex gap-x-3 rounded-md p-2 text-sm leading-6 font-semibold"
+                    )
+                    )
+                  }
                 >
                   <item.icon
                     className={classNames(

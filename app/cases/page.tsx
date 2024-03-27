@@ -13,12 +13,10 @@ import {
   jail_cases,
   recovered,
 } from "@/data/transformed/case_history";
+import { caseByAgeBreakdown,caseByRaceBreakdown } from "@/data/transformed/case_breakdown";
 import { TabData } from "@/components/charts/TabChartController";
 import { MapControllerProps } from "@/components/maps/MapController";
 import { CityCaseStats, ZipCaseStats } from "@/components/maps/utils/constants";
-import { CountySourceDataGeoJSON } from "@/data/source/types";
-// const cityCaseData: CountySourceDataGeoJSON[] = require("../../data/source/geodata/cities/counts_with_shapes.json");
-// const zipCaseData: CountySourceDataGeoJSON[] = require("../../data/source/geodata/zips/counts_with_shapes.json")
 
 export const metadata: Metadata = {
   title: "OCCOVID | Cases",
@@ -32,6 +30,10 @@ const caseTabs: TabData = [
   { tabName: "Homeless", tabData: homeless_cases },
   { tabName: "Jail", tabData: jail_cases },
   { tabName: "Recovered", tabData: recovered },
+];
+const caseDemoTabs: TabData = [
+  { tabName: "Age", tabData: caseByAgeBreakdown },
+  { tabName: "Race", tabData: caseByRaceBreakdown },
 ];
 
 const mapOptions: MapControllerProps = [
@@ -66,7 +68,6 @@ export default function Home() {
     summarizedToDates.cases.date
   ).toLocaleDateString()}`;
 
-
   return (
     <main className="">
       <Shell pageURL="/cases" title="Cases" subtitle={asOf}>
@@ -91,7 +92,11 @@ export default function Home() {
           />
         </div>
         <Break />
-        <TabChartController data={caseTabs} />
+        <div className="grid gap-4 md:grid-cols-2">
+          <TabChartController data={caseTabs} />
+          <TabChartController data={caseDemoTabs} zoomDisabled />
+        </div>
+
         <Break />
         <MapController mapOptions={mapOptions} />
       </Shell>

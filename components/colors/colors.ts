@@ -34,12 +34,33 @@ export const ageMapping: KeyValuePair = {
   "85+ yrs": colors.dark,
 };
 
+export const highAgeMapping: KeyValuePair = {
+  "0 to 17": colors.blue,
+  "18 to 24": colors.darkBlue,
+  "25 to 34": colors.pink,
+  "35 to 44": colors.red,
+  "45 to 54": colors.yellow,
+  "55 to 64": colors.orange,
+  "65 to 74": colors.gold,
+  "75 to 84 ": colors.lightGray,
+  "85+ ": colors.dark,
+};
+
 export const raceMapping: KeyValuePair = {
   "Asian/PI": colors.blue,
   Black: colors.purple,
   Hispanic: colors.pink,
   White: colors.yellow,
   "Other Race": colors.lightDark,
+  "Unknown Race": colors.dark,
+};
+export const raceMapping2: KeyValuePair = {
+  Asian: colors.blue,
+  "American Indian": colors.green,
+  Latinx: colors.pink,
+  White: colors.yellow,
+  Black: colors.purple,
+  "Other Race": colors.lightGray,
   "Unknown Race": colors.dark,
 };
 

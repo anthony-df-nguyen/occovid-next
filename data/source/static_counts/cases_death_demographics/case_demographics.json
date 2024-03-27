@@ -1,46 +1,114 @@
-{
-  "date": 1701936000000,
-  "total_cases": 743818,
-  "cases_wo_unk": 546699,
-  "case_0_17": 101820,
-  "case_18_24": 89632,
-  "case_25_34": 141608,
-  "case_35_44": 113721,
-  "case_45_54": 109915,
-  "case_55_64": 90697,
-  "case_65_74": 50509,
-  "case_75_84": 28612,
-  "Case_85": 16791,
-  "case_unk_age": 513,
-  "case_male": 344556,
-  "case_female": 390838,
-  "case_unk_sex": 8252,
-  "case_oth_sex": 172,
-  "case_latinx": 182520,
-  "case_unk": 197119,
-  "case_white": 164625,
-  "case_oth_race": 84400,
-  "case_asian": 94012,
-  "case_aa": 9342,
-  "case_mult_race": 5441,
-  "case_pi": 4351,
-  "case_ai": 2008,
-  "case_latinx_perc": 33.3858302283341,
-  "case_unk_perc": 36.0562210649736,
-  "case_white_perc": 30.1125482212333,
-  "case_oth_race_perc": 15.4381112824424,
-  "case_asian_perc": 17.1962999749405,
-  "case_aa_perc": 1.70880136967509,
-  "case_mult_race_perc": 0.995246012888262,
-  "case_pi_perc": 0.79586756149179,
-  "case_ai_perc": 0.367295348994602,
-  "latinx_pop_perc": 35,
-  "white_pop_perc": 38.6,
-  "asian_pop_perc": 21.1,
-  "aa_pop_perc": 1.6,
-  "pi_pop_perc": 0.3,
-  "ai_pop_perc": 0.2,
-  "multi_pop_perc": 2.9,
-  "other_pop_perc": 0.2,
-  "ObjectId": 1
-}
+[
+  {
+    "category": "0 to 17",
+    "cases": 101820
+  },
+  {
+    "category": "18 to 24",
+    "cases": 89632
+  },
+  {
+    "category": "25 to 34",
+    "cases": 141608
+  },
+  {
+    "category": "35 to 44",
+    "cases": 113721
+  },
+  {
+    "category": "45 to 54",
+    "cases": 109915
+  },
+  {
+    "category": "55 to 64",
+    "cases": 90697
+  },
+  {
+    "category": "65 to 74",
+    "cases": 50509
+  },
+  {
+    "category": "75 to 84",
+    "cases": 28612
+  },
+  {
+    "category": "85 +",
+    "cases": 16791
+  },
+  {
+    "category": "Unknown Age",
+    "cases": 513
+  },
+  {
+    "category": "Male",
+    "cases": 344556
+  },
+  {
+    "category": "Female",
+    "cases": 390838
+  },
+  {
+    "category": "Unknown Sex",
+    "cases": 8252
+  },
+  {
+    "category": "Other Sex",
+    "cases": 172
+  },
+  {
+    "category": "Latinx",
+    "cases": 182520
+  },
+  {
+    "category": "Unknown Race",
+    "cases": 197119
+  },
+  {
+    "category": "White",
+    "cases": 164625
+  },
+  {
+    "category": "Other Race",
+    "cases": 84400
+  },
+  {
+    "category": "Asian",
+    "cases": 94012
+  },
+  {
+    "category": "Black",
+    "cases": 9342
+  },
+  {
+    "category": "Multiple Race",
+    "cases": 5441
+  },
+  {
+    "category": "Pacific Islander",
+    "cases": 4351
+  },
+  {
+    "category": "American Indian",
+    "cases": 2008
+  },
+  {
+    "category": "More",
+    "case_latinx_perc": 33.3858302283341,
+    "case_unk_perc": 36.0562210649736,
+    "case_white_perc": 30.1125482212333,
+    "case_oth_race_perc": 15.4381112824424,
+    "case_asian_perc": 17.1962999749405,
+    "case_aa_perc": 1.70880136967509,
+    "case_mult_race_perc": 0.995246012888262,
+    "case_pi_perc": 0.79586756149179,
+    "case_ai_perc": 0.367295348994602,
+    "latinx_pop_perc": 35,
+    "white_pop_perc": 38.6,
+    "asian_pop_perc": 21.1,
+    "aa_pop_perc": 1.6,
+    "pi_pop_perc": 0.3,
+    "ai_pop_perc": 0.2,
+    "multi_pop_perc": 2.9,
+    "other_pop_perc": 0.2
+  }
+]

@@ -1,6 +1,6 @@
 import {
   HomeIcon,
-  MapIcon,
+  HeartIcon,
   BugAntIcon,
   BuildingOffice2Icon,
   UserMinusIcon,
@@ -23,6 +23,11 @@ const pages: Pages[] = [
     href: "/hospitalizations",
     icon: BuildingOffice2Icon,
   },
+  {
+    name: "Donate",
+    href:"/donate",
+    icon: HeartIcon,
+  }
 
 ];
 
