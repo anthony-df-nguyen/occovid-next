@@ -11,8 +11,8 @@ import Link from "next/link";
 type Props = {
   pageURL: string;
   children: any;
-  title: string,
-  subtitle?: string,
+  title: string;
+  subtitle?: string;
 };
 
 export default function Shell({ children, pageURL, title, subtitle }: Props) {
@@ -29,7 +29,7 @@ export default function Shell({ children, pageURL, title, subtitle }: Props) {
         {/* Static sidebar for desktop */}
         <DesktopBar pageURL={pageURL} />
 
-        <div className="lg:pl-72">
+        <div className="lg:pl-60">
           <div className="sticky top-0 z-40 flex h-16 shrink-0 items-center gap-x-4 border-b border-gray-200 bg-white px-4 shadow-sm sm:gap-x-6 sm:px-6 lg:px-8">
             {/* Menu Button */}
             <button

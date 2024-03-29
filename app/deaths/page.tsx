@@ -1,7 +1,7 @@
 import Shell from "@/components/layout/Shell";
 import StatCard from "@/components/ui/StatCard";
 import type { Metadata } from "next";
-import { deathTabs, mapOptions } from "./constants";
+import { deathTabs, deathDemoTabs, mapOptions } from "./constants";
 import summarizedToDates from "@/data/source/static_counts/summarized";
 import TabChartController from "@/components/charts/TabChartController";
 import MapController from "@/components/maps/MapController";
@@ -40,7 +40,11 @@ export default function Deaths() {
           />
         </div>
         <Break />
-        <TabChartController data={deathTabs} />
+        <div className="grid gap-4 grid-cols-1 md:grid-cols-2">
+          <TabChartController data={deathTabs} />
+          <TabChartController data={deathDemoTabs} zoomDisabled />
+        </div>
+
         <Break />
         <MapController mapOptions={mapOptions} />
       </Shell>

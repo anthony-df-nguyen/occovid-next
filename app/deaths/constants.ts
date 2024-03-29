@@ -1,5 +1,6 @@
 import { TabData } from "@/components/charts/TabChartController";
 import { MapControllerProps } from "@/components/maps/MapController";
+import { deathsByAgeBreakdown, deathsByRaceBreakdown, deathsBySexBreakdown } from "@/data/transformed/death_breakdown";
 import {
   total_dth,
   dth_date,
@@ -13,24 +14,30 @@ import {
 export const deathTabs: TabData = [
   { tabName: "Total Deaths", tabData: total_dth },
   { tabName: "Daily Deaths", tabData: dth_date },
-  { tabName: "SNFs", tabData: snf_dth },
-  { tabName: "ALFs", tabData: alf_dth },
-  { tabName: "Homeless", tabData: homeless_dth },
-  { tabName: "Jail", tabData: jail_dth },
+  // { tabName: "SNFs", tabData: snf_dth },
+  // { tabName: "ALFs", tabData: alf_dth },
+  // { tabName: "Homeless", tabData: homeless_dth },
+  // { tabName: "Jail", tabData: jail_dth },
+];
+
+export const deathDemoTabs: TabData = [
+  { tabName: "Age", tabData: deathsByAgeBreakdown },
+  { tabName: "Race", tabData: deathsByRaceBreakdown },
+  { tabName: "Sex", tabData: deathsBySexBreakdown },
 ];
 
 // Maps
 const cityDeathStats = {
-    Tot_Deaths: "Total Deaths",
-    DeathRate: "Death Rate",
-    Total_Pop: "Total Population",
-  }
+  Tot_Deaths: "Total Deaths",
+  DeathRate: "Death Rate",
+  Total_Pop: "Total Population",
+};
 
-  const zipDeathStats = {
-    tot_dth: "Total Deaths",
-    tot_dthrate: "Death Rate",
-    pop: "Total Population",
-  }
+const zipDeathStats = {
+  tot_dth: "Total Deaths",
+  tot_dthrate: "Death Rate",
+  pop: "Total Population",
+};
 
 export const mapOptions: MapControllerProps = [
   {

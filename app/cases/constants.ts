@@ -17,9 +17,9 @@ import {
 export const caseTabs: TabData = [
   { tabName: "Total Cases", tabData: total_cases_spec },
   { tabName: "Daily Cases", tabData: daily_cases_spec },
-  { tabName: "SNFs", tabData: snf_cases },
-  { tabName: "Homeless", tabData: homeless_cases },
-  { tabName: "Jail", tabData: jail_cases },
+  // { tabName: "SNFs", tabData: snf_cases },
+  // { tabName: "Homeless", tabData: homeless_cases },
+  // { tabName: "Jail", tabData: jail_cases },
   { tabName: "Recovered", tabData: recovered },
 ];
 
