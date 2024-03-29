@@ -44,7 +44,7 @@ export default function Links({ pageURL }: Props) {
           </ul>
         </li>
 
-        <li className="mt-auto">
+        {/* <li className="mt-auto">
           <Link
             href="#"
             className="group -mx-2 flex gap-x-3 rounded-md p-2 text-sm font-semibold leading-6 text-blue-200 hover:bg-blue-700 hover:text-white"
@@ -55,7 +55,7 @@ export default function Links({ pageURL }: Props) {
             />
             Settings
           </Link>
-        </li>
+        </li> */}
       </ul>
     </nav>
   );
