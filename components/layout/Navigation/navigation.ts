@@ -25,10 +25,9 @@ const pages: Pages[] = [
   },
   {
     name: "Donate",
-    href:"/donate",
+    href: "https://www.paypal.com/donate/?business=NNJ52J9FQ8NKW&no_recurring=1&item_name=Thank+you%21+Donations+help+cover+the+costs+of+running+OCCOVID.&currency_code=USD",
     icon: HeartIcon,
-  }
-
+  },
 ];
 
 export default pages;

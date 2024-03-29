@@ -33,7 +33,8 @@ const BuildGeoJson = ({ data, metric, popupContent }: Props) => {
       properties: { ...row.properties },
     });
 
-    const valueForColoring = row.properties[metric];
+    const valueForColoring = row.properties[metric]
+    console.log(row.properties.PrimaryKey);
 
     return (
       <GeoJSON

@@ -1,35 +1,21 @@
 import Shell from "@/components/layout/Shell";
 import StatCard from "@/components/ui/StatCard";
 import type { Metadata } from "next";
+import { deathTabs, mapOptions } from "./constants";
 import summarizedToDates from "@/data/source/static_counts/summarized";
-import {
-  total_dth,
-  dth_date,
-  snf_dth,
-  alf_dth,
-  jail_dth,
-  homeless_dth,
-} from "@/data/transformed/death_history";
-import Break from "@/components/layout/Break";
 import TabChartController from "@/components/charts/TabChartController";
-import { TabData } from "@/components/charts/TabChartController";
+import MapController from "@/components/maps/MapController";
+import Break from "@/components/layout/Break";
 
 export const metadata: Metadata = {
   title: "OCCOVID | Deaths",
   description: "OCCOVID Deaths",
 };
 
-const deathTabs: TabData = [
-  { tabName: "Total Deaths", tabData: total_dth },
-  { tabName: "Daily Deaths", tabData: dth_date },
-  { tabName: "SNFs", tabData: snf_dth },
-  { tabName: "ALFs", tabData: alf_dth },
-  { tabName: "Homeless", tabData: homeless_dth },
-  { tabName: "Jail", tabData: jail_dth },
-];
-
 export default function Deaths() {
-  const asOf = `as of ${new Date(summarizedToDates.deaths.date).toLocaleDateString()}`
+  const asOf = `as of ${new Date(
+    summarizedToDates.deaths.date
+  ).toLocaleDateString()}`;
   return (
     <main className="">
       <Shell pageURL="/deaths" title="Deaths" subtitle={asOf}>
@@ -56,6 +42,7 @@ export default function Deaths() {
         <Break />
         <TabChartController data={deathTabs} />
         <Break />
+        <MapController mapOptions={mapOptions} />
       </Shell>
     </main>
   );

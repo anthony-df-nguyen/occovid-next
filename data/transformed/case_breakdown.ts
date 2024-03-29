@@ -1,8 +1,8 @@
 "use client";
 const caseDemo = require("../source/static_counts/cases_death_demographics/case_demographics.json");
 import { CategoricalChart } from "@/components/charts/utils/types";
-import { highAgeKeys, raceKeys2 } from "./utils/constants";
-import { highAgeMapping, raceMapping2 } from "@/components/colors/colors";
+import { highAgeKeys, raceKeys2, sexKeys } from "./utils/constants";
+import { highAgeMapping, raceMapping2, sexMapping } from "@/components/colors/colors";
 
 export const caseByAgeBreakdown = new CategoricalChart(
   "Cases by Age",
@@ -18,4 +18,12 @@ export const caseByRaceBreakdown = new CategoricalChart(
   caseDemo,
   "cases",
   raceMapping2
+);
+
+export const caseBySexBreakdown = new CategoricalChart(
+  "Cases by Sex",
+  sexKeys,
+  caseDemo,
+  "cases",
+  sexMapping
 );
