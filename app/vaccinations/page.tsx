@@ -2,60 +2,24 @@ import Shell from "@/components/layout/Shell";
 import StatCard from "@/components/ui/StatCard";
 import type { Metadata } from "next";
 import summarizedToDates from "@/data/source/static_counts/summarized";
-import ChartController from "@/components/charts/ChartController";
-import TabChartController, { TabData } from "@/components/charts/TabChartController";
-import {
-  vaxByRace,
-  vaxByRacePercent,
-  vaxByAge,
-  vaxByAgePercent,
-  vaxBySex,
-  vaxBySexPercent,
-  doseHistory,
-} from "@/data/transformed/vax_breakdown";
-import { maxYScale } from "@/components/charts/utils/constants";
+import TabChartController from "@/components/charts/TabChartController";
+import MapController from "@/components/maps/MapController";
 import Break from "@/components/layout/Break";
+import { vaxDemoTabs, vaxTabs, mapOptions } from "./constants";
 
 export const metadata: Metadata = {
   title: "OCCOVID | Vaccinations",
   description: "OCCOVID Vaccinations",
 };
 
-
-const vaxTabs: TabData = [
-  {
-    tabName: "by Race",
-    tabData: vaxByRace,
-  },
-  {
-    tabName: "by Race %",
-    tabData: vaxByRacePercent,
-    scaleOptions: maxYScale,
-  },
-  {
-    tabName: "by Age",
-    tabData: vaxByAge,
-  },
-  {
-    tabName: "by Age %",
-    tabData: vaxByAgePercent,
-    scaleOptions: maxYScale,
-  },
-  {
-    tabName: "by Sex",
-    tabData: vaxBySex,
-  },
-  {
-    tabName: "by Sex %",
-    tabData: vaxBySexPercent,
-    scaleOptions: maxYScale,
-  },
-];
-
 export default function Vaccinations() {
   return (
     <main className="">
-      <Shell pageURL="/vaccinations" title="Vaccinations" subtitle="as of 12/11/2023"  >
+      <Shell
+        pageURL="/vaccinations"
+        title="Vaccinations"
+        subtitle="as of 12/11/2023"
+      >
         <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-5">
           <StatCard
             name="% of OC Population Vaccinated"
@@ -81,13 +45,12 @@ export default function Vaccinations() {
           />
         </div>
         <Break />
-        <div className="">
-          <ChartController data={doseHistory} />
+        <div className="grid gap-4 xl:grid-cols-2 ">
+          <TabChartController data={vaxTabs} />
+          <TabChartController data={vaxDemoTabs} zoomDisabled />
         </div>
         <Break />
-        <div className="">
-          <TabChartController data={vaxTabs} zoomDisabled/>
-        </div>
+        <MapController mapTitle="Fully Vaccinated % by Race" mapOptions={mapOptions} />
       </Shell>
     </main>
   );

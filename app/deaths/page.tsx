@@ -46,7 +46,7 @@ export default function Deaths() {
         </div>
 
         <Break />
-        <MapController mapOptions={mapOptions} />
+        <MapController mapTitle="Death Data by City/Zip" mapOptions={mapOptions} />
       </Shell>
     </main>
   );

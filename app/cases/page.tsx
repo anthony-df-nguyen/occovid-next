@@ -47,7 +47,7 @@ export default function Home() {
         </div>
 
         <Break />
-        <MapController mapOptions={mapOptions} />
+        <MapController mapTitle="Case Data per City/Zip" mapOptions={mapOptions} />
       </Shell>
     </main>
   );

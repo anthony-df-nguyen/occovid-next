@@ -3,16 +3,18 @@ import { Popup } from "react-leaflet";
 import { CountySourceDataGeoJSON } from "@/data/source/types";
 import PopUpContent from "../PopUpContent";
 import { PopupStats } from "../PopUpContent";
-import { relativeColors } from "../utils/relativeColors";
+import { generateColors } from "../utils/relativeColors";
 import { KeyValuePair } from "tailwindcss/types/config";
 
 type Props = {
   data: CountySourceDataGeoJSON[];
   metric: string;
   popupContent: KeyValuePair;
+  bias: "high_is_bad" | "high_is_good";
+  scale: "relative" | "percent";
 };
 
-const BuildGeoJson = ({ data, metric, popupContent }: Props) => {
+const BuildGeoJson = ({ data, metric, popupContent, bias, scale }: Props) => {
   let valueArray: number[] = data.map((key) => key.properties[metric]);
   const maxValue = Math.max(...valueArray);
   const minValue = Math.min(...valueArray);
@@ -32,9 +34,11 @@ const BuildGeoJson = ({ data, metric, popupContent }: Props) => {
       type: "Feature",
       properties: { ...row.properties },
     });
+    //console.log(geoArray)
 
-    const valueForColoring = row.properties[metric]
-    console.log(row.properties.PrimaryKey);
+    const valueForColoring = row.properties[metric];
+    //console.log('valueForColoring: ', valueForColoring);
+    //console.log(row.properties.PrimaryKey);
 
     return (
       <GeoJSON
@@ -44,13 +48,14 @@ const BuildGeoJson = ({ data, metric, popupContent }: Props) => {
         pathOptions={{
           color: "white",
           weight: 1.5,
-          fillColor: relativeColors(
+          fillColor: generateColors(
             valueForColoring,
-            "high_is_bad",
+            bias,
+            scale,
             maxValue,
             minValue
           ),
-          fillOpacity: .4,
+          fillOpacity: 0.4,
         }}
       >
         <Popup key={row.properties.PrimaryKey}>

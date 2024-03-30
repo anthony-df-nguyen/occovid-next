@@ -13,31 +13,35 @@ const Map = dynamic(() => import("./Map"), {
 type MapControllerSchema = {
   tabName: string;
   metric: string;
+  bias: "high_is_bad" | "high_is_good";
   popupStats: KeyValuePair;
-  // data: CountySourceDataGeoJSON[];
-  fetchURL: string,
+  fetchURL: string;
+  scale: "relative" | "percent";
 };
 
 export type MapControllerProps = MapControllerSchema[];
 
 type Props = {
   mapOptions: MapControllerProps;
+  mapTitle: string;
 };
 
-export default function MapController({ mapOptions }: Props) {
+export default function MapController({ mapOptions, mapTitle }: Props) {
   const [activeTab, handleActiveTab] = useState<number>(0);
   const [activeMap, updateActiveMap] = useState<MapControllerSchema>(
     mapOptions[activeTab]
   );
-  const [activeDataset,handleActiveDataset] = useState<any[]>([])
+  const [activeDataset, handleActiveDataset] = useState<any[]>([]);
 
   useEffect(() => {
     let mounted = true;
     const fetchMapData = async () => {
-      const fetchURL = mapOptions[activeTab].fetchURL
-       console.log('fetchURL: ', fetchURL);
-       await fetch(fetchURL).then(res => res.json()).then(data => handleActiveDataset(data))
-    }
+      const fetchURL = mapOptions[activeTab].fetchURL;
+      console.log("fetchURL: ", fetchURL);
+      await fetch(fetchURL)
+        .then((res) => res.json())
+        .then((data) => handleActiveDataset(data));
+    };
     // When user clicks a tab, switch the active map data to the corresponding index and fetch map data
     if (mounted) {
       updateActiveMap(mapOptions[activeTab]);
@@ -50,6 +54,7 @@ export default function MapController({ mapOptions }: Props) {
 
   return (
     <div>
+      <div className="sectionTitle">{mapTitle}</div>
       <Tabs
         label="Select Map"
         tabs={mapOptions.map((opt) => opt.tabName)}
@@ -64,6 +69,8 @@ export default function MapController({ mapOptions }: Props) {
               metric: activeMap.metric,
             }}
             popupMetrics={activeMap.popupStats}
+            bias={activeMap.bias}
+            scale={activeMap.scale}
           />
         </div>
       </Card>

@@ -3,12 +3,12 @@ import { CountySourceData } from "../source/types";
 const data: CountySourceData = require("../source/static_counts/vaccinations/doses.json");
 const timeData: CountySourceData = require("../source/timeseries_data/doses.json");
 import { colors } from "@/components/colors/colors";
-import { SingleSeriesChart, CategoricalChart } from "@/components/charts/utils/types";
-import { ageKeys, sexKeys, raceKeys } from "@/data/transformed/utils/constants";
 import {
-  sortDataByDate,
-  buildDateLabels,
-} from "./utils/helpers";
+  SingleSeriesChart,
+  CategoricalChart,
+} from "@/components/charts/utils/types";
+import { ageKeys, sexKeys, raceKeys } from "@/data/transformed/utils/constants";
+import { sortDataByDate, buildDateLabels } from "./utils/helpers";
 import {
   ageMapping,
   raceMapping,
@@ -25,6 +25,14 @@ const doseHistory = new SingleSeriesChart(
   timeData,
   "valid_admin",
   colors.blue
+);
+
+const totalDoseHistory = new SingleSeriesChart(
+  "Total Doses Administered",
+  dosesLabels,
+  timeData,
+  "cumuVax",
+  colors.green
 );
 
 //Race
@@ -77,6 +85,7 @@ const vaxBySexPercent = new CategoricalChart(
 
 export {
   doseHistory,
+  totalDoseHistory,
   vaxByRace,
   vaxByRacePercent,
   vaxByAge,

@@ -9,12 +9,13 @@ type Props = {
     source: CountySourceDataGeoJSON[];
     metric: string;
   };
-  popupMetrics: KeyValuePair,
+  popupMetrics: KeyValuePair;
+  bias: "high_is_bad" | "high_is_good";
+  scale: "relative" | "percent",
 };
 
-export default function Map({ data, popupMetrics }: Props) {
-  const tileURL =
-    "http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png";
+export default function Map({ data, popupMetrics, bias,scale }: Props) {
+  const tileURL = "http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png";
   return (
     <MapContainer center={[33.68, -117.8]} zoom={10}>
       <TileLayer
@@ -27,6 +28,8 @@ export default function Map({ data, popupMetrics }: Props) {
           data={data.source}
           metric={data.metric}
           popupContent={popupMetrics}
+          bias={bias}
+          scale={scale}
         />
       }
     </MapContainer>

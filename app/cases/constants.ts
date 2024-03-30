@@ -15,8 +15,9 @@ import {
 } from "@/data/transformed/case_breakdown";
 
 export const caseTabs: TabData = [
-  { tabName: "Total Cases", tabData: total_cases_spec },
   { tabName: "Daily Cases", tabData: daily_cases_spec },
+  { tabName: "Total Cases", tabData: total_cases_spec },
+
   // { tabName: "SNFs", tabData: snf_cases },
   // { tabName: "Homeless", tabData: homeless_cases },
   // { tabName: "Jail", tabData: jail_cases },
@@ -39,7 +40,7 @@ export const ZipCaseStats = {
   tot_cas: "Total Cases",
   tot_casrate: "Case Rate",
   pop: "Total Population",
-}
+};
 
 export const mapOptions: MapControllerProps = [
   {
@@ -47,23 +48,31 @@ export const mapOptions: MapControllerProps = [
     metric: "Tot_Cases",
     popupStats: CityCaseStats,
     fetchURL: "/data/geodata/cities/counts_with_shapes.json",
+    bias: "high_is_bad",
+    scale: "relative",
   },
   {
     tabName: "Case Rate by City",
     metric: "CaseRate",
     popupStats: CityCaseStats,
     fetchURL: "/data/geodata/cities/counts_with_shapes.json",
+    bias: "high_is_bad",
+    scale: "relative",
   },
   {
     tabName: "Total Cases by Zip",
     metric: "tot_cas",
     popupStats: ZipCaseStats,
     fetchURL: "/data/geodata/zips/counts_with_shapes.json",
+    bias: "high_is_bad",
+    scale: "relative",
   },
   {
     tabName: "Case Rate by Zip",
     metric: "tot_casrate",
     popupStats: ZipCaseStats,
     fetchURL: "/data/geodata/zips/counts_with_shapes.json",
+    bias: "high_is_bad",
+    scale: "relative",
   },
 ];
