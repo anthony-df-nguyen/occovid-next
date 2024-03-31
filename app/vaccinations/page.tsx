@@ -5,7 +5,8 @@ import summarizedToDates from "@/data/source/static_counts/summarized";
 import TabChartController from "@/components/charts/TabChartController";
 import MapController from "@/components/maps/MapController";
 import Break from "@/components/layout/Break";
-import { vaxDemoTabs, vaxTabs, mapOptions } from "./constants";
+import { vaxDemoTabs, vaxTabs, mapOptions,vaccineTableOptions } from "./constants";
+import TableController from "@/components/table/TableController";
 
 export const metadata: Metadata = {
   title: "OCCOVID | Vaccinations",
@@ -49,9 +50,11 @@ export default function Vaccinations() {
         </div>
         <Break />
         <MapController
-          mapTitle="Fully Vaccinated % by Race"
+          mapTitle="% Fully Vaccinated by Race"
           mapOptions={mapOptions}
         />
+        <Break />
+        <TableController tableTitle="Vaccination Data Table" tableOptions={vaccineTableOptions}/>
       </Shell>
     </main>
   );

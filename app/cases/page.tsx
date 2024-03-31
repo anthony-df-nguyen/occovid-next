@@ -5,7 +5,8 @@ import summarizedToDates from "@/data/source/static_counts/summarized";
 import MapController from "@/components/maps/MapController";
 import TabChartController from "@/components/charts/TabChartController";
 import Break from "@/components/layout/Break";
-import { caseTabs, caseDemoTabs, mapOptions } from "./constants";
+import { caseTabs, caseDemoTabs, mapOptions, caseTableOptions } from "./constants";
+import TableController from "@/components/table/TableController";
 
 export const metadata: Metadata = {
   title: "OCCOVID | Cases",
@@ -51,6 +52,8 @@ export default function Home() {
           mapTitle="Case Data per City/Zip"
           mapOptions={mapOptions}
         />
+        <Break />
+       <TableController tableTitle="Case Data Table" tableOptions={caseTableOptions}/>
       </Shell>
     </main>
   );

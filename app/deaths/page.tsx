@@ -1,11 +1,12 @@
 import Shell from "@/components/layout/Shell";
 import StatCard from "@/components/ui/StatCard";
 import type { Metadata } from "next";
-import { deathTabs, deathDemoTabs, mapOptions } from "./constants";
+import { deathTabs, deathDemoTabs, mapOptions, deathTableOptions } from "./constants";
 import summarizedToDates from "@/data/source/static_counts/summarized";
 import TabChartController from "@/components/charts/TabChartController";
 import MapController from "@/components/maps/MapController";
 import Break from "@/components/layout/Break";
+import TableController from "@/components/table/TableController";
 
 export const metadata: Metadata = {
   title: "OCCOVID | Deaths",
@@ -47,6 +48,8 @@ export default function Deaths() {
 
         <Break />
         <MapController mapTitle="Death Data by City/Zip" mapOptions={mapOptions} />
+        <Break />
+        <TableController tableTitle="Death Data Table" tableOptions={deathTableOptions}/>
       </Shell>
     </main>
   );

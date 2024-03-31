@@ -1,3 +1,4 @@
+const vaxZipData = require("@/public/data/geodata/zips/vaccinations_combined.json");
 import { TabData } from "@/components/charts/TabChartController";
 import { maxYScale } from "@/components/charts/utils/constants";
 import {
@@ -11,6 +12,7 @@ import {
   totalDoseHistory,
 } from "@/data/transformed/vax_breakdown";
 import { MapControllerSchema } from "@/components/maps/types";
+import { TableControllerSchema } from "@/components/table/TableController";
 
 //Charts
 
@@ -122,5 +124,60 @@ export const mapOptions: MapControllerSchema[] = [
     scale: "percent",
     popupStats: vaccineZipStatsHispanic,
     fetchURL: "/data/geodata/zips/vaccinations_combined.json",
+  },
+];
+
+export const vaccineTableOptions: TableControllerSchema = [
+  {
+    tabName: "Vaccinations by Zip Code",
+    data: vaxZipData,
+    colDefs: [
+      {
+        field: "properties.PrimaryKey",
+        headerName: "City",
+        pinned: "left",
+      },
+      {
+        field: "properties.Tot_fullv",
+        headerName: "Fully Vaxed",
+      },
+      {
+        field: "properties.Tot_pop",
+        headerName: "Total Population",
+      },
+      {
+        field: "properties.overall_percent",
+        headerName: "Overall Fully Vaxed %",
+      },
+      {
+        field: "Fully Vaxed by Race",
+        children: [
+          {
+            field: "properties.AsiPI_fullv",
+            headerName: "Asians/PI",
+          },
+          {
+            field: "properties.Black_fullv",
+            headerName: "Black",
+          },
+          {
+            field: "properties.Hisp_fullv",
+            headerName: "Hispanic",
+          },
+          {
+            field: "properties.White_fullv",
+            headerName: "White",
+          },
+          {
+            field: "properties.Oth_fullv",
+            headerName: "Other",
+          },
+          {
+            field: "properties.Unk_fullv",
+            headerName: "Unknown",
+          },
+        ],
+      },
+    ],
   },
 ];

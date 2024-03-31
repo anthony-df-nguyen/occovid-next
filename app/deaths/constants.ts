@@ -1,5 +1,8 @@
+const cityData = require("@/public/data/geodata/cities/counts_with_shapes.json");
+const zipData = require("@/public/data/geodata/zips/counts_with_shapes.json");
 import { TabData } from "@/components/charts/TabChartController";
 import { MapControllerSchema } from "@/components/maps/types";
+import { TableControllerSchema } from "@/components/table/TableController";
 import {
   deathsByAgeBreakdown,
   deathsByRaceBreakdown,
@@ -46,7 +49,7 @@ const zipDeathStats = {
 
 export const mapOptions: MapControllerSchema[] = [
   {
-    tabName: "Total Deaths by City",
+    tabName: "City: Deaths",
     metric: "Tot_Deaths",
     popupStats: cityDeathStats,
     fetchURL: "/data/geodata/cities/counts_with_shapes.json",
@@ -54,7 +57,7 @@ export const mapOptions: MapControllerSchema[] = [
     scale: "relative",
   },
   {
-    tabName: "Death Rate by City",
+    tabName: "City: Deaths per 100k",
     metric: "DeathRate",
     popupStats: cityDeathStats,
     fetchURL: "/data/geodata/cities/counts_with_shapes.json",
@@ -62,7 +65,7 @@ export const mapOptions: MapControllerSchema[] = [
     scale: "relative",
   },
   {
-    tabName: "Total Deaths by Zip",
+    tabName: "Zip: Deaths",
     metric: "tot_dth",
     popupStats: zipDeathStats,
     fetchURL: "/data/geodata/zips/counts_with_shapes.json",
@@ -70,11 +73,60 @@ export const mapOptions: MapControllerSchema[] = [
     scale: "relative",
   },
   {
-    tabName: "Death Rate by Zip",
+    tabName: "Zip: Deaths per 100k",
     metric: "tot_dthrate",
     popupStats: zipDeathStats,
     fetchURL: "/data/geodata/zips/counts_with_shapes.json",
     bias: "high_is_bad",
     scale: "relative",
+  },
+];
+
+export const deathTableOptions: TableControllerSchema = [
+  {
+    tabName: "Cities",
+    data: cityData,
+    colDefs: [
+      {
+        field: "properties.PrimaryKey",
+        headerName: "City",
+        pinned: "left",
+      },
+      {
+        field: "properties.Tot_Deaths",
+        headerName: "Total Deaths",
+      },
+      {
+        field: "properties.Total_Pop",
+        headerName: "Total Population",
+      },
+      {
+        field: "properties.DeathRate",
+        headerName: "Death Rate",
+      }
+    ],
+  },
+  {
+    tabName: "Zip Code",
+    data: zipData,
+    colDefs: [
+      {
+        field: "properties.PrimaryKey",
+        headerName: "Zip",
+        pinned: "left",
+      },
+      {
+        field: "properties.tot_dth",
+        headerName: "Total Deaths",
+      },
+      {
+        field: "properties.pop",
+        headerName: "Total Population",
+      },
+      {
+        field: "properties.tot_dthrate",
+        headerName: "Death Rate",
+      }
+    ],
   },
 ];
