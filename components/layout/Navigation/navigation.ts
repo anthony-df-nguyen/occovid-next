@@ -4,7 +4,7 @@ import {
   BugAntIcon,
   BuildingOffice2Icon,
   UserMinusIcon,
-  BeakerIcon,
+  BeakerIcon,QuestionMarkCircleIcon
 } from "@heroicons/react/24/outline";
 
 type Pages = {
@@ -22,6 +22,10 @@ const pages: Pages[] = [
     name: "Hospitalization",
     href: "/hospitalizations",
     icon: BuildingOffice2Icon,
+  },{
+    name: "Sources/FAQ",
+    href: "/faq",
+    icon: QuestionMarkCircleIcon,
   },
   {
     name: "Donate",
