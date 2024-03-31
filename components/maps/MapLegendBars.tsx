@@ -33,7 +33,7 @@ export default function MapLegendBars({ bands, context, scale }: Props) {
     }
     const newColorArray = [color1, color2, color3, color4, color5];
     handleColors(newColorArray);
-  }, [bands, scale]);
+  }, [bands, scale, context]);
 
   const renderRangeText = (i: number, value: number) => {
     if (i === 0) {

@@ -29,15 +29,17 @@ export default function Vaccinations() {
           <StatCard
             name="Doses Given"
             value={summarizedToDates.totalDoses.num_totalvalid}
-            color="text-red-500"
+            color="text-gray-500"
           />
           <StatCard
-            name="People w/ at Least 1 Dose"
-            value={summarizedToDates.totalDoses.num_atleast1}
+            name="People Fully Vaxed"
+            value={summarizedToDates.totalDoses.num_1st2nd}
+            color="text-blue-500"
           />
           <StatCard
             name="Boosters"
             value={summarizedToDates.totalDoses.num_boosters}
+            color="text-purple-500"
           />
         </div>
         <Break />

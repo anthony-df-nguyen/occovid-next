@@ -59,7 +59,7 @@ export default function MapController({ mapOptions, mapTitle }: Props) {
     return () => {
       mounted = false;
     };
-  }, [activeTab]);
+  }, [activeTab, mapOptions]);
 
   // 2. When the active datasource has changed, run calcs to determine the new legend
   useEffect(() => {
@@ -81,7 +81,7 @@ export default function MapController({ mapOptions, mapTitle }: Props) {
     () => {
       mounted = false;
     };
-  }, [activeDataset]);
+  }, [activeDataset, activeMap.metric, activeMap.scale]);
 
   return (
     <div>
@@ -94,7 +94,11 @@ export default function MapController({ mapOptions, mapTitle }: Props) {
       />
       <Card>
         <div className="flex flex-col lg:flex-row gap-2">
-          <MapLegendBars bands={legendData.bands} context={activeMap.bias} scale={activeMap.scale} />
+          <MapLegendBars
+            bands={legendData.bands}
+            context={activeMap.bias}
+            scale={activeMap.scale}
+          />
           <div className="w-[100%] md:h-min-[500px] h-[60vh] shadow-inset">
             <Map
               data={activeDataset}
