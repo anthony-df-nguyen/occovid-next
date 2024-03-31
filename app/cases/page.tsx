@@ -21,7 +21,7 @@ export default function Home() {
     <main className="">
       <Shell pageURL="/cases" title="Cases" subtitle={asOf}>
         {/* Cases */}
-        <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-4">
+        <div className="grid gap-2 grid-cols-2 lg:grid-cols-4">
           <StatCard
             name="Total Cases"
             value={summarizedToDates.cases.total_cases_repo}
@@ -41,13 +41,16 @@ export default function Home() {
           />
         </div>
         <Break />
-        <div className="grid gap-4 grid-cols-1 md:grid-cols-2">
+        <div className="grid gap-2 grid-cols-1 md:grid-cols-2">
           <TabChartController data={caseTabs} />{" "}
           <TabChartController data={caseDemoTabs} zoomDisabled />
         </div>
 
         <Break />
-        <MapController mapTitle="Case Data per City/Zip" mapOptions={mapOptions} />
+        <MapController
+          mapTitle="Case Data per City/Zip"
+          mapOptions={mapOptions}
+        />
       </Shell>
     </main>
   );

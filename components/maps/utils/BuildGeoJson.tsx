@@ -3,28 +3,24 @@ import { Popup } from "react-leaflet";
 import { CountySourceDataGeoJSON } from "@/data/source/types";
 import PopUpContent from "../PopUpContent";
 import { PopupStats } from "../PopUpContent";
-import { generateColors } from "../utils/relativeColors";
-import { KeyValuePair } from "tailwindcss/types/config";
+import { handleColor } from "../utils/relativeColors";
+import { MapComponentProps, Bands } from "../types";
 
-type Props = {
-  data: CountySourceDataGeoJSON[];
-  metric: string;
-  popupContent: KeyValuePair;
-  bias: "high_is_bad" | "high_is_good";
-  scale: "relative" | "percent";
-};
-
-const BuildGeoJson = ({ data, metric, popupContent, bias, scale }: Props) => {
-  let valueArray: number[] = data.map((key) => key.properties[metric]);
-  const maxValue = Math.max(...valueArray);
-  const minValue = Math.min(...valueArray);
-
+const BuildGeoJson = ({
+  data,
+  metric,
+  popupMetrics,
+  bias,
+  scale,
+  legend,
+}: MapComponentProps) => {
   return data.map((row, i) => {
     let popupValues: PopupStats = {};
 
-    Object.keys(popupContent).forEach((key, i) => {
-      popupValues[popupContent[key]] = row.properties[key];
-      valueArray.push(row.properties[metric]);
+    //Build the popup stats my mapping matching data
+    Object.keys(popupMetrics).forEach((key, i) => {
+      popupValues[popupMetrics[key]] = row.properties[key];
+      //valueArray.push(row.properties[metric]);
     });
 
     let geoArray = [];
@@ -34,11 +30,8 @@ const BuildGeoJson = ({ data, metric, popupContent, bias, scale }: Props) => {
       type: "Feature",
       properties: { ...row.properties },
     });
-    //console.log(geoArray)
 
     const valueForColoring = row.properties[metric];
-    //console.log('valueForColoring: ', valueForColoring);
-    //console.log(row.properties.PrimaryKey);
 
     return (
       <GeoJSON
@@ -48,13 +41,7 @@ const BuildGeoJson = ({ data, metric, popupContent, bias, scale }: Props) => {
         pathOptions={{
           color: "white",
           weight: 1.5,
-          fillColor: generateColors(
-            valueForColoring,
-            bias,
-            scale,
-            maxValue,
-            minValue
-          ),
+          fillColor: handleColor(valueForColoring, bias, scale, legend.bands),
           fillOpacity: 0.4,
         }}
       >

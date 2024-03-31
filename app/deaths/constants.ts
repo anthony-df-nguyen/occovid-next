@@ -1,5 +1,5 @@
 import { TabData } from "@/components/charts/TabChartController";
-import { MapControllerProps } from "@/components/maps/MapController";
+import { MapControllerSchema } from "@/components/maps/types";
 import {
   deathsByAgeBreakdown,
   deathsByRaceBreakdown,
@@ -44,7 +44,7 @@ const zipDeathStats = {
   pop: "Total Population",
 };
 
-export const mapOptions: MapControllerProps = [
+export const mapOptions: MapControllerSchema[] = [
   {
     tabName: "Total Deaths by City",
     metric: "Tot_Deaths",

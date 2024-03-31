@@ -1,6 +1,7 @@
 const youth = require("@/public/data/geodata/zips/vaccinations_less_65.json");
 const old: any[] = require("@/public/data/geodata/zips/vaccinations_65_up.json");
-
+ 
+//@ts-ignore
 let combined = [];
 
 const join = (zip: number, key: string, youthValue: number) => {
@@ -35,5 +36,3 @@ youth.forEach(
     combined.push(newObj);
   }
 );
-
-console.log("Combined: ", combined)

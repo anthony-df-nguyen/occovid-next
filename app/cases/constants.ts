@@ -1,5 +1,5 @@
 import { TabData } from "@/components/charts/TabChartController";
-import { MapControllerProps } from "@/components/maps/MapController";
+import { MapControllerSchema } from "@/components/maps/types";
 import {
   total_cases_spec,
   daily_cases_spec,
@@ -42,7 +42,7 @@ export const ZipCaseStats = {
   pop: "Total Population",
 };
 
-export const mapOptions: MapControllerProps = [
+export const mapOptions: MapControllerSchema[] = [
   {
     tabName: "Total Cases by City",
     metric: "Tot_Cases",

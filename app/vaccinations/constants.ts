@@ -10,7 +10,7 @@ import {
   doseHistory,
   totalDoseHistory,
 } from "@/data/transformed/vax_breakdown";
-import { MapControllerProps } from "@/components/maps/MapController";
+import { MapControllerSchema } from "@/components/maps/types";
 
 //Charts
 
@@ -82,7 +82,7 @@ const vaccineZipStatsWhite = {
   white_percent: "% Fully Vaccinated",
 };
 
-export const mapOptions: MapControllerProps = [
+export const mapOptions: MapControllerSchema[] = [
   {
     tabName: "All Races",
     metric: "overall_percent",

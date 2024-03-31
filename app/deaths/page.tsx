@@ -20,7 +20,7 @@ export default function Deaths() {
     <main className="">
       <Shell pageURL="/deaths" title="Deaths" subtitle={asOf}>
         {/* Cases */}
-        <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-4">
+        <div className="grid gap-2 grid-cols-2 lg:grid-cols-4">
           <StatCard
             name="Total Deaths"
             value={summarizedToDates.deaths.total_dth_date}
@@ -40,7 +40,7 @@ export default function Deaths() {
           />
         </div>
         <Break />
-        <div className="grid gap-4 grid-cols-1 md:grid-cols-2">
+        <div className="grid gap-2 grid-cols-1 md:grid-cols-2">
           <TabChartController data={deathTabs} />
           <TabChartController data={deathDemoTabs} zoomDisabled />
         </div>

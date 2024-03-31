@@ -1,20 +1,16 @@
 "use client";
-import { MapContainer, TileLayer, Popup, GeoJSON } from "react-leaflet";
+import { MapContainer, TileLayer } from "react-leaflet";
 import BuildGeoJson from "./utils/BuildGeoJson";
-import { CountySourceDataGeoJSON } from "@/data/source/types";
-import { KeyValuePair } from "tailwindcss/types/config";
+import { MapComponentProps } from "./types";
 
-type Props = {
-  data: {
-    source: CountySourceDataGeoJSON[];
-    metric: string;
-  };
-  popupMetrics: KeyValuePair;
-  bias: "high_is_bad" | "high_is_good";
-  scale: "relative" | "percent",
-};
-
-export default function Map({ data, popupMetrics, bias,scale }: Props) {
+export default function Map({
+  data,
+  metric,
+  popupMetrics,
+  bias,
+  scale,
+  legend,
+}: MapComponentProps) {
   const tileURL = "http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png";
   return (
     <MapContainer center={[33.68, -117.8]} zoom={10}>
@@ -25,11 +21,12 @@ export default function Map({ data, popupMetrics, bias,scale }: Props) {
       />
       {
         <BuildGeoJson
-          data={data.source}
-          metric={data.metric}
-          popupContent={popupMetrics}
+          data={data}
+          metric={metric}
+          popupMetrics={popupMetrics}
           bias={bias}
           scale={scale}
+          legend={legend}
         />
       }
     </MapContainer>

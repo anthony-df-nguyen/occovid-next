@@ -45,7 +45,7 @@ export default function Hospitalizations() {
         title="Hospitalizations"
         subtitle={asOf}
       >
-        <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-4">
+        <div className="grid gap-2 grid-cols-2 md:grid-cols-2 lg:grid-cols-4">
           <StatCard
             name="Peak Non-ICU"
             value={summarizedToDates.hospitalized.peakHospital}
@@ -67,13 +67,13 @@ export default function Hospitalizations() {
             color="text-red-500"
           />
         </div>
-        <div className="mt-4 grid gap-4 md:grid-cols-2 lg:grid-cols-2">          <StatCard
-            name="Avg % Hospitalized Vaccinated"
+        <div className="mt-2 grid gap-2 md:grid-cols-2 lg:grid-cols-2">          <StatCard
+            name="Avg % of Hospitalized Vaccinated"
             value={summarizedToDates.hospitalized.perVaxedOfHospital}
             color="text-green-500"
           />
           <StatCard
-            name="Avg % Hospitalized Unvaccinated "
+            name="Avg % of Hospitalized Unvaccinated "
             value={summarizedToDates.hospitalized.perUnvaxedOfHospital}
             color="text-orange-500"
           /></div>

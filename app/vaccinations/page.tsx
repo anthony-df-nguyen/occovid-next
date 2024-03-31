@@ -20,14 +20,14 @@ export default function Vaccinations() {
         title="Vaccinations"
         subtitle="as of 12/11/2023"
       >
-        <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-5">
+        <div className="grid gap-2 grid-cols-2 md:grid-cols-4">
           <StatCard
-            name="% of OC Population Vaccinated"
+            name="% Vaccinated"
             value={summarizedToDates.totalDoses.oc_pop_fully_vaxed}
             color="text-green-500"
           />
           <StatCard
-            name="Total Doses Administered"
+            name="Doses Given"
             value={summarizedToDates.totalDoses.num_totalvalid}
             color="text-red-500"
           />
@@ -36,21 +36,20 @@ export default function Vaccinations() {
             value={summarizedToDates.totalDoses.num_atleast1}
           />
           <StatCard
-            name="1st and 2nd Shot"
-            value={summarizedToDates.totalDoses.num_1st2nd}
-          />
-          <StatCard
             name="Boosters"
             value={summarizedToDates.totalDoses.num_boosters}
           />
         </div>
         <Break />
-        <div className="grid gap-4 xl:grid-cols-2 ">
+        <div className="grid gap-2 grid-cols-1 xl:grid-cols-2 ">
           <TabChartController data={vaxTabs} />
           <TabChartController data={vaxDemoTabs} zoomDisabled />
         </div>
         <Break />
-        <MapController mapTitle="Fully Vaccinated % by Race" mapOptions={mapOptions} />
+        <MapController
+          mapTitle="Fully Vaccinated % by Race"
+          mapOptions={mapOptions}
+        />
       </Shell>
     </main>
   );

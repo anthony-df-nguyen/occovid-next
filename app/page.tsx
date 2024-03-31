@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main className="">
       <Shell pageURL="/" title="Summary">
-        <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-2">
+        <div className="grid gap-2 grid-cols-2 lg:grid-cols-2">
           <StatCard
             name="Total Cases"
             value={summarizedToDates.cases.total_cases_repo}
@@ -18,6 +18,9 @@ export default function Home() {
             color="text-red-500"
             href="/deaths"
           />
+           
+        </div>
+        <div className="mt-2 grid gap-2 grid-cols-1 lg:grid-cols-2">
                     <StatCard
             name="% Population Vaccination"
             value={summarizedToDates.totalDoses.oc_pop_fully_vaxed}

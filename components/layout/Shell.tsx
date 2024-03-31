@@ -54,7 +54,7 @@ export default function Shell({ children, pageURL, title, subtitle }: Props) {
           </div>
 
           {/* Main Content */}
-          <main className="py-10">
+          <main className="py-8">
             <div className="px-4 sm:px-6 lg:px-8">{children}</div>
           </main>
         </div>

@@ -14,10 +14,10 @@ export default function StatCard({ name, value, color, href }: Props) {
   return (
     <Link href={href ? href : ""}>
       <Card>
-        <dt className="truncate text-sm font-medium text-gray-500">{name}</dt>
+        <dt className="truncate text-xs font-medium text-gray-500">{name}</dt>
         <dd
           className={classNames(
-            "mt-1 text-3xl font-semibold tracking-tight",
+            "mt-1 text-md md:text-3xl font-semibold tracking-tight",
             color
           )}
         >
