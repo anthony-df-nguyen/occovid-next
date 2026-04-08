@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+A free, mobile-first COVID-19 dashboard for Orange County, CA — built and maintained solo from April 2020 through the pandemic.
 
-## Getting Started
+**[[occovid.com](https://occovid.com)](https://occovid.vercel.app/)** | Built with Next.js, React, Tailwind CSS
 
-First, run the development server:
+## Why I Built This
+  
+At the beginning of the pandemic, Orange County did not provide a comprehensive or mobile-friendly dashboard. The county posted daily numbers but no aggregate view showing how the pandemic was evolving. I started manually tracking the numbers in a spreadsheet and publishing static dashboards in Google Slides, sharing them on Reddit and Twitter with local communities.
+  
+Within a week, the dashboards were getting consistent daily traffic — including visits from county officials. It became clear that Google Slides wouldn't scale as the data grew, and the experience on mobile was poor. So I built a real site.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Achievements
+- **800,000+ total page views** with ~50,000 returning users at peak
+- Featured on local radio stations and school interviews
+- Received multiple unsolicited offers to place ads on the site, which I declined to keep it free for the community
+  
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Key Features
+- Time-based visualizations for each key COVID metric tracked by the county
+- Map-based views displaying case rates, deaths, and vaccination data by city and zip code
+- Push notification system allowing users to subscribe to alerts when new daily numbers were published
+- Fully responsive, mobile-first design
+- Archived data ensuring the dashboard remains accessible after live data sources went offline  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## How It Was Built
+I launched the first version within two weeks of starting the project, beginning with only HTML and CSS and picking up JavaScript along the way. As the site grew in complexity and user base, I rebuilt it from the ground up in React in under a week after self-teaching the framework. It was later refactored to Next.js and Tailwind CSS as I adopted those technologies.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+During the site's active lifecycle, I integrated a third-party API to pull live county data daily and built a pipeline to archive that data over time.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## Community Engagement
+Throughout the project I used Twitter and Reddit to keep local residents informed about new data and site features. That same community became an active feedback loop — filing bug reports, suggesting new data sources, and requesting specific visualizations. The push notification system came directly from user requests as the daily audience grew.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+  
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Tech Stack
+  Next.js, React, Tailwind CSS, JavaScript, Leaflet.js, Chart.JS, REST API integration
