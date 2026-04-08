@@ -1,7 +1,7 @@
 # OCCOVID
 A free, mobile-first COVID-19 dashboard for Orange County, CA — built and maintained solo from April 2020 through the pandemic.
 
-**[[occovid.com](https://occovid.com)](https://occovid.vercel.app/)** | Built with Next.js, React, Tailwind CSS
+**https://occovid.vercel.app/** | Built with Next.js, React, Tailwind CSS
 
 ## Why I Built This
   
